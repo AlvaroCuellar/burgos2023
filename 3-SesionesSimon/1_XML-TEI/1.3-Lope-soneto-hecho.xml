@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-stylesheet type="text/css" href="visualize-tei-xml.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ejercicio de Codificación de un soneto</title>
+            <editor></editor>
+            <author></author>            
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Lope de Vega Carpio, La niña de la plata, Doze comedias de Lope de Vega: sacadas de sus originales por él mismo, Madrid, 1617.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><editorialDecl><normalization><p>blablabla</p></normalization></editorialDecl></encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+      <sp>
+      <speaker>Chacón</speaker>
+      <l part="I">Va el soneto</l>
+      </sp>
+      <sp>
+      <speaker>Leonelo</speaker>
+      <l part="F">Di el sujeto</l>
+      </sp>
+      <sp>
+      <speaker>Chacón</speaker>
+      <l>En el mesmo está el sujeto.</l>
+         <lg type="soneto">
+            <lg type="cuarteto">
+               <l n="1">Un soneto me manda Violante,</l>
+               <l n="2">que en mi vida me he visto en tanto aprieto,</l>
+               <l n="3">catorce versos dicen que es soneto;</l>
+               <l n="4">burla burlando van los tres delante.</l>
+            </lg>
+
+            <lg type="cuarteto">
+               <l n="5">Yo pensé que no hallara consonante,</l>
+               <l n="6">y estoy a la mitad de otro cuarteto;</l>
+               <l n="7">mas si me veo en el primer terceto,</l>
+               <l n="8">no hay cosa en los cuartetos que me espante.</l>
+            </lg>
+
+            <lg type="terceto">
+               <l n="9">Por el primer terceto voy entrando,</l>
+               <l n="10">y parece que entré con pie derecho,</l>
+               <l n="11">pues fin con este verso te voy dando.</l>
+            </lg>
+            
+            <lg type="terceto">
+               <l n="12">Ya estoy en el segundo, y aun sospecho</l>
+               <l n="13">que voy los trece versos acabando;</l>
+               <l n="14">contad si son catorce, y está hecho.</l>
+            </lg>
+         </lg>
+         </sp>
+         <sp>
+         <speaker>Leonelo</speaker>
+         <l>¿Cuyo pudiera ser tal desatino?</l>
+         </sp>
+      </body>
+   </text>
+</TEI>

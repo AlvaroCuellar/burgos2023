@@ -1,0 +1,4221 @@
+<a>Pedro Calderón de la Barca
+<t>El galán fantasma
+<g>Comedia
+<s>de capa y espada
+<o>Edición digital a partir de la edición de Santiago Fernández Mosquera. Segunda Parte de comedias. Dirección de Luis Iglesias Feijoo. Madrid: Fundación José Antonio de Castro, 2007.
+<f>1630-1633
+<el>ASTOLFO, primer galán.*CARLOS.*EL DUQUE.*JULIA, primera dama.*ENRIQUE, barba.*CANDIL, gracioso.*LAURA, dama.*LEONELO.*OTAVIO.*PORCIA, criada.*LUCRECIA, criada.
+<j>1
+<i>Salen JULIA, dama, PORCIA, criada, con mantos, y detrás ASTOLFO.
+ASTOLFO
+	De vuestras señas llamado,
+	de vuestra voz advertido,
+	hasta el campo os he seguido
+	ciego, confuso y turbado.
+	Sacad, pues, deste cuidado,
+	señora, el discurso mío:
+	si es por dicha desafío
+	y estamos en buen lugar,
+	bien podéis desenvainar
+	el garbo, el donaire, el brío,
+	que son las armas que vos
+	habéis contra mi desvelo
+	de esgrimir en este duelo.
+	Solos estamos los dos:
+	descubríos ya, por Dios;
+	sepa quién sois, que no es bien
+	matar con ventaja a quien
+	de vos se ha fiado hoy.
+JULIA
+	Pues no dudéis más; yo soy.
+ASTOLFO
+	¡Julia, señora, mi bien!
+	¡Tú en este traje! ¡Tú aquí!
+	¿Qué dicha o desdicha es mía?
+	Que si una duda tenía
+	sin verte, cuando te vi
+	son infinitas. ¡Tú así
+	has salido de tu casa!
+	El corazón se me abrasa.
+	¡Dime, por Dios, lo que ha sido!
+	¿Qué es esto? ¿Qué ha sucedido?
+JULIA
+	Oye y sabrás lo que pasa.
+	Astolfo, en quien la fortuna
+	y el amor vieron iguales
+	por descubrirse uno a otro
+	los gustos y los pesares,
+	no la novedad te admire,
+	no la estrañeza te espante
+	de verme, siendo quien soy,
+	venir en aqueste traje,
+	porque, importando a tu vida
+	el verte, ¡ay de mí!, el hablarte,
+	no hay respeto que no venza,
+	no hay decoro que no allane.
+	Tu vida importa, tu vida,
+	que hoy te vea y hoy te hable;
+	y así, pasando al oído
+	la admiración del semblante,
+	oye el peligro en que vives,
+	aunque mezcle en un instante
+	las desventuras que miras
+	con las venturas que sabes.
+	Dos años ha, Astolfo mío,
+	que, firme y rendido amante
+	de mi hermosura –que quiero
+	confesarla en esta parte–,
+	fuiste de día y de noche
+	la estatua de mis umbrales,
+	el girasol de mis rayos
+	y la sombra de mi imagen,
+	tantos ha que agradecida
+	y que obligada a las partes
+	de lo sutil de tu ingenio,
+	de lo galán de tu talle,
+	de lo airoso de tu brío,
+	de lo ilustre de tu sangre,
+	respondí menos ingrata
+	que debiera aconsejarme
+	el decoro de mi amor,
+	el respeto de mi padre,
+	si bien decoro y respeto
+	no pudieron agraviarse
+	de que torpes sacrificios
+	sus sagradas aras manchen,
+	siendo yo tu esposa, pues
+	la causa de dilatarse
+	nuestra boda fue el rigor
+	de aquellas enemistades
+	que a mi padre le costaron
+	tanto que, largas edades
+	enterrado antes que muerto,
+	tuvo su casa por cárcel,
+	adonde preso murió.
+	Pero esto en silencio pase
+	y volvamos a enlazar
+	discursos de amor; no hallen
+	digresiones mis desdichas,
+	que su remedio embaracen.
+	Agradecida, en efeto,
+	de tus finezas constantes,
+	cómplice a la noche hice
+	de hurtos de amor agradables
+	y cómplice hice un jardín,
+	que a los dos quise fiarme,
+	porque al jardín y a la noche,
+	que son el vistoso alarde
+	ya de estrellas, ya de flores,
+	hiciera mal en negarles
+	a las unas lo que influyen
+	y a las otras lo que saben.
+	Viento en popa nuestro amor
+	navegaba hermosos mares
+	de rayos y de matices,
+	quieto el golfo y manso el aire.
+	¿Quién duda, quién, que han de ser
+	los celos los huracanes
+	que la tormenta despierten,
+	que la mareta levanten?
+	El gran duque Federico
+	de Sajonia, que Dios guarde
+	–o que no le guarde Dios,
+	si ha de ser para quitarme
+	mi media vida en la tuya–,
+	acaso me vio una tarde
+	que al mar a verte salí
+	–barbarismo de amor grande,
+	salir a ver y ser vista,
+	pues mal gramático sabe
+	persona hacer que padece
+	de la persona que hace–.
+	Viome, en fin, y desde entonces
+	firme, rendido y constante,
+	si de día me visita,
+	de noche ronda mi calle.
+	Hartos enojos te cuesta
+	su cuidado vigilante;
+	mas como querido, en fe
+	de mis disculpas, trocaste
+	tus celos a mis favores;
+	no es mucho, si otros galanes,
+	por llegar al desenojo,
+	pasaran por el desaire.
+	Viendo el Duque que mi pecho
+	a los continuos embates
+	de lágrimas y suspiros
+	era roca de diamante,
+	pasando de enamorados
+	a celosos sus pesares,
+	averiguó que te quiero
+	–no sé a quién la culpa darle,
+	a sus celos o a mi amor,
+	pues ellos dos fueron parte
+	a decir lo que no hay
+	amor ni celos que callen–.
+	En fin, sabiendo, ¡ay de mí!,
+	que eres tú, ¡desdicha grande!,
+	la ocasión de sus desprecios,
+	la causa de mis desaires,
+	para vengarse de mí
+	en ti pretende vengarse,
+	matándome a mí en tu pecho.
+	¡Oh, duelo de amor cobarde,
+	disponer que un hombre muera
+	por que una mujer agravie!
+	Poderoso y ofendido,
+	¿quién ignora, quién no sabe,
+	que es rayo oprimido, que es
+	pólvora encerrada, que hace
+	en la mayor resistencia
+	la batería más grande?
+	Los avisos destos días
+	que tan confuso te traen,
+	diciéndote que te ausentes,
+	diciéndote que te guardes,
+	suyos son; pero, sabiendo
+	que dellos desprecios haces,
+	esta misma noche, esta,
+	te esperan para matarte.
+	Y así te ruego que no
+	vayas a verme, ni pases
+	cubierto ni descubierto
+	la esfera de mis umbrales.
+	Deja que por unos días,
+	sin que allí puedan toparte,
+	se desmienta en la sospecha,
+	salga su recelo en balde.
+	Y, pues que yo vengo así
+	a persuadirte, a rogarte,
+	Astolfo, que no me veas,
+	esposo, que no me hables,
+	menos harás tú en hacello;
+	y, pues en estremos tales
+	yo ruego lo más difícil,
+	concede tú lo más fácil.
+ASTOLFO
+	No sé cómo responder,
+	que no sé en acciones tales
+	si tengo qué agradecerte
+	o tengo de qué quejarme.
+	De una venenosa yerba
+	escriben los naturales
+	que donde hay llaga, la cura
+	y donde no la hay, la hace.
+	Este mismo efeto, este
+	quieres que en mi pecho cause
+	tu voz, pues, si cuando estoy
+	herido de tantos males
+	suele curarme el dolor
+	solamente el escucharte,
+	hoy que tuve sano el pecho
+	le hieres para que labre
+	tu voz agora la herida
+	que hubieras curado antes,
+	que, a imitación de la yerba,
+	las disculpas entre amantes
+	adonde hay celos, las curan,
+	donde no los hay, las hacen.
+	Y, si quieres darme vida,
+	no de darme celos trates,
+	pues son piadosos rigores
+	o rigurosas piedades
+	darme tú misma la muerte
+	por que otro no me mate.
+	Dejárasme morir, Julia,
+	a su acero penetrante,
+	no a tu penetrante voz;
+	viviera más el instante
+	que hay de tu voz a su acero;
+	que no es, no, piedad afable,
+	por que su espada no llegue,
+	que la tuya se adelante.
+	Fuera de que no remedias
+	nada tú en aconsejarme
+	que no te vea, supuesto
+	que el decirme que no pase
+	de noche por tus jardines
+	ni de día por tu calle
+	es decirme que no salga
+	dellas un punto, un instante.
+	¡Vive Dios, que he de saber
+	si el cuidado que te trae
+	a que tu casa no vea
+	y a que tu jardín no ande
+	es porque de tu jardín
+	y de tu casa las llaves
+	rendiste a mayor poder
+	y a mayor fuerza entregaste!
+	Perdona desconfianza,
+	Julia mía, tan cobarde,
+	siendo quien eres y siendo
+	yo quien soy, y no te espantes,
+	que esto de andar desvalido
+	lo augusto, Julia, lo grande,
+	es bueno para las farsas
+	españolas, donde nadie
+	vio querido al poderoso.
+	Nada llega a aventurarse
+	en esto, pues o es mentira
+	o es verdad dolor tan grave.
+	Si es mentira, ¿qué aventuras
+	tú en que yo me desengañe?
+	Y si es verdad, ¿qué aventuro
+	yo en que allí el Duque me halle?
+	Pues el que me diere celos
+	no importará que me mate.
+JULIA
+	Astolfo, señor, bien mío,
+	¡que desa manera agravies
+	las finezas de mi amor!
+ASTOLFO
+	Quererte no es agraviarte.
+JULIA
+	¿Quién te ha dicho que es quererme
+	el querer aventurarte?
+ASTOLFO
+	Quien dice que no hay peligro
+	que a los celos acobarde.
+JULIA
+	Pues ¿qué viene esta fineza
+	a deberte?
+ASTOLFO
+		No olvidarte.
+JULIA
+	Cuanto más me obligas, más
+	me obligas a que te guarde,
+	y aquesto has de hacer por mí.
+ASTOLFO
+	Detente, Julia, y no en balde
+	tantas perlas desperdicies
+	y tanto aljófar derrames,
+	que yo quiero obedecerte.
+	Digo que saldré esta tarde
+	de Sajonia, antes que el sol,
+	que ya entre pardos celajes
+	se desvanece en las ondas,
+	su dorado coche bañe.
+	Será la mayor fineza
+	volver la espalda, pues nadie
+	es más valiente que aquel
+	que con celos es cobarde.
+	¿Quieres más, Julia?
+JULIA
+		Ni tanto,
+	que no quiero yo que pase
+	de estremo a estremo tu amor.
+CARLOS
+<i>Dentro.
+	Echa por aquesta parte.
+JULIA
+	¡Ay de mí, que viene gente
+	y no es bien que aquí me hallen!
+ASTOLFO
+	Pues vete, que yo me quedo
+	a que no te siga nadie.
+	Pero dime: ¿en qué quedamos?
+JULIA
+	En quererte mis pesares
+	retirado, mas no ausente.
+<i>Vase Julia.
+ASTOLFO
+	¿Habrá quien nivele y tase
+	las acciones de un celoso,
+	los discursos de un amante?
+<i>Salen Carlos y Candil.
+CANDIL
+	Aquí está mi señor.
+CARLOS
+		Dadme los brazos,
+	que de eterna amistad han de ser lazos
+	que ciñan nuestros cuellos.
+ASTOLFO
+	Y el alma y vida en ellos.
+CARLOS
+	Díjome ese criado,
+	preguntando por vos, cómo llamado
+	de una tapada fuistes
+	y que tras ella a este lugar salistes;
+	y, como receloso
+	estoy de vuestra vida y cuidadoso
+	por las necias porfías
+	de los muchos avisos destos días,
+	loco buscándoos vengo.
+ASTOLFO
+	Es nueva obligación, Carlos, que os tengo;
+	mas, aunque os tray tras mí vuestro cuidado
+	con tanta priesa, tarde habéis llegado
+	a este verde desierto
+	a darme vida, porque ya estoy muerto.
+CANDIL
+	¿Estás por dicha herido?
+ASTOLFO
+	¡Pluguiera a Dios!
+CARLOS
+		Pues ¿qué os ha sucedido?
+ASTOLFO
+	Haber, Carlos, llegado
+	a estar de mi temor desengañado;
+	haber sabido mi infelice suerte
+	quién es, quién solicita, ¡ay, Dios!, mi muerte.
+CARLOS
+	Más debiera, si llega a descubrirse,
+	aqueso agradecerse que sentirse.
+ASTOLFO
+	¡Ay, Carlos! No debiera
+	si es tal el golpe que mi pecho espera
+	que sin defensa alguna
+	se ha de dejar llevar de su fortuna.
+CARLOS
+	Ahora estoy más dudoso.
+	¿Quién es el enemigo?
+ASTOLFO
+		Un poderoso.
+CARLOS
+	Y el rigor que procura,
+	¿quién le ha dado ocasión?
+ASTOLFO
+		Una hermosura.
+CARLOS
+	O mienten mis recelos
+	o esto es de Julia amor, del Duque celos.
+ASTOLFO
+	Fácil era el sentido
+	de mi confusa enigma: el Duque ha sido
+	quien de Julia celoso
+	y quien de mí envidioso
+	desta suerte ausentarme ha procurado,
+	y Julia, temerosa, me ha mandado
+	que los avisos de mi muerte crea,
+	que ni la hable ni vea,
+	porque ya es imposible
+	que entre en su casa yo, ¡pena terrible!,
+	sin que entre, ¡trance fuerte!,
+	tropezando en las sombras de mi muerte.
+CARLOS
+	Pues ¿quién le ha descubierto
+	amor tan recatado y encubierto
+	que sólo ese criado
+	y yo le hemos sabido?
+ASTOLFO
+		A un desdichado,
+	¡ay, Carlos!, ¿quién averiguarle puede
+	por dónde la desdicha le sucede?
+CARLOS
+	Una pregunta quiero
+	haceros.
+ASTOLFO
+		Yo satisfacerla espero.
+CARLOS
+	Julia, ¿qué os ha mandado?
+ASTOLFO
+	Que no la vaya a ver, por el cuidado
+	que ya a sus puertas Federico tiene.
+CARLOS
+	Quedar solos los dos aquí conviene,
+	porque quiero fiaros un secreto
+	que me habéis de guardar.
+ASTOLFO
+		Yo lo prometo.
+	Candil, vuélvete a casa,
+	y en ella esperarás.
+CANDIL
+		(¿Qué es lo que pasa?
+	¿De mí se han recatado
+	el día que está el Duque declarado?
+	Sin duda que han sabido
+	que yo quien le contó su amor ha sido;
+	mas no, que no estuvieran
+	tan apacibles hoy, si lo supieran.
+<i>Vase Candil.
+ASTOLFO
+	En fin, todas mis penas y recelos
+	es que el paso han tomado ya los celos
+	del Duque.
+CARLOS
+		De manera
+	que, si de ver a Julia modo hubiera
+	y pudierais entrar a hablalla y vella
+	y de día y de noche estar con ella,
+	sin que el Duque celoso,
+	aunque siempre ofendido y cuidadoso
+	a la puerta estuviera,
+	ni os viera ni os sintiera,
+	¿aquí vuestro cuidado
+	tuviera fin?
+ASTOLFO
+		Confuso y admirado,
+	esa proposición, Carlos, me tiene,
+	y divertir a un triste no conviene
+	ansí con lo imposible,
+	pues no es posible hacerme a mí invisible.
+CARLOS
+	Oídme, Astolfo, y veréis la amistad mía
+	cuánto de vos, por daros vida, fía.
+	Ya sabéis los grandes bandos,
+	Astolfo, que largo tiempo
+	todo el orbe alborotaron
+	con civiles guerras, siendo
+	Güelfo y Gebellino, dos
+	hermanos, cabezas dellos,
+	por quien, dividida Italia
+	en domésticos encuentros,
+	fueron todos los linajes
+	ya gebellinos, ya güelfos.
+	Ya sabéis cómo a Sajonia
+	llegó este marcial incendio,
+	inficionando las casas
+	más nobles, a cuyo efeto
+	la heredada enemistad
+	aún hoy dura en nuestros pechos
+	por ruina de aquel estrago,
+	por ceniza de aquel fuego.
+	Crotaldo, padre de Julia,
+	que es el divino sujeto
+	que adoráis, en quien juraron,
+	si de otros bandos me acuerdo,
+	aun más imposibles paces
+	la hermosura y el ingenio,
+	tomó la voz de una parte
+	y de la otra parte Arnesto,
+	un deudo mío. No dudo
+	que sepáis a cuánto estremo
+	llegó este enojo en los dos;
+	mas, aunque lo sepáis, quiero
+	referirlo, porque todo
+	importa para el suceso.
+	El día que a Federico,
+	generoso duque nuestro,
+	juró Sajonia por duque,
+	sobre el ocupar los puestos
+	de aquel acto, procurando
+	ser cada uno el primero,
+	en esa eminente plaza
+	se encontraron, cuyo estremo
+	llegó a ser público agravio
+	de uno de los dos; y, puesto
+	que yo tiemblo de decillo,
+	y aun de imaginallo tiemblo,
+	bien se deja ver que fue
+	el agraviado mi deudo.
+	¿Mas para qué disimulo
+	si, balbuciente el afecto,
+	lo que callare la voz
+	lo dirá con el silencio?
+	Diole un bofetón Crotaldo,
+	¡ay de mí!, al anciano Arnesto,
+	en cuya gran confusión,
+	en cuyo notable estruendo,
+	aunque cumplió por entonces
+	desesperado y resuelto,
+	no quedó, a su parecer,
+	para después satisfecho,
+	necedad que hizo el valor
+	mal entendido, pues vemos
+	que no hay agravio delante
+	del que es soberano dueño
+	y ya se sabe que adonde
+	está el príncipe, no hay duelo
+	que a satisfación obligue;
+	mas vive el honor compuesto
+	de una codicia tan fácil
+	que en su opinión, su conceto,
+	bastó haber imaginado
+	que fue agravio para serlo.
+	El Duque, que aún no tenía
+	bien fundado su derecho,
+	disimuló, porque ha sido
+	política de los reinos
+	entrar en ellos piadoso
+	para conservarse en ellos.
+	Y así, por quietar no más
+	las opiniones del pueblo,
+	envió a su casa a Crotaldo,
+	adonde le tuvo preso
+	con tantas guardas que nadie
+	le vio más desde el suceso
+	deste día, o porque fue
+	la prisión con tanto aprieto
+	o porque el temor le tuvo
+	tan guardado y tan secreto.
+	De cuantas desdichas, cuantas
+	miserias, cuantos tormentos
+	padece un hombre infeliz,
+	a ninguno, Astolfo, tengo
+	mayor lástima que a un noble
+	ofendido, en quien contemplo
+	amancillado el honor,
+	mal valido del esfuerzo.
+	Por Arnesto, en fin, lo digo,
+	pues, imaginando Arnesto
+	varios modos de venganzas,
+	entró en mil trajes diversos
+	dentro de su misma casa,
+	pero nunca con efeto.
+	Y para que admiréis cuánto
+	dicta un agravio, dispuesto
+	se vio a hacer paso a su honor,
+	o penetrando o rompiendo
+	las entrañas de la tierra
+	por conseguir su deseo,
+	a pesar de las murallas
+	que se le ponían en medio.
+	Un ingeniero buscó,
+	que, en minar la tierra diestro,
+	facilitase a su agravio
+	lo imposible de su acero
+	y, fiándose de mí,
+	por estar mi casa en puesto
+	más vecino a su esperanza,
+	más conveniente a su intento,
+	el hombre empezó desde ella
+	a designar los modelos
+	con que tocase una mina
+	a su mismo cuarto, que esto
+	era en él fácil, porque
+	era de nación flamenco,
+	escuela donde el valor
+	pelea con el ingenio.
+	Y, nivelando de día
+	las líneas y los tanteos,
+	las cavábamos de noche
+	con recato y con secreto.
+	¿Quién creerá que, trabajando
+	en el más obscuro centro,
+	se enterrase el ofendido
+	por ver a su ofensor muerto?
+	Llegó la mina a su fin,
+	pero no llegó a su efeto,
+	pues el día de la noche
+	que este horrible monstruo griego,
+	para abortarlos en rayos,
+	preñado estaba de acero,
+	por las calles y las plazas
+	confusamente se oyeron,
+	todos hablando en Crotaldo,
+	nuevas de que se había muerto.
+	Quedaron con este caso
+	frustrados nuestros intentos,
+	malogradas nuestras sañas,
+	postrados nuestros deseos,
+	porque el ofendido, ya
+	sin ofensor, conociendo
+	que en una hija no era
+	la venganza de provecho,
+	murió de melancolía
+	dentro de muy poco tiempo,
+	de suerte que, sin que nadie
+	pueda llegar a saberlo,
+	desde mi casa a la casa
+	de Julia una mina tengo,
+	tan fácil hoy de romperse
+	que, como avisada dello
+	esté Julia y sus criadas
+	y con recato y secreto
+	la boca della se oculte,
+	que podréis entrar es cierto
+	y salir desde mi casa
+	hasta su mismo aposento,
+	que es adonde va a tocar,
+	sin que el amor ni los celos
+	del Duque causen temor;
+	pero ha de ser advirtiendo
+	que ha de ser esto con gusto
+	de Julia, porque no quiero
+	que se diga que en su honor
+	infamemente me vengo
+	dando paso a su deshonra,
+	que, como allanéis vos esto,
+	aquí está mi casa, aquí
+	mi vida, Astolfo, y mi pecho,
+	pues para todo es quien es
+	amigo tan verdadero.
+ASTOLFO
+	Dadme mil veces los brazos,
+	y, si mudo os agradezco
+	tanto bien, es porque el caso
+	mudo me tiene y suspenso.
+	Yo hablaré a Julia y de Julia
+	traer licencia os ofrezco;
+	y, pues ya la noche escura
+	estiende su manto negro,
+	iré a avisarla.
+CARLOS
+		Mirad
+	lo que os aventuráis.
+ASTOLFO
+		¿Luego
+	han de matarme esta noche,
+	siendo la última que espero
+	ponerme en esta ocasión?
+CARLOS
+	¿Cómo?
+ASTOLFO
+		Como si yo llego
+	a pedir licencia a Julia
+	de abrir esa mina, es cierto
+	que ha de darla o no ha de darla:
+	si la da, ¿para qué efeto
+	he de volver a arriesgarme,
+	teniendo seguro el riesgo?
+	Si no la da, pensaré
+	que está su amor de concierto
+	con el Duque, pues me quita
+	esa ocasión, y iré huyendo
+	de mis celos, si es que hay donde
+	no sepan de mí mis celos.
+CARLOS
+	A todo he de acompañaros.
+	(Y estas finezas y estremos
+	tome por su cuenta amor,
+	pues el que yo a Laura tengo,
+	hermana de Astolfo, es
+	el que ha franqueado en mi pecho
+	secreto que tantos días
+	tuvo el honor en silencio.)
+<i>Vanse los dos.
+<i>Salen Enrique, viejo, leyendo un papel, y Laura, su hija.
+ENRIQUE
+	¿Quién te dio aqueste papel?
+LAURA
+	Una mujer me le dio
+	tapada que aquí llegó.
+ENRIQUE
+	¡Hay desdicha más cruel!
+	¿No preguntaras quién era?
+LAURA
+	Ya, señor, lo pregunté;
+	mas sólo me dijo que
+	en tu mano te le diera,
+	que una limosna pedía
+	y volvería al instante.
+ENRIQUE
+	¿Quién ha visto semejante
+	confusión como la mía?
+LAURA
+	Parece que te ha traído
+	el papel algún cuidado.
+ENRIQUE
+	Y tan grande que ha causado
+	mil penas a mi sentido,
+	y habrá de morir en ellas.
+LAURA
+	¿No sabré yo la ocasión?
+ENRIQUE
+	Cosas de tu hermano son;
+	¿para qué quieres sabellas?
+LAURA
+	Para sentillas fiel,
+	ya que no puedo servir
+	más, señor, que de sentir.
+ENRIQUE
+	Pues oye, Laura, el papel:
+<i>Lee.
+<p>“Importa que esta noche con prudencia estorbéis a Astolfo que no
+<p>salga de casa, porque le va no menos que la vida”.
+LAURA
+	Justos fueron tus enojos:
+	bien compuesto de cruel
+	rejalgar es el papel
+	el veneno de los ojos.
+ENRIQUE
+	Días ha que desvelado
+	la tristeza me ha traído
+	de Astolfo, y sin duda ha sido
+	nacida deste cuidado.
+	Y no siento, no, ni es bien,
+	su riesgo ni mi pesar,
+	sino que se ha de guardar
+	sin que le digan de quién,
+	que, ¡vive Dios!, si supiera
+	quién es, que se le sacara
+	yo al campo y que cara a cara
+	el disgusto concluyera.
+	Mas decirme que le guarde
+	sin que de quién se me diga
+	bien a presumir me obliga
+	que es su enemigo cobarde.
+	Y esto más mi pecho siente
+	que lo que ha de suceder,
+	porque más se ha de temer
+	a un cobarde que a un valiente.
+	¡Oh, quién supiera, ay de mí,
+	de quién se debe guardar!
+<i>Sale Candil.
+CANDIL
+	(Aquí me manda esperar
+	mi amo en tanto... Mas aquí
+	está el viejo; fruncir quiero
+	el semblante, dando indicio
+	de beato y de novicio.)
+LAURA
+	(Bien dese criado espero
+	que te informes; él quizá
+	advertirá tu dolor.)
+ENRIQUE
+	(Dices bien.) Candil.
+CANDIL
+		Señor.
+ENRIQUE
+	¿Dónde vuestro amo está?
+CANDIL
+	Hacia el parque le he dejado
+	con Carlos, su grande amigo.
+ENRIQUE
+	Siempre, el cielo me es testigo,
+	os tuve por leal criado.
+CANDIL
+	El fidus Acates fue,
+	puesto conmigo, un Vellido.
+ENRIQUE
+	Decidme, pues: ¿qué ha tenido
+	Astolfo? Que yo no sé
+	qué humor inquieto y severo
+	andar tan triste le hace.
+CANDIL
+	Yo lo diré: todo nace
+	de tener poco dinero.
+	Perdió ayer el que tenía,
+	que, a imitación de las gentes,
+	hay barajas maldicientes
+	y dicen mal cada día.
+	Si bien ya cosas se ven,
+	que esto no es lo principal,
+	pues a las que dicen mal
+	hay quien las haga hablar bien.
+	Yo me acuerdo cuando era
+	agravio el decirle a un hombre
+	fullero, porque era nombre
+	que escucharse no debiera
+	sin mentís; pero, después
+	que a ser llegó habilidad,
+	agravio es con más verdad
+	decirle que no lo es.
+	Flores se descubren hartas,
+	sin ser mayo, cada día.
+	¿Qué más que haber fullería
+	al juego de sacar cartas?
+ENRIQUE
+	Decidme, pues: ¿ha tenido
+	por el juego algún disgusto?
+CANDIL
+	Sí, señor, muy grande y justo.
+ENRIQUE
+	¿Pues qué fue?
+CANDIL
+		Haber perdido,
+	que otro no lo supe yo;
+	y, si a él le sucediera,
+	es cierto que le supiera,
+	que de nadie, en fin, fió
+	con más razón que de mí
+	sus disgustos, por saber
+	cuánto le suelo valer
+	en ellos.
+ENRIQUE
+		¿Cómo, si oí
+	que alguna vez que riñó
+	y que presente estuvistes
+	vos, las espaldas volvistes?
+CANDIL
+	Por eso lo digo yo,
+	pues corrió tras mí un tropel,
+	con que la vida le di,
+	pues los que fueron tras mí
+	no le tiraron a él.
+ENRIQUE
+	Decidme –¡oh, quieran los cielos
+	que este desengaño vea!–:
+	¿sirve Astolfo, galantea
+	a alguna dama? ¿Son celos
+	los que triste le han tenido
+	estos días?
+CANDIL
+		¡Qué sutil!
+	Viendo que yo soy Candil,
+	de mí alumbrarte has querido,
+	y así oye cuanto pasa,
+	si a callarlo te reduces,
+	porque quiero hacer dos luces
+	a la calle y a la casa.
+	Astolfo una dama ama
+	y tiene un competidor
+	poderoso, y en rigor
+	hoy la calle de la dama
+	con uno y con otro amante,
+	ya moro, ya paladín,
+	la esfera de su jardín
+	hizo campo de Agramante.
+	Traidor fuera, si callara,
+	sabiendo el riesgo en que está
+	mi señor.
+ENRIQUE
+		Llévame allá,
+	pues ya de luces avara
+	y triste la noche fría,
+	en eclipsado arrebol,
+	las exequias hace al sol,
+	alma y corazón del día.
+	Tú, Laura, si aquí viniere
+	mientras yo le busco, di
+	que no se salga de aquí,
+	que mando yo que me espere.
+LAURA
+	Sí haré. Si a Carlos halláis
+	con él, decid que me vea.
+<i>Esto dice a Candil.
+ENRIQUE
+	Ay hijos, quien os desea
+	no sabe lo que costáis.
+<i>Vanse todos.
+<i>Sale el Duque, Leonelo, Octavio y criados.
+DUQUE
+	En esta noche fría,
+	émula hermosa de la luz del día,
+	de mi venganza espero
+	ver el fin: muera Astolfo, pues yo muero.
+LEONELO
+	Mal hace vuestra Alteza
+	en dar tanto lugar a una tristeza.
+DUQUE
+	¿Es mejor que, ofendido
+	yo de un vasallo, llore aborrecido?
+LEONELO
+	Quien una hermosa dama
+	sin estrella, señor, festeja y ama,
+	no porfíe en querella,
+	que no hay ventura donde falta estrella.
+DUQUE
+	¡Qué error tan recibido
+	de la opinión común, Leonelo, ha sido
+	decir que las estrellas
+	de amor terceras son y que está en ellas,
+	oh, necio desvarío,
+	la primera elección del albedrío!
+OTAVIO
+	Pues ¿quién puede negallo?
+DUQUE
+	Yo, que razones y aun ejemplos hallo
+	contra aquese conceto.
+LEONELO
+		Da uno solo.
+DUQUE
+	Despreciado de Dafnes hable Apolo:
+	si estrella fuera amor, si en él viviera,
+	¿cómo, di, el sol aborrecido fuera,
+	de las estrellas soberano dueño?
+	Luego bien claro enseño
+	que amor no vive en ellas,
+	pues el sol se quejó de las estrellas.
+LEONELO
+	Y, en fin, di: ¿qué has pensado?
+DUQUE
+	No fiar de mi estrella mi cuidado,
+	sino de mi poder y el valor mío,
+	que ellos los polos son de mi albedrío;
+	y así tengo ganada,
+	como el criado de Astolfo, una criada
+	de Julia, que ha de abrir aquesta puerta
+	que para Astolfo suele estar abierta.
+	Y ya que es hora creo
+	de que la seña hurtada a mi deseo
+	haga seguro el paso
+	a este ardor, a este fuego, en que me abraso.
+<i>Da en la reja.
+LEONELO
+	La puerta abren, señor.
+<i>Sale Porcia.
+PORCIA
+		¿Quién es?
+DUQUE
+		Yo he sido.
+PORCIA
+	Y vuestra Alteza sea bien venido,
+	que Julia, conociendo
+	la seña de su amante, presumiendo
+	que él fuese, me ha mandado
+	abrir la puerta, con que se ha cerrado
+	el temor de tu intento y de mi culpa,
+	pues su mismo precepto me disculpa.
+DUQUE
+	Los dos os retirad y con cuidado
+	esa calle guardad.
+<i>Éntranse el Duque y Porcia.
+LEONELO
+		Bien has fiado
+	de los dos tu deseo.
+<i>Salen Astolfo y Carlos.
+ASTOLFO
+	¡Ay Carlos, si es verdad esto que veo!
+	¿Por la puerta no ha entrado
+	un hombre y otros dos se han retirado?
+CARLOS
+	No sé si engaño ha sido,
+	pero a mí que es verdad me ha parecido.
+ASTOLFO
+	¿Para esto, ingrata fiera,
+	fue decirme que a verte no viniera?
+	¡Vive Dios, que he de entrar y...!
+CARLOS
+		Deteneos,
+	que eso es embarazar vuestros deseos;
+	pues siéndolo estorbar vuestros agravios,
+	no lo han de hacer las manos ni los labios
+	desde aquí, pues no es medio ni es venganza,
+	si otro el favor en el jardín alcanza,
+	reñir los dos con estos dos afuera.
+ASTOLFO
+	Pues ¿qué he de hacer en ocasión tan fiera?
+	Mas ya sé qué he de hacer. Allí una reja
+	paso a un balcón me deja,
+	que es de una galería
+	del jardín; guardad vos la espalda mía,
+	mientras me arrojo a él desesperado.
+CARLOS
+	Advertid no sea el Duque ese que ha entrado.
+ASTOLFO
+	Pues eso ¿qué remedia mis desvelos?
+	¿Los duques no dan celos?
+	Fuera de que, si yo lo he presumido,
+	de oírlo a Julia ha sido,
+	y puedo presumir, y justamente,
+	que quien miente el amor, el galán miente.
+CARLOS
+	Con vos vengo y, después de preveniros
+	el riesgo, a todo trance he de seguiros.
+ASTOLFO
+	Pues yo en el jardín entro.
+<i>Éntrase.
+CARLOS
+	Nadie entrará mientras estáis vos dentro.
+<i>Salen el Duque y Porcia.
+PORCIA
+	(Ponte, señor, sobre el rostro
+	el rebozo de la capa,
+	porque pueda hacer mejor
+	el papel de la turbada.)
+	Aquí, señora, está Astolfo.
+<i>Sale Julia.
+JULIA
+	¿Cómo es posible que haya,
+	Astolfo, en un pecho noble
+	tan necia desconfianza?
+	¿A mi casa apenas vuelvo
+	de pedirte que a mi casa
+	no vengas por el temor
+	del Duque, cuando a ella llamas?
+	¡Qué necios celos!
+DUQUE
+		No son
+	muy necios, Julia.
+<i>Descúbrese.
+JULIA
+		¡Turbada
+	estoy! ¡Ay, Porcia! ¿Qué es esto?
+PORCIA
+	Yo, señora, no sé nada.
+	A la seña abrí la puerta;
+	si a ti la seña te engaña,
+	¿qué mucho que a mí me engañe?
+JULIA
+	¡Ay de mí! ¿Qué he de hacer?
+DUQUE
+		Basta,
+	¡oh, Julia!, la turbación,
+	que yo sólo he sido causa
+	a este engaño, porque amor
+	todo es ardides y trazas.
+	No quise más que saber
+	si puerta que tan cerrada
+	está a una fe verdadera
+	se abría a una seña falsa.
+	Ya no me podréis negar
+	–testigos son estas plantas–
+	que sobre tantos avisos
+	Astolfo mi gusto agravia.
+JULIA
+	Señor, señor, esa culpa,
+	aunque hoy esté averiguada,
+	mía es, que no es de Astolfo,
+	pues, creyendo que él llamaba,
+	yo le mandé abrir la puerta:
+	luego en los dos, cosa es clara,
+	si fuera el llamar su culpa
+	y mía hacer que le abran,
+	yo estoy culpada y él no,
+	pues yo le abro y él no llama;
+	que desde el primero día,
+	señor, que por mi desgracia
+	me visitastes, no ha entrado
+	más aquí.
+<i>Entra cayendo Astolfo.
+ASTOLFO
+		¡El cielo me valga!
+DUQUE
+	Pues ¿qué es esto?
+JULIA
+		¡Muerta estoy!
+PORCIA
+	¡Qué desdicha!
+ASTOLFO
+		¡Vida y alma,
+	perdámonos de una vez
+	y no muramos de tantas!
+DUQUE
+	¿Quién va?
+ASTOLFO
+		Un hombre solo.
+DUQUE
+		¿Cómo
+	desta suerte en esta casa
+	entráis?
+ASTOLFO
+		Como vos de esotra.
+DUQUE
+	¿Sabéis quién soy?
+ASTOLFO
+		No sé nada,
+	que a estas horas y a estos celos
+	todas las sombras son pardas.
+DUQUE
+	Pues vuelve por donde entraste.
+ASTOLFO
+	Celos no vuelven la espalda.
+DUQUE
+	Haré que las vuelvas y...
+<i>Riñen.
+JULIA
+	¡Señor, señor!
+DUQUE
+		Suelta, aparta.
+<i>Dentro ruido de espadas.
+PORCIA
+	En la calle, al mismo tiempo,
+	se oyen también cuchilladas.
+ENRIQUE
+<i>Dentro.
+	Yo he de entrar en el jardín.
+CARLOS
+<i>Dentro.
+	Mi brazo esta puerta guarda.
+JULIA
+	Da voces, Porcia.
+DUQUE
+		Hoy verás
+	que es rayo ardiente mi espada.
+ASTOLFO
+	O que estás favorecido
+	y riñes con gran ventaja.
+ENRIQUE
+<i>Dentro.
+	La puerta echaré en el suelo.
+CARLOS
+<i>Dentro.
+	Guárdola yo.
+JULIA
+		¡Pena rara!
+LEONELO
+<i>Dentro.
+	Yo te sabré hacer pedazos.
+PORCIA
+	Luces traeré desta sala.
+JULIA
+	¡Acudid todos!
+ASTOLFO
+		¡Ay, cielos!
+	Muerto soy.
+<i>Cae en el suelo herido y desmayado.
+PORCIA
+		¡Desdicha estraña!
+DUQUE
+	Que aquí no me conocieran
+	fuera de grande importancia.
+<i>Entran todos.
+ENRIQUE
+	Julia, ¿qué es esto?
+JULIA
+		No sé;
+	tu desgracia y mi desgracia.
+	Tu hijo Astolfo –¡muerta estoy!–
+	es –¡qué pena tan tirana!–
+	el que –¡rigurosa estrella!–
+	sobre –¡el aliento me falta!–
+	esas flores –¡qué rigor!–
+	caducas ya –¡qué desgracia!–
+	hizo –¡terrible desdicha!–
+	que con su púrpura y nácar
+	se conviertan en rubís
+	las que fueron esmeraldas.
+	El brazo –¡ay, Dios!– que te ofende,
+	el acero que te agravia,
+	no le sepas, no le sepas,
+	que será doblar las ansias
+	ver posible la desdicha
+	y imposible la venganza.
+ENRIQUE
+	¿Cómo imposible, ay de mí,
+	si este acero y estas canas,
+	Etna de fuego y de nieve,
+	le harán...?
+JULIA
+		Tente, espera, aguarda;
+	no le ofendas, que es el Duque.
+DUQUE
+	Enrique, Enrique, ya basta.
+ENRIQUE
+	Pues vuestra Alteza, señor,
+	¿tanto enojo, furia tanta?
+DUQUE
+	Así mi valor castiga
+	a quien mi valor agravia;
+	y, si mil veces viviera,
+	le diera muerte otras tantas.
+<i>Vase.
+LEONELO
+	¡Qué lastimosa tragedia!
+<i>Vase.
+OTAVIO
+	¡Qué rigurosa desgracia!
+<i>Vase.
+CARLOS
+	¡Qué amigo tan infeliz!
+<i>Vase.
+JULIA
+	¡Qué mujer tan desdichada!
+<i>Vase.
+CANDIL
+	De todo tuve la culpa;
+	tener la pena me falta.
+<i>Vase.
+PORCIA
+	Temblando estoy de temor
+	por ser de su muerte causa.
+<i>Vase.
+ENRIQUE
+	¡Ay, infelice de mí!
+	En pena, en desdicha tanta,
+	pues que me falta en la tierra,
+	denme los cielos venganza.
+<i>Éntrase metiendo el cuerpo de Astolfo.
+<j>2
+<i>Salen Enrique, viejo, y Laura.
+LAURA
+	Hasta que te vi, señor,
+	turbada estuve y suspensa,
+	pendiente el alma de un hilo,
+	ni bien viva ni bien muerta.
+	¿Cómo vienes? ¿Cómo fue
+	este prodigio? ¿Qué intentas?
+	¿Qué pasó? ¿Qué sucedió?
+	No con tal duda me tengas,
+	porque es otra pena aparte
+	vivir dudando una pena.
+ENRIQUE
+	¿Estás sola?
+LAURA
+		Sola estoy;
+	pero cerraré esta puerta.
+ENRIQUE
+	No la cierres, que podrán
+	escucharnos detrás della;
+	que el que quiere decir, Laura,
+	cosas, y más como estas,
+	adonde importa el secreto
+	tanto, hace mal si la cierra,
+	pues no sabe quién le escucha;
+	mejor es dejarla abierta,
+	que yo veo desde aquí
+	a quien sale y a quien entra.
+	Ya te acuerdas de la noche
+	que, tantas veces funesta
+	para mí, desde la casa
+	de madama Julia bella
+	truje a la mía a tu hermano
+	en mis hombros; ya te acuerdas
+	que, entre su sangre bañado,
+	volvió del desmayo apenas,
+	cuando... Mas ¿por qué mi voz
+	repetirte, Laura, intenta
+	lo que es justo que no olvides,
+	lo que es preciso que sepas?
+	Pues dijo un sabio que sólo
+	arte de memoria era
+	estudiar uno desdichas,
+	que, como una vez se aprendan,
+	nunca saben olvidarse.
+	Y, pues acordarte es fuerza,
+	paso agora a lo que ignoras,
+	por que todas las adviertas.
+	Apenas el sol anoche
+	vencido de las tinieblas
+	caer se dejó en el mar,
+	sustituyendo su ausencia
+	las estrellas y la luna
+	–porque abrasadas virreinas
+	de la majestad del sol
+	son la luna y las estrellas–,
+	cuando, poniendo reparos
+	a la sagrada violencia
+	del rayo del poderoso,
+	dispuse contra su fuerza
+	mi ingenio, bien como aquel
+	jeroglífico lo enseña
+	de la encina y de la caña,
+	que una fácil y otra opuesta
+	a las ráfagas del viento,
+	del raudal a las violencias,
+	coronaron la humildad
+	a vista de la soberbia.
+	Al tiempo, pues, que Sajonia
+	celebraba sus exequias
+	de Astolfo, salimos yo
+	y... Mas turbada la lengua
+	no se atreve a pronunciarlo,
+	que aun de imaginarlo tiembla.
+LAURA
+	No importa; ya sé quién dices.
+ENRIQUE
+	En una oculta maleza
+	dese monte, tan guardada
+	de las hojas y las peñas
+	que no echó menos el día
+	–porque siempre para ella
+	es noche, pues no ve al sol,
+	que amanezca o no amanezca–,
+	prevenidos dos caballos
+	tuve, cuya ligereza
+	el viento calzó de pluma,
+	tan hijos suyos que fuera
+	la espuela manchar en ellos
+	desprecio y no diligencia.
+	Aquí, pues, la voz, aquí
+	en mil suspiros envuelta,
+	en mil lágrimas bañada,
+	dije... Pero gente llega;
+	luego, Laura, lo sabrás.
+<i>Salen Lucrecia y Candil.
+LUCRECIA
+	Don Carlos está a la puerta.
+CANDIL
+	Dice si, para besar
+	tus manos, le das licencia.
+ENRIQUE
+	Amigo de Astolfo fue.
+LAURA
+	(Y enemigo mío, pues llega
+	a darme tantos cuidados.)
+ENRIQUE
+	Decid que entre en hora buena.
+<i>Hace que se va Candil y vuélvese a estar.
+	Pero decidme primero,
+	Candil, ¿qué venida es esta?
+	¿Servís a Carlos?
+CANDIL
+		Señor,
+	desde aquella noche mesma
+	que trujiste herido a Astolfo
+	a casa y, como si fuera
+	tu familia su homicida,
+	con enojo y con afrenta
+	a todos nos despediste,
+	sirvo a Carlos.
+ENRIQUE
+		No me pesa.
+	Decid que entre. Mira, Laura,
+<i>Vase Candil.
+	que importa que nada entienda.
+LAURA
+	(Eso díselo a mis ojos,
+	porque, si son mudas lenguas
+	del alma, no callarán
+	a Carlos nada que sepan.)
+<i>Salen Carlos y Candil.
+CARLOS
+	Aunque fuera desta casa,
+	dando de mi amistad muestra,
+	recibo el pésame yo,
+	el darle aquí será fuerza,
+	si bien de una circunstancia
+	hoy mis ojos me reservan,
+	que es encareceros cuánto
+	siento la infeliz tragedia
+	de Astolfo, pues si perdistes
+	un hijo y hermano en ella,
+	yo perdí un amigo y no
+	es pérdida más pequeña,
+	que es parentesco sin sangre
+	una amistad verdadera.
+ENRIQUE
+	Bésoos, don Carlos, las manos,
+	que bien tenemos por ciertas
+	de vuestra noble amistad
+	tantas generosas muestras.
+	Bien lo dice mi cuidado,
+	pues el no dejar que os viera
+	Astolfo en su enfermedad,
+	por escusarle la pena
+	fue que llevó de perderos.
+CARLOS
+	Mis lágrimas sólo sean
+	hoy testigos de la mía.
+LAURA
+	Mal en tratarlas hicieras
+	como ajenas, siendo propias.
+CARLOS
+	Nunca estas fueron ajenas.
+CANDIL
+	¡Ay!
+<i>Hace que llora.
+LUCRECIA
+		Pues ¿tú lloras también?
+CANDIL
+	¡Y cómo! ¿No consideras
+	estas lágrimas de tinta?
+LUCRECIA
+	Pues ¿hay cosa que tú sientas?
+CANDIL
+	No.
+LUCRECIA
+		Pues, necio, ¿por qué lloras?
+CANDIL
+	Por hacer compañía, necia.
+<i>Sale un criado.
+CRIADO
+	Aquel hombre que te habló
+	endenantes está ahí fuera.
+ENRIQUE
+	Un negocio es; yo saldré
+	a hablarle. Tú aquí me espera,
+	Carlos, que quiero después
+	besar la mano a su Alteza
+	y que me acompañes quiero,
+	porque notes, porque adviertas
+	que dar gracias por agravios
+	es la mayor diligencia.
+<i>Vase Enrique.
+CARLOS
+	¿Atreveranse mis voces,
+	pidiendo al llanto licencia,
+	validas de la ocasión,
+	que ningún tiempo desprecia,
+	a mezclar, hermosa Laura,
+	amores a un tiempo y penas?
+	Pues entre penas y amores
+	hay tan poca diferencia
+	que no salgo del conceto,
+	pues son una cosa mesma.
+LAURA
+	Bien podrás, Carlos, y bien
+	podré yo decir atenta
+	a tus labios y a mis ojos
+	que no es posible que sea
+	buen cortesano el amor,
+	pues de ninguna manera
+	habla más que en una cosa,
+	mezclando gusto y tristeza.
+CARLOS
+	Por no distinguir los tiempos
+	ni las personas, se cuenta
+	que de un árbol mismo cortan
+	la muerte y amor sus flechas;
+	y así, pues, amor y muerte
+	quiere el cielo que me hieran
+	tan a un tiempo que podrán,
+	cuando ir a cobrar pretendan
+	las saetas de mi pecho,
+	equivocar las saetas.
+	Bien podré, herido dos veces,
+	decir...
+CANDIL
+		Ya mi señor entra.
+CARLOS
+	Pues ya no podré decirlo.
+LAURA
+	Sí podrás, por una reja
+	de mi jardín esta noche.
+<i>Sale Enrique.
+ENRIQUE
+	Perdonad, por vida vuestra,
+	la tardanza...
+CANDIL
+		(Más tendrá
+	que perdonar en la priesa.)
+ENRIQUE
+	...y vamos al Duque.
+CARLOS
+		Vamos.
+ENRIQUE
+	Laura mía, a Dios te queda.
+<i>Vase.
+LAURA
+	El cielo, señor, te guarde.
+CARLOS
+	No te olvides, Laura bella,
+	de que en la reja tu sol
+	esta noche me amanezca.
+LAURA
+	No haré, Carlos, que me va
+	la vida en que tú la tengas.
+<i>Vase.
+CARLOS
+	Tú, vete a casa y prevén
+	espada, capa y rodela.
+	¡Oh, quién de un suspiro al día
+	el hacha apagar pudiera,
+	pues está que viva un dios
+	en que sola una luz muera!
+<i>Vase.
+CANDIL
+	Fuera razonable el soplo.
+	¿Oyes qué digo, Lucrecia?
+	Está avisada, que mi amo
+	hablar a tu ama concierta,
+	por que estés tú a hablarme a mí.
+LUCRECIA
+	¿De cuándo acá esa fineza?
+	Habiendo vivido en casa
+	tantos días, ¿hoy te acuerdas
+	de enamorarme?
+CANDIL
+		Es porque es
+	costumbre inmemorial esta
+	ad perpetuam rei memoria
+	entre los criados hecha,
+	que no es porque yo te quiero.
+	Mas podrá ser que te quiera,
+	por sólo hacer compañía.
+LUCRECIA
+	Allá con Porcia se avenga;
+	no es Lucrecia para burlas.
+<i>Vase.
+CANDIL
+	Dos romanas de la legua
+	enamoro y ¡vive Dios!,
+	que he de ser en medio dellas,
+	pues fui de la Porcia Bruto,
+	Tarquino desta Lucrecia.
+<i>Vase.
+<i>Salen el Duque, Leonelo y Otavio.
+DUQUE
+	Esta pena, esta furia,
+	doméstico enemigo que me injuria;
+	esta ansia, este veneno,
+	áspid ingrato que abrigué en mi seno;
+	esta ira, esta rabia,
+	que el corazón, que es dueño suyo, agravia,
+	no es posible que sea
+	amor: deidad en mí mayor emplea,
+	con enojo más fuerte,
+	pena, furia, veneno, rabia y muerte,
+	pues son tantos desvelos
+	las cabezas de la hidra de los celos.
+LEONELO
+	Yo no sé de qué suerte los previenes,
+	pues tienes celos y, de quién, no tienes.
+DUQUE
+	Por respuesta, que puedo te prevengo
+	tenerlos, pues de quién tenerlos tengo.
+	Tú mismo a un hombre viste
+	que en el jardín aquella noche, ¡ay, triste!,
+	ciego y desesperado,
+	entró, a quien yo, ofendido y enojado,
+	quité la vida, sin quitar la vida,
+	pues primero murió, que de la herida,
+	de los celos que tuvo.
+	Qué fino amante, qué cortés anduvo,
+	pues murió, averiguados los recelos,
+	a vista de su dama y de sus celos.
+OTAVIO
+	Si tú mismo confiesas desos modos
+	que murió y es verdad que anoche todos
+	su entierro vimos, ¿cómo en esta parte
+	un muerto puede darte
+	celos?
+DUQUE
+		Como no mueren con la muerte
+	los celos.
+LEONELO
+		¿De qué suerte?
+DUQUE
+		Desta suerte:
+	De contrarios efetos esta llama,
+	de contraria razón esta centella
+	de celos, nace en una causa bella,
+	o bien porque es amada o porque ama.
+	Ni ser amada, pues, ni amar la dama
+	consiente amor, tasándole su estrella;
+	mas entre ser amada o amar ella,
+	lo uno disgusta, pero lo otro infama.
+	Luego, si ya de Astolfo ser querida
+	no puede Julia y yo en su llanto advierto
+	que ella puede quererle sin la vida,
+	de los dos daños el mayor es cierto;
+	y, pues Julia de un muerto no se olvida,
+	bien puedo yo tener celos de un muerto.
+OTAVIO
+	¡Sutil sofistería
+	de amor!
+DUQUE
+		Pues mi mortal melancolía
+	della nace, y yo muero,
+	porque remedio a mi dolor no espero.
+LEONELO
+	Como tenerle quiera
+	tu Alteza, le tendrá.
+DUQUE
+		¿De qué manera?
+LEONELO
+	Ovidio dice, hablando del remedio
+	de amor, cuál es el medio;
+	oye el verso.
+DUQUE
+		Holgareme de sabelle.
+LEONELO
+	“Para vencer a amor, querer vencelle”.
+DUQUE
+	Pues yo quiero y no puedo; luego miente
+	Ovidio o aconseja neciamente.
+	Y pues la pena mía
+	tan obstinada en mi dolor porfía,
+	con otra industria he de poder vencella.
+OTAVIO
+	¿Qué pretendes hacer?
+DUQUE
+		Fiarme della
+	sin resistirme, a ver lo que hacer quiere
+	de mí; lléveme, pues, donde quisiere.
+	Preveníos los dos para esta noche,
+	que el sol apenas hoy desde su coche
+	lid de rayos y olas
+	verá sobre las ondas españolas,
+	cuando a la calle yo de Julia vaya
+	sólo a ver sus umbrales, porque haya
+	menos entre mi amor y su belleza.
+<i>Salen Enrique y Carlos.
+ENRIQUE
+	Deme a besar las plantas vuestra Alteza.
+DUQUE
+	Sólo esto le faltaba a mi castigo,
+	quejas de un padre y quejas de un amigo.
+ENRIQUE
+	Si algún día os mereció
+	mercedes, señor, mi fe,
+	dadme hoy albricias.
+DUQUE
+	¿De qué?
+ENRIQUE
+		De que ya Astolfo murió.
+	Aunque pido mal, que yo
+	y mi honor al gusto vuestro
+	las debemos; bien lo muestro
+	con tan alegre albedrío,
+	pues fue el muerto un hijo mío,
+	que no fue un esclavo vuestro.
+	De aquella infelice herida
+	la ocasión aprovechó,
+	porque hiciera mal si no
+	muriera a tal homicida.
+	Su muerte, pues, y su vida,
+	que en mí son uno, es muy cierto,
+	pues si ya vengado advierto,
+	señor, vuestro enojo esquivo,
+	para mí está Astolfo vivo,
+	cuando está para vos muerto.
+DUQUE
+	Bien, Enrique, han hecho alarde
+	los esfuerzos del dolor,
+	de la sangre y del valor.
+	Dios os guarde, Dios os guarde.
+<i>Vanse el Duque y criados.
+CARLOS
+	Confuso el Duque, cobarde
+	y turbado ha respondido.
+ENRIQUE
+	Piedad de su pecho ha sido.
+	Adiós, adiós, Carlos.
+CARLOS
+		Yo
+	he de ir con vos.
+ENRIQUE
+		Eso no.
+	(Bien hasta aquí ha sucedido.)
+<i>Vase.
+CARLOS
+	Si decir uno el dolor
+	que padece no enternece
+	sino al que el dolor padece,
+	bien podré decir mi amor
+	al sol, pues su bello ardor
+	un laurel siguió fiel;
+	y no dudo yo que él
+	con sombras el yerro dore
+	de que yo una Laura adore,
+	pues él adoró un laurel.
+	¡Oh, tú, planeta luciente,
+	mide en tu pena la mía
+	y haz hoy síncopa del día
+	el ocaso y el oriente!
+	¡Apague el azul tridente
+	tu luz, arder no presuma
+	y nazca mi amor, en suma,
+	de espuma y sombra entre horror,
+	pues siempre nace el amor
+	de la sombra y de la espuma!
+	Ya parece que, obediente
+	a mi voz, noble y bizarro
+	guía el pértigo del carro
+	por los campos de occidente;
+	sombra y luz confusamente
+	hacen que el atado broche
+	de sombra y luz desabroche
+	el sueño, ya perezoso,
+	equivocando el dudoso
+	rubicano de la noche;
+	y, pues ya se ha declarado
+	triunfante la niebla fría
+	de las campañas del día
+	y yo a mi casa he llegado,
+	quiero, de traje mudado,
+	ir donde Laura me espera,
+	luciente sol desta esfera.
+<i>Sale Candil.
+CANDIL
+	¡Vive Dios, no pare aquí
+	un instante!
+CARLOS
+		¿Candil?
+CANDIL
+		Sí.
+CARLOS
+	¿Dónde vas desta manera?
+CANDIL
+	Huyendo.
+CARLOS
+		Loco pareces.
+	¿Qué hay?
+CANDIL
+		No lo sabré decir,
+	ni aun pienso que sabré huir,
+	con haberlo hecho más veces.
+CARLOS
+	Nuevas sospechas me ofreces.
+	¿Qué es lo que te ha sucedido?
+CANDIL
+	Yo...
+CARLOS
+		Prosigue.
+CANDIL
+		¡Estoy perdido!
+	¿Viene alguien?
+CARLOS
+		No.
+CANDIL
+		Te esperaba,
+	cuando sentí que al aldaba
+	de las puertas hacen ruido.
+	Fui a ver quién era y hallé
+	un hombre que rebozado
+	me mató la luz. Turbado,
+	quién era le pregunté;
+	y muy quedo dijo que
+	te buscase; más no habló.
+	Dentro de casa se entró
+	y del último aposento
+	cerró las puertas, atento
+	a que no le viera yo.
+	Allí está, en fin, encerrado.
+	Ni sé quién es, ni qué quiere.
+CARLOS
+	Calla, y más tiempo no espere.
+	Tray luz, que determinado
+	yo haré que dese cuidado
+	salgas.
+CANDIL
+		Aquí tienes ya
+<i>Entra y saca la luz.
+	la luz.
+CARLOS
+		¿Dónde es? ¿Dónde está?
+CANDIL
+	Aquí.
+CARLOS
+		La puerta abriré.
+<i>Abre Astolfo la puerta y no sale.
+	Pero ella abrir se ve.
+	¡Quien quiera que es, salga acá!
+	¿No sale? Entra tú.
+CANDIL
+		Si fueras
+	a caballo, me tocara
+	ir delante; mas repara,
+	yendo a pie, cuán mal hicieras
+	si delante me trujeras.
+CARLOS
+	Suelta la luz.
+CANDIL
+		Eso haré
+	fácilmente.
+CARLOS
+		Yo veré
+	quién está dentro.
+<i>Entra Carlos con la luz y la espada desnuda.
+CANDIL
+		Cerró
+	la puerta, así como entró
+	Carlos, quien quiera que fue.
+	¿Qué me toca hacer aquí
+	por la ley del duelo, siendo
+	criado? ¿Criado dice? Entiendo
+	que sólo mirar por mí.
+	Y, pues tanto ha que no vi
+	a Porcia, a verla iré en tal
+	duda; afectos de leal
+	ningún cuidado me den,
+	porque nunca me hará bien,
+	si yo no le sirvo mal.
+<i>Vase.
+<i>Salen Porcia con luces y Julia con luto.
+JULIA
+	Pon en ese cenador
+	las luces sobre un bufete,
+	porque no estemos a escuras
+	en este trágico albergue
+	las dos solas.
+PORCIA
+		Ya están puestas,
+	y en él prevenido tienes
+	un tapete y una almohada
+	para que al fresco te sientes,
+	ya que de estar aquí gustas.
+JULIA
+	Ningún descanso apetece
+	mi vida, en tanto que triste,
+	entre laberintos verdes,
+	cercos ya de la fortuna
+	y teatros de la suerte,
+	lloro, Porcia, mis desdichas
+	imitadoras del fénix,
+	tanto que en cuna y sepulcro
+	unas nacen y otras mueren,
+	que a las desdichas siempre
+	otras desdichas hay que las hereden.
+	Triste, funesto jardín,
+	tú, que en tiempo más alegre,
+	si pompa del amor fuiste,
+	ruina ya del amor eres,
+	donde al cielo que lo admira
+	y a la tierra que lo atiende,
+	representó la fortuna
+	tragedias de amor que pueden
+	tanto a las flores mover,
+	tanto ablandar a las fuentes,
+	que las fuentes y las flores,
+	de piadosas y corteses,
+	corren por perlas corales,
+	dan por jazmines claveles.
+	Escucha desdichas, pues
+	lugar a mis dichas deben
+	tus cristales y tus rosas
+	por lo que se les parecen;
+	que mis dichas son flores y son fuentes
+	o por lo fugitivo o por lo breve.
+	Yo vi, yo vi coronado,
+	en este jardín alegre,
+	de vitorias al amor.
+	¡Cuánto engaña, cuánto miente,
+	quien deidad le llama, pues
+	una desdicha le vence!
+	Dígalo a voces el aura
+	que en estas hojas se mueve
+	quejosa, por que mis voces
+	con sus cláusulas concierten;
+	díganlo a señas las plantas
+	manchadas, que en este albergue
+	para ser tálamo nacen
+	y, siendo túmulo, mueren;
+	pues el aura y pues las plantas,
+	de tratarme a mí y de verme,
+	solo suspiros estudian,
+	solo lágrimas aprenden;
+	y podrán mejor que yo,
+	a quien turban y enmudecen
+	las penas, porque en efeto
+	las padezca y no las cuente;
+	que el que decirlas puede
+	más las alivia, Porcia, que las siente.
+PORCIA
+	¿El campo de la fortuna
+	dejas correr de esa suerte
+	al discurso? No podrás
+	pararle cuando lo intentes.
+	Haz treguas, señora, un rato
+	con las lágrimas que viertes,
+	que así morirás de triste.
+JULIA
+	Pues ¿qué dicha más alegre?
+	Déjame, Porcia, llorar,
+	pues todos dicen que es este
+	el mejor bien de los males
+	y el mejor mal de los bienes.
+	Pero ¿quién se entra hasta aquí?
+<i>Sale Candil.
+CANDIL
+	Un muerto Candil, que viene
+	a las luces de tus ojos
+	a quemarse y no a encenderse.
+JULIA
+	Desde que Astolfo murió,
+	Candil, no has venido a verme.
+CANDIL
+	Don Carlos, mi nuevo dueño,
+	tan ocupado me tiene
+	que no he tenido lugar.
+PORCIA
+	Muy anciano chiste es ese,
+	dar por disculpa a los amos
+	de la culpa que no tienen.
+	Di que Lucrecia, y dirás
+	bien.
+CANDIL
+		El diablo me lucrecie
+	–que es mucho más, Porcia mía,
+	que decirle que me lleve–
+	si yo...
+JULIA
+		¿Qué es eso?
+CANDIL
+		Pregunto:
+	¿Y qué haces desta suerte?
+	¿No te da miedo este sitio?
+JULIA
+	No, que quien ama no teme,
+	como el can que de su dueño
+	sobre el sepulcro fallece,
+	de la lealtad y el amor
+	jeroglífico excelente;
+	yo sobre aquestas caducas
+	plantas, monumento débil
+	de Astolfo, pues aquí fue
+	adonde cayó, estoy siempre
+	con voces y con suspiros
+	gimiendo y llorando a veces.
+PORCIA
+	¿Quieres que, por divertirte,
+	cante?
+JULIA
+		Él sólo consiente
+	mi dolor, por ser así
+	que la música entristece.
+<i>Dan golpes debajo.
+	Oye, detente, ¡Ay, Candil!
+	¡Ay, Porcia! ¿Qué ruido es este?
+CANDIL
+	Yo no entiendo bien de ruidos.
+PORCIA
+	Ni yo tampoco.
+JULIA
+		Parece
+	que en el centro de la tierra
+	sepulcros se abren crueles.
+<i>Vuelven a dar golpes.
+	Vuelve a escuchar.
+PORCIA
+		¿Tan buen son
+	es?
+JULIA
+		A ver si el ruido vuelve.
+CANDIL
+	Sí vuelve, porque es un ruido
+	muy puntual.
+JULIA
+		¿Quién no teme?
+PORCIA
+	No yo, que temiendo estoy
+	desde el perico al juanete.
+CANDIL
+	Yo, que no tengo perico,
+	temo desde el pie a la frente.
+<i>Dan golpes.
+JULIA
+	Dad voces.
+PORCIA
+		Yo no; no puedo.
+CANDIL
+	Ni yo, que fuera indecente
+	dar voces en casa ajena.
+JULIA
+	Preñada la tierra quiere,
+	rasgándose las entrañas,
+	que nazcan o que revienten
+	prodigios. ¿No veis, no veis
+	cómo toda se estremece?
+	¿No veis las plantas y ramos
+	o sacudirse o moverse?
+PORCIA
+	¡Pluguiera a Dios no lo viera!
+CANDIL
+	¿Qué es esto que hoy me sucede?
+	¿Allá embozados y aquí
+	dan golpecitos?
+JULIA
+		¡Valedme,
+	cielos, que ya no hay valor,
+<i>Ábrese un escutillón y sale Astolfo lleno de tierra.
+	pues Astolfo, ¡ay de mí!, es este,
+	que aborto del centro nace
+	en la parte donde muere!
+PORCIA
+	¡Válgame San Verbo caro!
+CANDIL
+	¡San Dios, San Jesús mil veces!
+PORCIA
+	¿Adónde estaré segura?
+<i>Vase.
+CANDIL
+	Tratar quiero de esconderme.
+<i>Vase.
+ASTOLFO
+	Quédate, Carlos, aquí
+	por lo que me sucediere,
+	que hasta recorrer la casa
+	yo entraré solo.
+JULIA
+		¡Detente,
+	Astolfo!
+ASTOLFO
+		Julia, no temas.
+JULIA
+	¿Qué me afliges? ¿Qué me quieres?
+	¡Déjame, déjame!
+ASTOLFO
+		Julia,
+	oye, escucha, mira, advierte.
+	Sobre las flores cayó,
+	donde, rendida, parece
+	la deidad que en este templo
+	aras de púrpura y nieve
+	dan a estatuas de jazmines,
+	dan a imagen de claveles.
+	¡Oh, qué mal hice, ¡ay de mí!,
+	en romper, sin que estuviese
+	Julia avisada, esta mina!
+	Pero ¿qué habrá que yo acierte?
+	¿Y quién pudo prevenir
+	que aquí, a estas horas, la viese?
+	¡Mira, oh, cielo, que no es justo,
+	ya que por muerto me tiene,
+	que, siendo yo el muerto, sea
+	Julia el cadáver! Advierte
+	que espira en su luz el día,
+	de tantas flores te duele,
+	huérfanas sin su hermosura.
+PORCIA
+<i>Dentro.
+	¡Al jardín, criados, gente!
+CANDIL
+<i>Dentro.
+	¡Id a socorrer a Julia!
+DUQUE
+<i>Dentro.
+	Nada, Leonelo, receles.
+	Voces dan; rompe esas puertas.
+ASTOLFO
+	Ya en el jardín entra gente.
+	¿Qué he de hacer, que unos de otros
+	nacen los inconvinientes?
+<i>Golpes dentro.
+	Si me echo a la mina, dejo
+	abierta la boca y pueden
+	averiguar contra Carlos
+	y contra mí fácilmente
+	el intento; si la cierro
+	con ramas, por que no lleguen
+	a verla, no tengo luego
+	por dónde salir; de suerte
+	que, en irme, Carlos y yo
+	padecemos igualmente,
+	y en quedarme y ocultarme,
+	yo sólo; pues yo me quede
+	empeñado y asegure
+	a Carlos. Mas, pues me ofrece
+	tan casual instrumento
+<i>Cubre la boca con una almohada.
+	esta almohada, ella cierre
+	y, fiando a la fortuna
+	algo en desdicha tan fuerte,
+	me encerraré en esta cuadra.
+	¡Valedme, cielos, valedme!
+<i>Escóndese.
+<i>Salen Porcia, el Duque y criados y Candil.
+DUQUE
+	A tu voz rompí esas puertas.
+	¿Qué es esto, Porcia? ¿Qué tienes?
+PORCIA
+	No sé, señor.
+DUQUE
+		Di, Candil,
+	¿qué es lo que a los dos sucede?
+	Pero no me lo digáis;
+	ya veo que a un accidente,
+	en el mismo sitio adonde
+	a Astolfo le di la muerte,
+	Julia yace desmayada.
+	¡Julia hermosa!
+JULIA
+		¿Qué me quieres?
+	¡Déjame, Astolfo!
+DUQUE
+		No soy
+	sino yo. ¿Qué es esto?
+JULIA
+		Atiende.
+	En este, ¡ay, Dios!, no sé –no tengo aliento–
+	cómo diga, jardín o monumento;
+	en este, ¡ay, Dios!, no sé –¡desdicha dura!–
+	cómo diga, sepulcro de hermosura;
+	mas ¿qué dudo, luchando yo conmigo?
+	Monumento, señor, y jardín digo;
+	Mas ¿qué digo, conmigo batallando?
+	Hermosura y sepulcro digo, dando
+	la rienda a mis enojos,
+	apostaban los labios y los ojos
+	a lágrimas y voces,
+	que igualmente veloces
+	corrían cada cual a su elemento,
+	el llanto al agua y el suspiro al viento,
+	si no es que desatados
+	iban todos al fuego, que abrasados
+	tanto salían de mi helado pecho
+	lágrimas y suspiros que sospecho
+	que monstruo el fuego sea,
+	cuando compuesta de contrarios vea
+	su esfera, porque luego
+	cuanto temí y lloré, todo era fuego,
+	pues por donde el suspiro y llanto pasa,
+	el llanto quema y el suspiro abrasa.
+	Aquí, en mis fantasías,
+	crueldades tuyas o desdichas mías,
+	estaba, pues, llorando,
+	cuando, ¡ay, infeliz!, cuando
+	alterada la tierra,
+	que los tesoros pálidos encierra
+	de muertos, con estrañas
+	lides rasgar quería las entrañas,
+	echando de su centro
+	los prodigios que ya no caben dentro
+	de mudos golpes, pues flores y plantas,
+	informadas, ¡ay, Dios!, en penas tantas,
+	a temblar empezaron.
+	Que tiemblen las raíces que miraron
+	del céfiro las hojas sacudidas
+	no es mucho; mas que tiemblen hoy heridas
+	las hojas con embates infelices
+	al céfiro que hiere las raíces
+	son iras, son congojas
+	que ignoran las raíces y las hojas.
+	En efeto, al gemido, que no pudo
+	articular el viento, porque mudo
+	dentro del seno estaba
+	cuando sólo por señas se quejaba,
+	tembló el jardín, y tanto le provoca
+	que para respirar abrió la boca.
+	No así el Vesubio fiero,
+	que, baluarte rústico de acero,
+	contra los cielos vomitar presumo
+	bombas de fuego y pólvora de humo,
+	comunero del sol, al sol se atreve,
+	de cuyo incendio es la ceniza nieve,
+	como esta tierra, esta que ves herida,
+	de sus mismas entrañas desasida,
+	a las estrellas sube
+	pirámide de polvo, densa nube,
+	a empañar importuna
+	los trémulos cristales de la luna.
+	Yo vi aquí, desmayada
+	la voz, torpe la acción, la lengua helada,
+	erizado el cabello,
+	en el pecho un puñal, un ñudo al cuello,
+	equívoca la vida,
+	al corazón la sangre retraída,
+	embargado el aliento,
+	muerto el sentido y vivo el sentimiento...
+	No puedo hablar... Yo vi, yo vi bañado
+	en sangre y polvo a Astolfo, que abortado
+	de su sangre nacía.
+DUQUE
+	Detente, que tu gran melancolía,
+	que tus vanos desvelos
+	en ti fueron temores y en mí celos;
+	pues cuanto causa ha sido
+	de que tú esa ilusión hayas tenido,
+	con el mismo argumento
+	lo es de que tenga yo este sentimiento.
+	¿Adónde está esa boca que te asombra?
+	¿Adónde, que te aflige, está esa sombra,
+	si no es en tu deseo?
+	Y pues que vivo en tu memoria veo
+	a quien muerto me ofende,
+	vengarse de él aquí mi amor pretende.
+	No hablarte imaginaba
+	jamás, aunque tus prendas adoraba;
+	mas, pues un muerto a mí me da desvelos,
+	vivo yo a él le tengo de dar celos.
+	Y no será la pena, no, fingida,
+	que si el alma no muere con la vida,
+	bastarale en tal calma,
+	para que tenga celos, tener alma.
+	Salíos todos afuera.
+JULIA
+	Mira, señor, advierte, considera...
+DUQUE
+	No llores, que es en vano.
+JULIA
+	...que a los cielos ofendes.
+DUQUE
+		Soy tirano.
+JULIA
+	Manchadas estas flores,
+	¿no te ponen horror?
+DUQUE
+		Desprecio horrores;
+	y antes que has de ver piensa
+	que con su sangre se manchó su ofensa.
+ASTOLFO
+	(No verá, que primero
+<i>Escondido al paño.
+	moriré yo otra vez. ¡Cielos! ¿Qué espero?
+	Pero, si a verme llega,
+	el paso a mi esperanza se le niega,
+	que querer que de verme aquí se asombre
+	es temor de mujer, no es temor de hombre.
+	Pues el remedio sea
+	que estorbe la ocasión y él no me vea.)
+DUQUE
+	Pues viste a Astolfo, di que a defenderte
+	llegue.
+<i>Sale Astolfo por parte que no le vea el Duque y mata la luz.
+ASTOLFO
+		Sí llegará de aquesta suerte.
+DUQUE
+	La luz han muerto y una voz escucho.
+JULIA
+	De Astolfo es esta voz.
+DUQUE
+		Cobarde lucho
+	con mi asombro y contigo.
+JULIA
+	¡Mira si fue temor cuanto yo digo!
+DUQUE
+	Temor fue, que primero
+	que al espanto me rinda, hacer espero
+	de mi valor alarde,
+	que nada a mí me puede hacer cobarde.
+ASTOLFO
+	(Ya, cielos, que sin verme
+	estorbé su rigor, vuelvo a esconderme.)
+DUQUE
+	¿Adónde, voz, te escondes?
+	Si me llamas, ¿por qué no me respondes?
+<i>Sale Carlos.
+CARLOS
+	(A las voces, espadas y ruido,
+	del puesto que guardaba me he salido,
+	que, ya Astolfo empeñado,
+	con él he de morir puesto a su lado,
+	que es lo que a mí me toca,
+	y como estaba dejaré esta boca.)
+JULIA
+	¡Muerta estoy, cielos!
+DUQUE
+		Ilusión o sombra,
+	ni tu aspecto me espanta ni me asombra.
+	¡Hola, Leonelo, Otavio!
+<i>Salen todos con luz.
+LEONELO
+		¿Qué es aquesto?
+CARLOS
+	En grandes confusiones estoy puesto.
+DUQUE
+	¿Qué miro? ¿Carlos?
+CARLOS
+		Sí.
+DUQUE
+		¿Cómo has entrado
+	aquí?
+CARLOS
+		Del ruido entré, señor, llamado.
+LEONELO
+	¿Por dónde, si la puerta
+	guardamos?
+CARLOS
+		Por las tapias de la huerta.
+CANDIL
+	Pues muy presto has venido,
+	para dejarte en casa y escondido.
+DUQUE
+	¿Vistes Carlos, Leonelo, Otavio, vistes
+	a Astolfo? ¡Penas tristes!
+CARLOS
+	¿A Astolfo? Considera que sería
+	ilusión de tu ciega fantasía.
+DUQUE
+	Si el miedo engaña, ¿puedo
+	yo engañarme, si yo no tengo miedo?
+	Yo he escuchado su voz, su forma he visto
+	al matarme esas luces. ¡Mal resisto
+	la cólera!
+JULIA
+		¡Y es cierto!
+CANDIL
+	Él anda en pena aquí después de muerto.
+LEONELO
+	Pues para asegurar tales estremos,
+	todo este jardín examinemos.
+CARLOS
+	(¡Ay de mí, si por dicha
+	le hallan!)
+<i>Astolfo al paño, como escondido.
+ASTOLFO
+		(¡Qué cierta es, cielos, mi desdicha!)
+DUQUE
+	Abierta está esta cuadra.
+CARLOS
+		Yo a miralla
+	el primero entraré.
+ASTOLFO
+		(Pues, Carlos, calla.)
+CARLOS
+	(Sí haré.) Nadie hay aquí.
+OTAVIO
+		Ni aquí tampoco.
+DUQUE
+	Pues no fue sueño lo que miro y toco.
+	Yo le he visto y oído
+	–verdad, Leonelo, ha sido;
+	¡qué desdicha tan fuerte!–
+	en el lugar donde le di la muerte.
+<i>Vanse el Duque, Leoneo y Otavio.
+PORCIA
+	Este galán fantasma, ¿qué pretende?
+CANDIL
+	Que tenga esposo.
+PORCIA
+		¿Quién?
+CANDIL
+		La dama duende.
+<i>Vanse Porcia y Candil.
+JULIA
+	¿Quién mis penas ignora?
+CARLOS
+	Julia, escucha; aunque a ver vuelvas agora
+	a Astolfo, no te espantes, porque vivo
+	está y a verte viene. Esto apercibo
+	de paso a tu belleza,
+	que no puedo dejar de ir con su Alteza.
+	(Y no es sino ir a ver si amor restaura
+	tan tarde la ocasión de ver a Laura.)
+<i>Vase.
+JULIA
+	Carlos, escucha, detente;
+	no dejes tan presuroso
+	por virrey en mis sentidos
+	un asombro de otro asombro.
+	¿Astolfo cómo es posible
+	que vive? ¿Cómo, di, Astolfo
+	viene a verme? ¿Cómo puede
+	ser verdad?
+<i>Sale Astolfo.
+ASTOLFO
+		Escucha cómo,
+	ya que avisada de Carlos,
+	imposible dueño hermoso,
+	estás y el temor nos deja
+	en aqueste jardín solos.
+	Bien te acuerdas que a esta esfera,
+	y aun a aqueste sitio propio,
+	celoso una noche entré
+	y salí muerto; no toco
+	si fue lo mismo el salir
+	muerto que el entrar celoso,
+	puesto que celos y muerte
+	dicen muchos que es lo propio.
+	En los brazos de mi padre,
+	que me lloraba piadoso,
+	a pesar de mi dolor,
+	el perdido aliento cobro,
+	de la derramada sangre
+	bañado cabello y rostro,
+	tanto que, corriendo al pecho
+	en dos humanos arroyos,
+	los ojos y las heridas
+	equivocaron lo rojo,
+	por que para que dudase
+	si la vierto o si la lloro,
+	de envidia de las heridas
+	lloraban sangre los ojos.
+	En el último aposento,
+	donde apenas temeroso
+	entró el sol deshecho en rayos,
+	entró el aire envuelto en soplos,
+	me encerraron, y la cura
+	de la herida fue de modo
+	que ni amigo ni criado
+	entró a verme, porque solos
+	mi padre y mi hermana fueron,
+	asistiendo cuidadosos,
+	los práticos obedientes
+	de un grande físico docto
+	que entraba a verme a deshora
+	recatado y temeroso.
+	Con este estudio en mi padre,
+	en mi hermana estos ahogos,
+	este silencio en mi casa
+	y esta ceremonia en todos,
+	convalecí por hacer
+	a mis celos este oprobrio
+	de no morir de mis celos,
+	o por darles este enojo
+	a mis dichas, pues vivir
+	un desdichado no es poco.
+	Apenas, pues, nueva vida
+	mal restituido cobro,
+	cuando mi padre de aquel
+	voluntario calabozo
+	me saca una noche a escuras,
+	al mismo tiempo que oigo
+	en otro cuarto en mi casa
+	tristes exequias y lloros.
+	Los umbrales de una puerta
+	pavorosamente toco,
+	cuando de la otra sale
+	un entierro suntuoso.
+	“¿Quién es el muerto?”, pregunto
+	a mi padre y él dudoso
+	“Tú eres aquel mismo” dijo.
+	Y, aunque de escuchalle absorto,
+	conocí un gozo entre penas
+	y vi una pena entre gozos,
+	de suerte que en un instante
+	breve, en un espacio corto,
+	vivo y muerto por dos puertas
+	me miré sacar yo propio.
+	Era la estación que ya
+	el planeta luminoso,
+	dejándonos en la noche,
+	llevaba el día a otro polo.
+	Seguí a mi padre hasta un monte,
+	de cuyo seno medroso
+	disformemente nacía
+	el hurto, el sueño y el ocio.
+	Aquí, pues, en una oculta
+	parte murada de troncos,
+	tanto que aun no penetraba
+	el inculto sitio umbroso
+	el aire que por defuera
+	le andaba acechando, sólo
+	como para hacer silencio,
+	ceceando en suspiros roncos,
+	la lengua muda mi padre,
+	mal desatada en sollozos,
+	me dijo: “Yo he pretendido
+	no ver ni llorar, Astolfo,
+	tu muerte segunda vez,
+	porque dolor tan penoso
+	no es dolor para dos veces
+	sin osar ponerle estorbos.
+	Ofendido al Duque tienes;
+	violencias de un poderoso
+	vénzalas, hijo, la industria,
+	cuando el valor puede poco.
+	Al rayo que de la nube
+	preñada es fatal aborto
+	no le aborta aquella torre
+	que, cimera de un escollo,
+	revellín contra los rayos,
+	está al reparo de todos;
+	aquella cabaña, aquella
+	que en lo ignorado del soto
+	apenas el sol la sabe
+	sí que burla los enojos,
+	porque lo ignorado más
+	seguro está del destrozo
+	que lo altivo, que está cerca
+	lo eminente de ser polvo.
+	Húrtale el cuerpo a la ira,
+	pues yo el medio te dispongo
+	tan nuevo que abrazo vivo
+	al que muerto lloran todos.
+	Desfigurado cadáver
+	es el que por ti supongo,
+	en quien del Duque la ira
+	quiebre y llegue el desenojo,
+	que más allá de la muerte
+	no sabe pasar lo heroico.
+	De lo mejor de mi hacienda,
+	reducido a joyas y oro,
+	la mayor parte te entrego;
+	el céfiro es perezoso
+	con este caballo; en él
+	sube y pon tu vida en cobro”.
+	Dijo y, callando la lengua,
+	calló y, hablando los ojos,
+	dio de los pies al caballo,
+	dejándome puesto en otro.
+	Yo, que en medio de tan nuevos,
+	tan raros, tan portentosos
+	sucesos dejé lugar
+	para ti, que fuera impropio
+	defeto que las desdichas
+	se levantasen con todo,
+	me acordé de que tenía
+	Carlos hecha para otro
+	fin una mina en tu casa
+	–tu enemigo fue; no ignoro
+	que adivines el intento–;
+	pues, valiéndome animoso
+	de su amistad y mi amor,
+	sin tu licencia la rompo,
+	que es ésta, por cuya boca
+<i>Descubre la cueva.
+	bosteza la tierra asombros.
+	Por ella he venido, Julia,
+	a desengañarte sólo
+	de que vivo, si es que vivo
+	hoy en tu pecho amoroso.
+	Ya ves tu riesgo y mi riesgo;
+	si me estimas, lugar propio
+	te da el carro del amor
+	entre sus triunfos famoso.
+	Yo no puedo ya vivir
+	aquí; ausentarme es forzoso,
+	y más habiendo causado
+	ya en tu casa este alboroto.
+	Vente conmigo; vivamos
+	libres del rayo, que, como
+	viva yo contigo, Julia,
+	tendré a la fortuna en poco.
+	No desprecies la ocasión,
+	que a Dios te iguala en un modo,
+	pues está en tu mano hacer
+	de un desdichado un dichoso.
+	Y, si no, desengañado
+	de que han valido tan poco
+	contigo, ¡oh, hermosa Julia!,
+	estas lágrimas que lloro,
+	estos suspiros que lanzo
+	y estas razones que formo,
+	me iré donde nunca tengas
+	noticia de mí, pues sólo
+	habrá servido el venir
+	a verte de un breve, un corto
+	paréntesis de mi muerte;
+	y, de tu rigor quejoso,
+	dejándote a que del Duque
+	seas sagrado despojo,
+	volveré a cerrarle, haciendo
+	verdad mi fin lastimoso,
+	que, si de una vez la muerte
+	el tiro ha acertado a todos,
+	a mí ya de dos la una
+	¿cómo podrá errarme, cómo?
+JULIA
+	Astolfo, señor, mi bien,
+	dulce dueño, amado esposo
+	y... Pero todo lo he dicho
+	con sólo decir Astolfo;
+	a mis ojos las albricias
+	de tu vida no perdono,
+	si bien no te pueden dar
+	más que lágrimas mis ojos.
+	Asombro tuve y temor
+	de verte tan prodigioso
+	y, aunque el temor he perdido,
+	aún no he perdido el asombro,
+	que no es posible que sean
+	verdad las dichas que toco,
+	que cuanto las sé por vellas,
+	por ser dichas las ignoro.
+	Tú vivas feliz los años
+	que vive el pájaro solo
+	que es en hogueras de pluma
+	hijo y padre de sí propio;
+	y, si para que los vivas
+	algo a tu lado te importo,
+	llévame contigo y sea
+	patria mía el más remoto
+	clima, donde el sol apenas,
+	nudo luciente del globo,
+	se deja acechar del día
+	o adonde con rayos rojos
+	no deja triunfar la noche,
+	que ya en estos, ya en esotros,
+	viviré siempre contenta,
+	que no quiero más abono
+	para la felicidad
+	que poder llamarte esposo.
+	Y así, en tanto que animosa
+	mi hacienda y joyas dispongo,
+	vive en la casa de Carlos,
+	que, aunque por casos honrosos
+	es mi enemigo, también
+	es tu amigo, y bien conozco
+	que, si en balanzas iguales
+	aclaman un pecho heroico
+	venganza y piedad, irá
+	a la piedad generoso
+	y no a la venganza. ¿Quién
+	fuera ya imprudente y loco
+	a lo infame, cuando está
+	al paraje de lo heroico?
+	Y yo, para asegurarte
+	tiempo que será tan poco
+	que aun a ti te lo parezca,
+	hoy con estudio ingenioso
+	haré cubrir esta boca
+	con una trampa, de modo
+	que, con las plantas y flores
+	continuando los adornos
+	del jardín, engañar puedan
+	al austro, al cierzo y al noto.
+	Por aquí a hablarme vendrás
+	de noche, sabiendo sólo
+	un jardinero el secreto,
+	a quien fiarle dispongo.
+	Con esto y con el temor
+	que ya publicado noto,
+	tendré cerrado el jardín
+	todo el día, porque sólo
+	para ti de noche abierto
+	esté. Pero ruido oigo;
+	vete, Astolfo, no te vuelvan
+	a ver.
+ASTOLFO
+		Pésame, que el poco
+	tiempo no me da lugar
+	de agradecerte dichoso
+	estas finezas.
+JULIA
+		No esperes
+	más.
+ASTOLFO
+		A la mina me arrojo.
+JULIA
+	Ya no me da espanto el verla.
+ASTOLFO
+	Viéndote a ti, a mí tampoco.
+JULIA
+	Y es justo...
+ASTOLFO
+		¿Qué?
+JULIA
+		Que antes ya
+	la venere.
+ASTOLFO
+		¿Por qué modo?
+JULIA
+	Porque es bien que de prodigios
+	use amor tan prodigiosos.
+ASTOLFO
+	¿Eslo el tuyo?
+JULIA
+		Y lo será.
+ASTOLFO
+	Digno es de lo que te adoro
+	este estremo.
+JULIA
+		El ruido vuelve.
+ASTOLFO
+	Adiós, Julia.
+JULIA
+		Adiós, Astolfo.
+<j>3
+<i>Salen Leonelo y Enrique, viejo.
+LEONELO
+	Presto saldrá aquí su Alteza;
+	aquí podéis esperar,
+	que tiene a solas que hablar
+	con vos.
+ENRIQUE
+		¡Estraña tristeza
+	es la mía! ¿No diréis,
+	si vuestra atención lo infiere,
+	qué es lo que el Duque me quiere?
+LEONELO
+	De su boca lo sabréis.
+<i>Vase Leonelo.
+ENRIQUE
+	¡En notable confusión
+	este recato me ha puesto!
+	¿Qué puede ser, cielos, esto
+	que con tanta prevención
+	le obliga al Duque a llamarme?
+	¡Oh, cómo siempre el temor
+	camina hacia lo peor!
+	Mas no hay de qué recelarme.
+	Si quejoso me imagina
+	de su rigor, ¿no será
+	más cierto pensar que ya
+	hacerme honras determina
+	que disculpen su rigor?
+	Sí, pues que no puede ser
+	otra cosa, cuando a ver
+	llego que de mi temor
+	el reparo he conseguido
+	tan cuerda y secretamente
+	que de Astolfo, ¡ay de mí!, ausente
+	aún yo propio no he sabido.
+	Pues si ya en salvo su vida
+	con su muerte está en mi estremo,
+	¿qué recelo ni qué temo?
+	Nada a mi valor impida.
+	A tus pies estoy; llamado
+	de ti, a servirte he venido.
+<i>Salen Leonelo, Otavio y el Duque.
+DUQUE
+	Es verdad, que yo he querido,
+	Enrique, de un gran cuidado
+	con vos a solas hablar.
+ENRIQUE
+	¿Cuidado, y conmigo?
+DUQUE
+		Sí,
+	y tan estraño...
+ENRIQUE
+		(¡Ay de mí!)
+DUQUE
+	...que, si le llego a pensar,
+	decirle, Enrique, no puedo,
+	bien que le puedo sentir,
+	ni vos le podréis ya oír
+	o sin asombro o sin miedo;
+	y así, preveniendo el pecho
+	de que me habéis de escuchar
+	un suceso singular,
+	oíd.
+ENRIQUE
+		Mil cosas sospecho,
+	y ya, aunque mal, las resisto.
+DUQUE
+	Pues de una vez las publique.
+	Yo he visto a Astolfo; yo, Enrique.
+ENRIQUE
+	¿Qué decís?
+DUQUE
+		Que yo le he visto.
+ENRIQUE
+	(¿Esta fue –¡ay, cielos! ¿Qué haré?–
+	la ausencia, Astolfo, que hiciste?)
+	¿Dónde fue? ¿Dónde le viste?
+DUQUE
+	En casa de Julia fue,
+	donde cada noche va,
+	que, desde la que le vi,
+	ninguna falta de allí
+	y toda Sajonia está
+	llena desto, que si vos
+	no lo sabéis, habrá sido
+	porque a vos nadie ha querido
+	decirlo.
+ENRIQUE
+		¡Válgame Dios!
+	(Mas ¿qué me acobarda tanto?
+	Todo mi delito fue
+	que dar vida procuré
+	a un hijo. Pues ¿qué me espanto,
+	si el estilo y el secreto
+	con que lo dispuse ha sido
+	haber guardado y tenido
+	temor al Duque y respeto?
+	Pues, siendo así, ¿qué me admira
+	su enojo? Lo mejor es
+	decir, echado a sus pies,
+	la verdad desta mentira.)
+	Grande es el pesar, señor,
+	y tan grande que no sé
+	qué disculpa, ¡ay de mí!, os dé
+	que os pueda sonar mejor
+	que la verdad. Padre soy
+	y vasallo vuestro; así
+	como todo procedí
+	entre los dos; mas ya estoy
+	a vuestros pies.
+DUQUE
+		No me espanto
+	que esos estremos hagáis,
+	si a hablar en esto llegáis.
+ENRIQUE
+	Pues, si no os espanta el llanto,
+	muévaos también, y el perdón
+	de Astolfo, para que tenga
+	quietud, de esas manos venga.
+DUQUE
+	Sólo con esa ocasión,
+	Enrique, os envié a llamar,
+	porque su quietud deseo.
+ENRIQUE
+	Dame tus pies, que bien creo
+	de ti un bien tan singular.
+DUQUE
+	Y así, para que proceda
+	hoy cuerda y piadosamente
+	como príncipe prudente,
+	decidme vos en qué pueda
+	mostrar mi piedad. ¿Dejó
+	deudas Astolfo? ¿Ha tenido
+	obligaciones que han sido
+	de restitución? Que yo
+	a todo quiero salir;
+	todas las quiero pagar,
+	por que vaya a descansar.
+ENRIQUE
+	(¿Qué es esto que llego a oír?
+	De un recelo a otro más grave
+	discurro. Pues habla así,
+	sólo sabe que anda allí,
+	pero que vive no sabe.
+	Pues quédese tan secreto
+	como estaba mi cuidado,
+	que ya, de todo avisado,
+	enmendarlo me prometo
+	segunda vez, si es que alguna
+	consejo admite el amor.)
+DUQUE
+	¿Qué decís?
+ENRIQUE
+		Digo, señor,
+	que es infeliz mi fortuna;
+	pero, ya que generoso
+	su quietud solicitáis,
+	ved que palabra me dais,
+	como príncipe piadoso,
+	de hacer prudente y discreto
+	cuanto a ella convenga hoy.
+DUQUE
+	Una y mil veces la doy.
+ENRIQUE
+	Una y mil veces la aceto.
+DUQUE
+	Quietud, descanso y perdón
+	tendrá Astolfo. Decid, ¿qué
+	he de hacer?
+ENRIQUE
+		Yo os lo diré
+	en llegando la ocasión,
+	que la quiero examinar
+	por no embarazaros, no,
+	sino sólo en lo que yo
+	no pudiere remediar.
+<i>Vase.
+LEONELO
+	No sé si lo has acertado,
+	señor, en haber creído
+	tan fácilmente una sombra,
+	tan vanamente un delirio,
+	que te obligue a que des parte
+	a Enrique; pues yo imagino
+	que de sola una ilusión
+	este escándalo ha nacido.
+DUQUE
+	¡Oh, qué necio estás, Leonelo!
+	Si es verdad que yo le he visto,
+	si es verdad que los criados
+	de Julia dicen lo mismo,
+	porque desde aquella noche,
+	el espanto repetido,
+	todas las demás le ven
+	venir a aquel propio sitio,
+	¿cómo es posible que sea
+	ilusión?
+<i>Sale Candil.
+CANDIL
+		Y yo testigo,
+	que, a la primera pregunta
+	de las generales, digo
+	que no me tocan, por cuanto
+	ni soy muerto ni lo he sido,
+	ni quisiera jamás serlo.
+	Y, a la segunda, confirmo
+	que vi a Astolfo ocularmente,
+	cuando el dicho Astolfo vino
+	al dicho jardín, que estaba
+	la dicha Julia, y el dicho
+	Candil lo firmó, so cargo
+	del juramento que fizo.
+DUQUE
+	¡Oh, necio! Con tus frialdades
+	a qué mal tiempo has venido.
+CANDIL
+	Siempre vengo yo a mal tiempo,
+	pues ha tanto que te sirvo
+	de parlier, y nunca medro.
+DUQUE
+	Calla y prosigue.
+CANDIL
+		Prosigo,
+	que en materia de fantasmas
+	nada en mi vida he creído
+	y, para no serlo esta,
+	escucha un discurso mío.
+	Todas las noches que viene
+	esta sombra que has creído,
+	dicen que Julia al jardín
+	baja, habiendo recogido
+	su casa, donde hasta el alba
+	está, que aquesto he sabido
+	de Porcia y de otros que están
+	en su casa a tu servicio.
+	Pues ¿cómo es, señor, posible
+	que el amor haya rompido
+	al más feminil temor
+	las prisiones y los grillos,
+	tanto que hable una mujer
+	con un muerto? Doy que ha habido
+	muertos que pidan sufragios;
+	¿es de sufragios camino
+	irse a parlar con su dama
+	un muerto enamoradizo?
+	¡Vive Dios, que aquí hay engaño!
+DUQUE
+	Bien a tus razones rindo
+	la razón, pero no puedo
+	los ojos con que le he visto.
+LEONELO
+	Pues doy que vino a buscarte.
+	¿Cómo solamente vino
+	al jardín y no a palacio?
+	Que, si por el homicidio
+	te asombrara, él estuviera
+	en cualquier parte contigo.
+DUQUE
+	No, sino que allí es adonde
+	repetir quise el delito,
+	y allí se me apareció.
+LEONELO
+	Y las noches que ha venido
+	sin que el delito repitas,
+	¿a qué vino? Yo te digo
+	que, si tú a Julia tuvieras
+	fuera de su jardín mismo,
+	que nunca el muerto viniera.
+DUQUE
+	Ya que estás tan discursivo,
+	deste horror que miran todos
+	¿qué imaginas?
+LEONELO
+		¿Qué imagino?
+	Que, por ponerte pavor,
+	Julia esta sombra ha fingido
+	dentro, señor, de su casa,
+	pues con esto ha conseguido
+	que tú la dejes en ella.
+	Y, si no, haz que escondido
+	me tenga en el jardín Porcia,
+	que yo solo a entrar me obligo
+	a averiguarlo; y haz tú
+	que en aqueste tiempo mismo
+	falte Julia del jardín;
+	verás si es cierto o fingido,
+	pues ni él vendrá, si ella falta,
+	ni irá donde hubiere ido.
+DUQUE
+	Yo puedo formar discursos,
+	pero no temer peligros;
+	y, viendo tú que es engaño
+	en mi ofensa concebido,
+	nadie le ha de examinar,
+	Leonelo, sino yo mismo.
+	Ve tú a Porcia y dile a Porcia
+<i>Esto dice a Candil.
+	que del jardín el postigo
+	me tenga abierto a la noche.
+CANDIL
+	¿Y con quién hablas?
+DUQUE
+		Contigo.
+CANDIL
+	Yo no puedo entrar en casa
+	de Julia.
+DUQUE
+		¿Por qué?
+CANDIL
+		Reñido
+	estoy, señor, con un muerto;
+	por no sé qué que me dijo
+	le puse en la calavera
+	estos mandamientos cinco;
+	jurómela con un hueso
+	y temo que haya venido
+	este muerto, rey de armas,
+	a aplazarme el desafío.
+DUQUE
+	Tú has de hacer lo que te mando.
+	Yo me quedaré escondido
+	y, mientras que planta a planta
+	todo el jardín examino,
+	los dos me retiraréis
+	a Julia, a ver si atrevido
+	desprecia mi amor portentos,
+	arrastra mi amor prodigios.
+OTAVIO
+	Porque lo más importante
+	no se nos olvide, dinos,
+	si acaso a Julia sacamos
+	deste hermoso laberinto,
+	dónde la hemos de llevar.
+DUQUE
+	¿Dónde? A algún jardín vecino
+	de su casa, porque menos
+	sea el escándalo y ruido,
+	y este será el de Florencio
+	el de Carlos o Fabricio.
+<i>Vanse todos.
+<i>Salen Lucrecia, Laura y Carlos.
+LUCRECIA
+	Mi señor sube, señora.
+LAURA
+	¡Ay de mí!
+CARLOS
+		¡Yo estoy perdido!
+	¡Que una vez que me atreví
+	a verte haya sucedido
+	tan mal! ¿Qué haré?
+LAURA
+		Retirarte
+	a aqueste retrete mío.
+CARLOS
+	¡Ah, cielos! ¡Qué juntos andan
+	la ventura y el peligro!
+<i>Éntrase al retrete.
+<i>Sale Enrique.
+ENRIQUE
+	Laura.
+LAURA
+		Señor.
+ENRIQUE
+		¿Quién está
+	aquí?
+LAURA
+		Solo está conmigo
+	Lucrecia.
+ENRIQUE
+		Salte allá fuera.
+LUCRECIA
+	(¡Ay de todos, si le ha visto!)
+<i>Vase Lucrecia.
+LAURA
+	(¡En qué ciega confusión
+	están todos mis sentidos!
+	¡Mi padre llorando, ay triste,
+	cuando Carlos escondido!
+	Por no morir de cobarde
+	a hablarle me determino.)
+	Señor, ¿qué tristeza es esta?
+	¿Tú con dolor repetido
+	das lágrimas a la tierra,
+	das a los vientos suspiros?
+	¿Qué es esto, señor? ¿Qué tienes?
+ENRIQUE
+	Tengo penas: tengo un hijo,
+	y cada uno para un padre
+	sois cuidados infinitos.
+	Cuando pensé que de todos
+	con Astolfo había salido,
+	vuelvo a padecer de nuevo
+	cuidados de padre dignos.
+LAURA
+	¿Qué cuidados?
+ENRIQUE
+		Pues ¿no basta
+	saber, Laura, que escondido...?
+	Déjame, que hablar no puedo.
+LAURA
+	(A declararse conmigo
+	iba y, al decir que sabe
+	que Carlos está escondido,
+	le volvió a atajar el llanto.)
+CARLOS
+	(¿Qué he de hacer, cielos benignos?)
+ENRIQUE
+	En fin, Laura, ¿no es bastante
+	ver que amor haya podido
+	traer en casa de su dama
+	un traidor que me ha ofendido
+	en la vida y el honor?
+LAURA
+	(¿Qué escucho, cielos?)
+CARLOS
+		(¿Qué miro?)
+LAURA
+	Señor, tu honor siempre está
+	más que el sol luciente y limpio,
+	que nadie pudo atreverse
+	a turbarle el menor viso.
+ENRIQUE
+	No está, Laura, pues Astolfo
+	me pone a tanto peligro.
+LAURA
+	¿Quién, señor?
+ENRIQUE
+		Astolfo, que
+	enamorado ha venido
+	a la corte y en su casa
+	le tiene Julia escondido,
+	donde le han visto mil gentes
+	y el Duque propio le ha visto.
+LAURA
+	(Eso sí, vuelva mi aliento
+	otra vez al pecho mío.)
+CARLOS
+	(¡Gracias, oh, cielo, te doy,
+	que ya sin temor respiro!)
+ENRIQUE
+	Y, aunque es verdad que por muerto
+	los que le ven le han tenido,
+	es fuerza desengañarse
+	de tan ciego desatino.
+	Y así aquesta noche a hablar
+	a Julia me determino,
+	y decir que, si le quiere,
+	que le escuse del peligro,
+	que restar lo que se ama,
+	más que fineza, es delirio;
+	que quien quiso para el daño
+	muy groseramente quiso.
+LAURA
+	Aunque yo no te aconsejo,
+	lo que me parece digo
+	y es que no es, señor, razón
+	que enojado y ofendido
+	llegues a hablar una dama
+	en cosa de amor tú mismo,
+	pues la vergüenza podrá
+	negarte lo que has sabido,
+	que hay delito que el decirle,
+	más que el hacerle, es delito.
+ENRIQUE
+	¿Qué he de hacer? ¿Dejarlo así?
+LAURA
+	Las mujeres nos decimos
+	más fácilmente a nosotras
+	todo aquello que sentimos.
+	Yo iré a visitar a Julia
+	y a dalle de todo aviso,
+	que no dudo que ella quiera
+	más tenerle ausente vivo,
+	que verle presente muerto
+	otra vez.
+ENRIQUE
+		Muy bien has dicho.
+	Ve a visitarla y sea luego,
+	porque, aunque ya ha anochecido,
+	no importa ir a aquestas horas,
+	que será tiempo perdido
+	todo lo que se dilate,
+	y yo, Laura, iré contigo
+	por estar siempre a la mira.
+	En tanto que yo apercibo
+	la silla, ponte tú el manto.
+<i>Vase.
+LAURA
+	¡De buena habemos salido!
+CARLOS
+	¿Cómo que era vivo Astolfo
+	nunca, Laura, me habías dicho?
+LAURA
+	Porque nunca hubo ocasión.
+<i>Sale Lucrecia.
+LUCRECIA
+	Señor está divertido;
+	agora podrás salir.
+CARLOS
+	Adiós.
+LAURA
+		Adiós, dueño mío.
+CARLOS
+	(De todo aquesto conviene
+	ir a dar a Astolfo aviso.)
+<i>Vanse todos.
+<i>Salen Porcia y Candil.
+CANDIL
+	Porcia, que todo este nombre
+	no sé cómo cabe en ti,
+	porque el cuerpo es muy cristiano
+	para nombre tan gentil.
+PORCIA
+	Candil, tan sin garabato
+	en el hacer y el decir
+	que, siendo Candil, no eres
+	de garabato candil;
+	a estas horas a esta casa,
+	¿a qué vienes?
+CANDIL
+		Oye.
+PORCIA
+		Di.
+CANDIL
+	Ya tú sabes que sirviente
+	soy neutral, como país
+	de esguízaros, pues estoy
+	a devoción de cien mil.
+	A Carlos sirvo, porque
+	se quiso servir de mí
+	por Laura, de quien criado
+	por concomitancia fui;
+	al Duque sirvo por Julia
+	o de espía o de adalid,
+	y a Julia porque, en efeto,
+	a Astolfo un tiempo serví,
+	cuando éramos desta casa
+	él Beltrán y yo el mastín.
+	Pues, siendo así que a los cuatro
+	servil soy y siendo así
+	que, en siendo servil un hombre,
+	ello se dice es ser vil,
+	de parte del Duque vengo
+	solamente a te decir
+	–que es lo mismo que decirte–
+	que tengas deste jardín
+	la puerta abierta esta noche,
+	porque pretende venir
+	a examinar el encanto
+	que le dicen que anda aquí.
+PORCIA
+	Pues dile, Candil, al Duque
+	que, en cuanto a falsear y abrir
+	la puerta, que soy criada,
+	con que te digo que sí.
+	Pero, en cuanto a venir, dile
+	que es venir a repetir
+	aquel asombro, porque
+	desde la noche infeliz
+	que vimos todos a Astolfo,
+	a la misma hora en fil
+	todas las demás le vemos
+	pasear en el jardín.
+CANDIL
+	Debe de cenar cazuela
+	en la otra vida y así
+	se pasea en acabando
+	de cenar. Adiós, que, en fin,
+	yo cumplo con avisarte;
+	tú cumplirás con abrir,
+	que no quiero a sus cazuelas
+	echarlas yo el perejil.
+JULIA
+<i>Dentro.
+	Porcia.
+PORCIA
+		Mi señora llama.
+CANDIL
+	Pues yo me voy, porque aquí
+	no me vea, que no quiero,
+	pues el Duque ha de venir,
+	que en ningún tiempo presuma,
+	de vernos hablar ansí,
+	la malicia.
+PORCIA
+		Has dicho bien;
+	mas no podrás por ahí
+	irte sin verte.
+CANDIL
+		¿Qué haré?
+PORCIA
+	Así podrás.
+CANDIL
+		¿Cómo ansí?
+PORCIA
+	Detrás desta puerta estando
+	y volviéndote a salir
+	en pasando ella.
+CANDIL
+		Me place.
+	Pero ¿dónde va, me di,
+	esta puerta?
+PORCIA
+		Al jardín va,
+	donde Astolfo ha de venir.
+CANDIL
+	Oye, escucha...
+<i>Entra Candil y ciérrale Porcia.
+PORCIA
+		Desta suerte
+	hoy me he de vengar de ti
+	y los celos que me has dado
+	con Lucrecia.
+<i>Sale Julia.
+JULIA
+		Porcia.
+PORCIA
+		Sí.
+JULIA
+	Apaga esa luz, que quiero
+	mis tristezas divertir
+	en el jardín, pues ya es hora
+	que esté Astolfo en el jardín.
+PORCIA
+	Rehilándome las piernas
+	están de oírtelo decir.
+	¿Cómo es posible que tengas
+	esfuerzo tan varonil
+	que, enamorada de un muerto,
+	le vayas a hablar?
+JULIA
+		En mí
+	no hay temor, porque hay amor.
+PORCIA
+	Pues en mí, señora, sí;
+	no hay amor, porque hay temor.
+	Mas sólo aquesto me di:
+	¿son cariñosos los muertos?
+JULIA
+	(Como a nadie descubrí
+	el secreto de la mina,
+	todos se admiran de mí
+	y cuanto es agora espanto,
+	si se llega a descubrir,
+	será risa, que así todas
+	las fantasmas son en fin.)
+	Vete, Porcia, que yo quedo
+	bien segura en el jardín
+	con un muerto, porque vive
+	con el alma que le di.
+<i>Vase.
+PORCIA
+	La puerta cierro, dejando
+	entre puertas a Candil,
+	y voy por esotro cuarto
+	la de esotra calle a abrir
+	al Duque. Pero ¿qué veo?
+	¿Quién en casa se entra así
+	a visita a aquestas horas?
+<i>Entran Laura y Enrique, su padre.
+LAURA
+	A quien le importa venir
+	a estas horas, Porcia amiga.
+ENRIQUE
+	Porque no me vean a mí,
+	en la calle, Laura, espero.
+	No tengo que te advertir;
+	ya sabes lo que has de hacer.
+<i>Vase Enrique.
+PORCIA
+	¿Tú eres, mi señora?
+LAURA
+		Sí.
+	¿Adónde está Julia?
+PORCIA
+		No
+	te lo quisiera decir.
+LAURA
+	Pues sin que lo digas basta;
+	dila que yo estoy aquí.
+PORCIA
+	Eso es más dificultoso
+	el decírselo yo; en fin,
+	en el jardín entró agora.
+LAURA
+	Pues entra tú en el jardín
+	y dila que yo la espero;
+	que la importa mucho di.
+PORCIA
+	No sabes lo que allí anda,
+	pues quieres que yo ande allí.
+LAURA
+	Antes porque lo sé, vengo
+	a ver a Julia, ¡ay de mí!
+PORCIA
+	Pues si tú vienes por eso,
+	mejor es ver y advertir
+	por lo que vienes, señora.
+	Entra tú y déjame a mí.
+LAURA
+	Dices bien. (Mejor sucede
+	que yo pude prevenir,
+	pues no me podrá negar,
+	si yo llego a verle allí,
+	la verdad, con que pondré
+	a tantos temores fin.)
+	Yo entraré, Porcia.
+PORCIA
+		Esta es
+	la puerta y, aunque de aquí
+	al cenador hay buen trecho,
+<i>Éntrase Laura.
+	la hallarás. Voy ahora a abrir
+	la de esotra calle al Duque.
+	A fe que ha de descubrir
+	de aqueste jardín agora
+	lo que hay en este jardín,
+	hallándose Julia y Laura,
+	Leonelo, el Duque y Candil.
+<i>Vase.
+<i>Sale Julia.
+JULIA
+	Flores y estrellas, que hermosas
+	rayo a rayo competís
+	de noche para alumbrar,
+	de día para lucir,
+	pues sois del amor más raro
+	mudos testigos, decid,
+	ya que sola el temor deja
+	la esfera deste jardín,
+	si aquel venturoso amante,
+	si aquel joven infeliz,
+	fénix vuestro, pues le vistes
+	todas morir y vivir,
+	me está esperando a que haga
+	la seña para salir
+	deste sepulcro que cubre
+	una losa de jazmín,
+	con tan buen arte dispuesta
+	que se ha engañado el abril,
+	creyendo que él le engendró
+	el sobrepuesto matiz,
+	que sobre la tierra es cuadro
+	y sobre el viento es pensil.
+	Decidme, flores, si oyó
+	esta muda seña.
+<i>Asómase por el escutillón Astolfo.
+ASTOLFO
+		Sí,
+	que yo respondo por ellas,
+	que, puesto que les debí
+	a estas flores alma y voz,
+	bien, hermoso serafín
+	destos jardines, por ellas
+	podré hablar, podré sentir.
+JULIA
+	¡Oh, nunca, señor! ¡Oh, nunca
+	las cortinas de carmín
+	corriera la aurora al sol
+	del pabellón de zafir,
+	porque nunca hubiera día!
+	¡Fuera noche para mí
+	todo el año, pues las sombras
+	son mi estación más feliz!
+ASTOLFO
+	No dicen, ¡oh, dueño hermoso!,
+	esas finezas que oí
+	con los descuidos que veo.
+JULIA
+	¿Qué descuidos?
+ASTOLFO
+		Oye.
+JULIA
+		Di.
+ASTOLFO
+	Yo, Julia hermosa, por verte,
+	una muerte ya vencida,
+	tal pesar hice a mi vida
+	que la dispuse a otra muerte.
+	No repito de qué suerte
+	te vi y te desengañé;
+	de mi fe milagro fue
+	que ya a tu deidad consagro,
+	porque fuese este milagro
+	de tu deidad y mi fe.
+	Allí a las lágrimas mías,
+	que pudieron obligarte,
+	dijiste que a cualquier parte
+	del mundo me siguirías.
+	Pasan noches, pasan días
+	sin que te vea llegar;
+	si es que pudiste olvidar
+	verme llorando pedir,
+	vuélvete, Julia, a sentir,
+	que yo volveré a llorar.
+JULIA
+	No importa, ¡ay, Astolfo!, no
+	que en pesar, que en rigor tanto,
+	tú me repitas el llanto
+	para que le acuerde yo.
+	¿Oíste que el cielo dotó
+	un peñasco de tan fuerte
+	seno que el cristal que vierte,
+	dando en una peña, es tal
+	que, aparándole cristal,
+	luego en piedra se convierte?
+	Pues éste, cuyos despojos
+	la experiencia nos enseña,
+	mi pecho tuvo por peña,
+	cuando por fuentes, tus ojos;
+	porque, si lloras enojos,
+	bien de mi llanto sospecho
+	que en mí el mismo efeto ha hecho
+	para que dure inmortal,
+	pues tú le lloras cristal
+	y es de diamante en mi pecho.
+ASTOLFO
+	No es, pues no puede durar,
+	según a mi amor parece,
+	pues ya el escándalo crece
+	y nos le han de averiguar.
+	Si arrepentido de dar
+	esta palabra se ve
+	tu honor, no receles que
+	yo la palabra te pida,
+	que muerto toda mi vida
+	desta suerte te querré.
+	Por mí no ha de faltar, no,
+	mi amor; por ti, Julia, sí;
+	vénzate el peligro a ti
+	para que le venza yo.
+	Si en ti el afecto faltó,
+	en mí eterno persevera.
+	¿Quieres ver de qué manera
+	en los dos un fuego es?
+	Pues persuádete a que ves
+	una antorcha y una hoguera:
+	un mismo fuego las prende;
+	arden las dos en su abismo
+	y luego un suspiro mismo
+	una apaga y otra enciende,
+	que una antorcha no defiende
+	lo que defendió una hoguera.
+	Si breve luz tu amor era,
+	el mío, una llama altiva;
+	no es mucho que el mío viva
+	del soplo que el tuyo muera.
+JULIA
+	El haberte dilatado
+	esa palabra no ha sido
+	haber tu llama crecido
+	ni haber la mía espirado,
+	que, como me ha asegurado
+	el ver al Duque tan quieto,
+	el verte a ti tan secreto
+	sin que esta mina se entienda,
+	no he querido de mi hacienda
+	atropellar el efeto.
+ASTOLFO
+	¿Luego el Duque no ha venido
+	desde aquella noche?
+JULIA
+		No,
+	ni papel ni criado yo
+	más de su parte he tenido.
+<i>Salen Laura y Candil.
+LAURA
+	El jardín he discurrido...
+CANDIL
+	Por todo el jardín he andado...
+LAURA
+	...y a Julia en él no he topado.
+CANDIL
+	...y hallar puerta dificulto.
+LAURA
+	Aquí hay gente.
+CANDIL
+		Un negro bulto
+	viene por esotro lado.
+LAURA
+	(Un hombre es este que veo;
+	de él informarme me importa,
+	que, pues está aquí, sabrá
+	de Julia, a quien busco absorta.)
+	¿Quién va?
+CANDIL
+		(Sin duda que viene
+	esta fantasma de ronda.)
+	Gente de paz.
+LAURA
+		¿Hacia dónde
+	está Julia?
+CANDIL
+		(Cierta cosa
+	que esta es el alma de Astolfo,
+	pues que de Julia se informa.)
+LAURA
+	¿No respondéis?
+CANDIL
+		Nunca he sido
+	respondón a tales horas.
+LAURA
+	Oídme.
+CANDIL
+		Tampoco fui oidor.
+LAURA
+	Mirad...
+CANDIL
+		Ni mirón, señora.
+<i>Sale por otra parte el Duque y criados.
+DUQUE
+	Ya está abierto; entrad pisando
+	con plantas tan temerosas
+	que aun las sombras no nos sientan,
+	con ir pisando las sombras.
+ASTOLFO
+	Escucha, Julia.
+JULIA
+		¿Qué tienes?
+	¿Qué te turba y alborota?
+ASTOLFO
+	¡Vive Dios, que en el jardín
+	por una parte y por otra
+	ha entrado gente!
+JULIA
+		¿Qué esperas?
+	A aquesa mina te arroja.
+ASTOLFO
+	Yo no me tengo de ir
+	dejándote, Julia, sola.
+JULIA
+	No importa que a mí me vean
+	y a ti sí.
+ASTOLFO
+		¿Cómo no importa?
+	Si es el Duque y si pretende...
+JULIA
+	Mira...
+ASTOLFO
+		Nada me propongas,
+	que he de esperar, ¡vive Dios!,
+	con resolución heroica
+	cara a cara a la fortuna
+	antes que te deje. Toma
+	por sagrado mis espaldas.
+JULIA
+	Estas ramas y estas hojas
+	nos oculten hasta ver
+	con qué intento se ocasionan.
+LAURA
+	¿No me respondéis?
+CANDIL
+		Dejadme,
+	fantasma preguntadora.
+	¡Qué diera yo por estar
+	cautivo en Constantinopla!
+DUQUE
+	(A la escasa luz que apenas
+	nos da esa trémula antorcha
+	veo acercarse dos bultos
+	y, si bien la vista informa,
+	son una mujer y un hombre.
+	No hay que esperar otra cosa;
+	del modo que está trazado
+	todo al punto se disponga.
+	Retirad los dos a Julia,
+	mientras que yo reconozca
+	al hombre. Ya sabéis dónde
+	la habéis de llevar.)
+LEONELO
+		(Agora
+	asistirémoste a ti.)
+DUQUE
+	(Sólo obedecer os toca.)
+	Encanto deste jardín...
+LAURA
+	(¡Ay de mí!)
+ASTOLFO
+		(Julia, oye y nota.)
+DUQUE
+	¡Vive Dios, que he de saber
+	si eres cuerpo o si eres sombra!
+CANDIL
+	Ni soy sombra ni soy cuerpo.
+OTAVIO
+	Lleguemos los dos agora.
+LEONELO
+	Ven tú tras nosotros.
+<i>Cogen los dos a Laura.
+LAURA
+		¡Cielos
+	piadosos!
+OTAVIO
+		Ponla en la boca
+	un lienzo, porque no pueda
+	dar voces.
+DUQUE
+		Muy bien se logra,
+	pues ya se llevan a Julia.
+ASTOLFO
+	(No llevan.)
+CANDIL
+		A mí me importa
+	escaparme.
+DUQUE
+		No podrás,
+	aunque en el centro te escondas.
+<i>Huye Candil y cae en la cueva.
+CANDIL
+	¡Ay, que me llevan los diablos
+	o se ha errado la tramoya!
+DUQUE
+	¡Válgame el cielo!
+ASTOLFO
+		(En la mina
+	ha caído una persona.)
+DUQUE
+	Tragole la tierra y puedo
+	distinguir mal una boca.
+	¡Hola, traed unas luces!
+	¿No hay nadie que me responda?
+	Yo iré por ella y vendré
+	a ver qué es lo que me asombra.
+<i>Vase.
+ASTOLFO
+	Mira si hubiera hecho bien
+	en dejarte, Julia, sola,
+	pues de aquí alguna criada
+	que quizás entró curiosa,
+	presumiendo que eras tú,
+	de nuestros ojos la roban,
+	y un hombre ha de descubrir
+	la mina.
+JULIA
+		Estoy temerosa.
+ASTOLFO
+	Es fuerza en tanto peligro,
+	pues si el desengaño tocan,
+	volverán por ti.
+JULIA
+		Yo iré
+	donde un retrete me esconda.
+	Vete tú y cierra tras ti
+	con esa trampa esa boca,
+	y al que cayó con el ruego
+	haz que el secreto no rompa.
+ASTOLFO
+	Yo no tengo de dejarte.
+JULIA
+	Pues ¿qué has de hacer?
+ASTOLFO
+		Cuando importa
+	poner en salvo tu vida,
+	piérdase la hacienda toda.
+	Vente conmigo.
+JULIA
+		¿Por dónde,
+	si ya los pasos nos toman?
+ASTOLFO
+	Por esta mina.
+JULIA
+		¿Yo?
+ASTOLFO
+		Sí.
+	¡Mal haya acción tan medrosa!
+	Perdona, que las desdichas
+	no saben de ceremonias.
+	Ájese todo tu aseo,
+	tu adorno se descomponga.
+	Ya vuelve, tente, entra aprisa
+	y esta violencia perdona,
+	Julia, porque no hay respeto
+	adonde hay peligro.
+<i>Entra ella primero y él tras ella, cerrando la boca con la trampa.
+		Agora
+	que yo saqué mis reliquias,
+	quédese abrasando Troya.
+<i>Sale por una parte Enrique y por otra el Duque con una luz.
+DUQUE
+	¿Quién va? ¿Quién es?
+ENRIQUE
+		Yo, señor.
+DUQUE
+	¿Pues qué haces aquí a estas horas?
+ENRIQUE
+	Busco el prodigio que buscas;
+	toco el encanto que tocas.
+DUQUE
+	¿Viste un hombre que en la tierra,
+	desvaneciendo la sombra,
+	se escondió, dejando abierta
+	una gruta temerosa?
+ENRIQUE
+	No, señor; ilusión fue
+	cuanto de Astolfo pregonas.
+	(¡Quién divertirle pudiera!)
+DUQUE
+	(Bien de la verdad me informa
+	ver que nadie a Julia ampara,
+	cuando mis gentes la roban;
+	y, pues que ya en mi poder
+	está Julia y mi amor logra
+	tal engaño y desengaño,
+	cante el amor la vitoria.)
+<i>Vase el Duque.
+ENRIQUE
+	Ni a Julia ni a Laura veo,
+	ni en casa quedó persona.
+	Pues para salir de tantas
+	penas, de tantas congojas,
+	buscando a Laura, ¡ay de mí!,
+	seguir al Duque me importa.
+<i>Vase.
+<i>Sale Carlos.
+CARLOS
+	Por presto que he venido
+	a avisar de cuanto hoy me ha sucedido
+	a Astolfo, habrá pasado
+	al jardín de su dama enamorado.
+	Mas ya está en su aposento,
+	supuesto que ya en él el ruido siento.
+	Vos seáis bien llegado.
+<i>Va a entrar y, al entrar, sale Candil y encuéntranse y vuelven los dos al tablado.
+CANDIL
+	Mejor fuera decirme mal llegado.
+CARLOS
+	¡Candil!
+CANDIL
+		¡Señor!
+CARLOS
+		De verte aquí me espanto.
+CANDIL
+	También me espanto yo, tanto por tanto,
+	de entrar a este aposento.
+CARLOS
+	¿Cómo, loco, has tenido atrevimiento,
+	habiendo dicho yo que en él no entraras
+	ni quién estaba en él examinaras?
+CANDIL
+	Sólo que ahora me riñas me ha faltado.
+	Yo, aunque de él he salido, en él no he entrado,
+	porque no sé por dónde aquí he venido
+	y no sé cómo he entrado ni he salido,
+	porque en aqueste instante, ¡pena brava!,
+	en el jardín de Julia, ¡ay, Dios!, estaba
+	y con trabajo siempre hallé atajo,
+	porque, al fin, no hay atajo sin trabajo,
+	pues la vida me cuesta la venida.
+CARLOS
+	Y, si lo dices, costará otra vida.
+CANDIL
+	Yo callaré.
+CARLOS
+		¿Qué habrá allá sucedido?
+	Pero ¿qué ruido es este? Este, ¿qué ruido?
+CANDIL
+	A un tiempo a las dos puertas han llamado.
+CARLOS
+	¿Cuál, ¡cielos!, he de abrir? ¡Estoy turbado!
+	Pero esta sea primero,
+	porque Astolfo que llame aquí no quiero
+	cuando hay gente de fuera.
+	A cuanto vieres, calla.
+<i>Abre Carlos la puerta donde llama Astolfo.
+CANDIL
+		¡Quién pudiera!
+<i>Salen Astolfo y Julia.
+ASTOLFO
+	¡Carlos!
+CARLOS
+		¿Qué ha sucedido?
+ASTOLFO
+	Vengo, amigo, mortal, vengo perdido.
+	¿Algún hombre, por dicha, aquí ha pasado?
+CARLOS
+	Sí; Candil.
+ASTOLFO
+		Si era él, perdí un cuidado.
+CANDIL
+	Y yo hallé dos.
+ASTOLFO
+		Agora detenerme
+	no puedo, que es preciso, ¡ay, Dios!, volverme
+	por si he dejado mal cerrada acaso
+	la mina, que a mi vida ha dado paso,
+	y a ver si alguien me sigue,
+	por que a poner en cobro a Julia obligue.
+	En tanto que a inquirirlo me resuelvo,
+	tened a Julia aquí, que luego vuelvo.
+<i>Vase.
+CANDIL
+	Ellos, para pasar, sólo imagino
+	que esperaron que abriera yo el camino.
+CARLOS
+	Pues ¿qué es esto, señora?
+JULIA
+	Carlos, desdichas mías –¿quién lo ignora?–
+	que mi estrella concierta.
+<i>Llaman a la puerta.
+	Yo... Mas mirad quién llama a aquella puerta.
+CARLOS
+	No os receléis de nada.
+CANDIL
+	Recelaos de todo.
+<i>Esconde a Julia y abre donde llamaron.
+CARLOS
+		Retirada
+	estad. ¿Quién ha llamado
+	así?
+<i>Entran Leonelo y Laura cubierta con un manto y tapada.
+LEONELO
+		Yo, Carlos, soy con un cuidado
+	que conmigo os envía
+	el Duque, que de vos no más le fía,
+	porque, habiéndome dicho que trujera
+	a Julia, a quien robó, donde estuviera
+	más segura y mejor, mientras que pasa
+	el ruido, yo he eligido vuestra casa,
+	entre las que nombró, por ser soltero,
+	su criado, mi amigo y caballero.
+	Y, mientras a buscarle me resuelvo,
+	tened a Julia aquí, que luego vuelvo.
+CARLOS
+	Oíd...
+LEONELO
+		No puedo.
+<i>Entrándose diciendo el verso.
+<i>Dentro, por el postigo, Julia.
+JULIA
+		¿A Julia, dijo? ¡Cielos!
+CANDIL
+	¿Dos Julias hay?
+LAURA
+		En tantos desconsuelos
+	no puedo hablar y aun con temor respiro.
+CARLOS
+	¡En qué gran confusión, ¡ay, Dios!, me miro,
+	a un tiempo de dos Julias entregado!
+	Mudo estoy, ciego estoy.
+CANDIL
+		Y endemoniado.
+CARLOS
+	Una de mi amistad Astolfo fía;
+	otra Leonelo de la lealtad mía;
+	y, cuando con las dos ansí me veo,
+	la una a mis ojos solamente creo,
+	que es la que manifiesta su hermosura,
+	no la que oculta aquella nube obscura;
+	y, viendo así a las dos, bien he creído
+	que el cuerpo con la sombra me han traído,
+	pues, si esta es Julia y esta se lo nombra,
+	este es el cuerpo, sí, y esta es la sombra.
+	¿Quién eres tú, que a darme temor vienes?
+<i>Descúbrese Laura.
+LAURA
+	Yo, Carlos, soy la que en tu casa tienes.
+CARLOS
+	¿Laura?
+LAURA
+		Sí. Si eres noble, eres amante,
+	socórreme en desdicha semejante,
+	pues debes a tu fama
+	en todo trance socorrer tu dama.
+JULIA
+	¿Quién aquella será? ¡Pierdo el sentido!
+LAURA
+	Por yerro de la casa me han traído
+	de Julia; hablar no pude, muda estaba.
+	Lo que has de hacer, de discurrir acaba.
+CARLOS
+	(¡Mal mi pena resisto!
+	¿Quién en tal confusión jamás se ha visto?
+	Si a Julia al Duque entrego,
+	a Astolfo lo que él mismo me dio niego.
+	Pues Laura, a quien yo quiero,
+	no la he de dar o he de morir primero.)
+JULIA
+	¿Qué es lo que estás pensando?
+LAURA
+	¿Qué estás imaginando?
+JULIA
+	Con mi esposo he venido;
+	con él he de volver.
+LAURA
+		Mi amante has sido;
+	contigo he de librarme.
+JULIA
+	Al Duque tú no puedes entregarme.
+LAURA
+	Al Duque tú no puedes ofrecerme.
+CARLOS
+	¡Vive Dios, que no sé lo que he de hacerme!
+<i>Sale Astolfo.
+ASTOLFO
+	Carlos, seguro está todo;
+	ninguno en el jardín anda.
+LAURA
+	(¡Cielos! ¿Este no es mi hermano?
+	Penas a penas se llaman.)
+CANDIL
+	Él desde esta a la otra vida
+	va y viene como a su casa.
+ASTOLFO
+	Nadie nos sigue. Y, pues es
+	la presteza de importancia,
+	haznos poner dos caballos,
+	que antes que amanezca el alba
+	con Julia he de estar en tierras
+	del gran César de Alemania,
+	y Candil se ha de ir conmigo.
+CANDIL
+	Antes me iré noramala.
+ASTOLFO
+	No hay noche, no, más segura.
+	Ven presto.
+CARLOS
+		Detente, aguarda,
+	porque empiezan tus desdichas
+	en el término que acaban
+	y hay nuevos pesares ya
+	en un instante que faltas.
+LAURA
+	(¿Cómo nunca me dijiste
+	que estaba Astolfo en tu casa?)
+CARLOS
+	(Como nunca hubo ocasión.)
+ASTOLFO
+	Pues ¿cómo en decirlo tardas?
+CARLOS
+	Criados del Duque, al tiempo
+	que tú llamaste, llamaban
+	a otra puerta para un fin
+	con dos acciones contrarias.
+	Fuístete y entraron ellos
+	a entregarme aquesta dama,
+	diciéndome que era Julia,
+	que la trujeron robada.
+	No quisieron escucharme
+	y, sin mirarla a la cara,
+	me hicieron depositario
+	de otra Julia duplicada.
+	¿Cómo es posible que yo
+	de tan gran empeño salga?
+ASTOLFO
+	Con darles la que te dieron
+	no estás obligado a nada
+	y, pues yo sólo te pido
+	la que te entregué, así basta
+	dar a ellos la que te entregan.
+	Llore engaños quien se engaña,
+	mas no los llore quien trujo
+	desengaños a tu casa.
+CARLOS
+	Bien pensarás que con eso
+	todas tus desdichas paran.
+	Yo lo haré; mas considera,
+	Astolfo, lo que me mandas,
+	pues por reservar a Julia
+	quieres que le entregue a Laura.
+<i>Descúbrese Laura.
+	Mira ahora si te está bien
+	que le dé al Duque a tu hermana.
+ASTOLFO
+	¡Caiga el cielo sobre mí,
+	pues ya la tierra me falta!
+	Laura, ¡tú aquí!
+LAURA
+		Yo, viniendo
+	a buscarte, hermano, en casa
+	de Julia...
+CARLOS
+		¿Qué hemos de hacer,
+	porque ya a la puerta llaman?
+ASTOLFO
+	Morir antes que yo entregue
+	a Julia, Carlos, ni a Laura,
+	que una, hermana, y otra, esposa,
+	son dos mitades del alma,
+	son dos todos del honor
+	y he de defender a entrambas.
+CARLOS
+	¿Qué disculpa he de dar yo,
+	si aun la que me dan les falta
+	y es añadir riesgo a riesgo
+	defenderlas tú en mi casa?
+ASTOLFO
+	¡Oh, cuánto, Carlos, tu vida
+	aquí las manos me ata!
+	Pero dime: ¿qué he de hacer
+	en ocasión tan estraña?
+CARLOS
+	Dejar a Laura, en quien hoy
+	no está la ofensa tan clara;
+	pues, desengañado el Duque,
+	supuesto que no la ama,
+	la dejará y, si quisiere,
+	por tomar de ti venganza,
+	ofender tu honor, entonces
+	muramos en su demanda,
+	de suerte que en esto vamos
+	a vivir con esperanza
+	y en esotro, desde luego,
+	a morir.
+ASTOLFO
+		¡Que un lance haya
+	tal que es el menor peligro
+	aventurar una hermana!
+	Mas, cuando bien nos suceda,
+	damos término a las ansias,
+	pues de agora para luego
+	remitimos la desgracia.
+<i>Escóndese Julia y Astolfo.
+CANDIL
+	Yo estoy hecho treinta bobos,
+	Abre Carlos la puerta y entran.
+	que uno solo no me falta.
+<i>Salen el Duque y criados.
+LEONELO
+	¿Ves, señor, ves cómo era
+	todo engaño la fantasma,
+	pues nadie a Julia defiende?
+DUQUE
+	De haberla traído a casa
+	de Carlos, ¡qué bien hiciste!
+CARLOS
+	Yo estoy, señor, a tus plantas.
+DUQUE
+	¿Dónde está Julia?
+CARLOS
+		Señor,
+	a quien le dan una carta,
+	dicen que no ha de saber
+	si está escrita o está blanca.
+	Esta dama me entregaron;
+	yo pago con esta dama.
+	Si es Julia o no, no lo sé,
+	que no osó romper mi fama
+	la sutil nema del manto
+	que la ha cubierto la cara.
+DUQUE
+	Ni yo te pregunto más,
+	pues tú con esta me pagas.
+	¡Ya, Julia, de tus rigores
+	ha llegado la venganza!
+	¿Dónde está el muerto fingido
+	que te defiende y te guarda?
+<i>Descúbrese Laura.
+LAURA
+	Antes que hable más tu Alteza,
+	sepa, señor, con quién habla,
+	porque no soy Julia yo.
+DUQUE
+	¿Hay confusiones más raras?
+	Pues, ¿qué nuevo engaño es este,
+	Leonelo?
+LEONELO
+		Carlos te engaña,
+	que yo a Julia le entregué,
+	a quien truje de su casa.
+	Porque fue amigo de Astolfo,
+	por esconderla y librarla,
+	otra mujer ha supuesto.
+LAURA
+	No ha supuesto, que yo estaba
+	en los jardines de Julia.
+CARLOS
+	Tu malicia o tu ignorancia
+	te convenza, pues, si dices
+	que mi amistad eso traza,
+	dime si fuera amistad,
+	por reservarle la dama,
+	Leonelo, a un amigo muerto,
+	no reservarle la hermana.
+LEONELO
+	Sí, pues en ella no hay riesgo,
+	pues el Duque no la ama.
+	En fin, yo te entregué a Julia
+	y tú la escondes y guardas.
+OTAVIO
+	Pues si él la tiene escondida,
+	mientras tú al Duque buscabas
+	guardé la puerta y ninguno
+	salió.
+DUQUE
+		Pues mirad la casa.
+CARLOS
+	Señor, yo...
+DUQUE
+		Tu turbación
+	es la evidencia más clara.
+LEONELO
+	Yo entraré a verla.
+<i>Entra.
+CARLOS
+		(¡Ay de mí!)
+LAURA
+	(¡Sin duda que a Astolfo hallan!)
+CANDIL
+	¡Cuál han de salir, si topan
+	adentro con la fantasma!
+<i>Sale Enrique.
+ENRIQUE
+	Siempre a la mira del Duque,
+	llena de asombros el alma,
+	he andado y no puedo ya
+	vivir sin ver lo que pasa,
+	que tengo el alma pendiente
+	de un hilo hasta ver a Laura.
+LEONELO
+<i>Dentro.
+	¡Válgame el cielo!
+DUQUE
+		¿Qué es esto?
+<i>Sale Leonelo.
+LEONELO
+	¡Ay, señor! Mi vida ampara.
+DUQUE
+	¿Qué tienes?
+LEONELO
+		Julia, ¡ay de mí!,
+	está dentro desta sala.
+DUQUE
+	Teniendo a Julia escondida,
+	¿tú con esotra me engañas?
+	Mas ¿qué os asombra?
+LEONELO
+		Detente,
+	no entres, no entres a mirarla,
+	porque a su lado, señor,
+	está Astolfo que la guarda.
+	Verdad es que el cielo quiere
+	de ti, señor, ampararla,
+	pues aquí no puede ser
+	fingimiento la amenaza.
+ENRIQUE
+	(Aquí está Astolfo. ¿Qué haré,
+	si el Duque de verle trata?)
+DUQUE
+	¡Vive Dios que yo he de verlo,
+	que nada a mí me acobarda!
+CARLOS
+	No entres, señor, no examines
+	secretos que el cielo guarda.
+DUQUE
+	¿Cómo no, si a mi valor
+	nada le admira ni espanta?
+<i>Sale Astolfo.
+ASTOLFO
+	No me detengas, que ya
+	no hay que reparar en nada.
+	Detente, señor, y mira
+	que soberbio al cielo agravias.
+DUQUE
+	Absorto de verte, apenas
+	puedo ya mover las plantas.
+	¿Qué me quieres? ¿Qué me quieres?
+ENRIQUE
+	Que le cumplas la palabra
+	que me has dado, que es hacer
+	diligencias con que vaya
+	ya perdonado por ti.
+DUQUE
+	Ya la di y no he de quebrarla,
+	aunque ofendido pudiera
+	quejarme de injurias tantas
+	como el verle vivo aquí
+	me advierte y me desengaña.
+	Valgo yo más que yo mismo.
+	Del suelo, Astolfo, levanta
+	y, por que siempre que vea
+	tu persona es fuerza que haga
+	la memoria deste caso
+	en el semblante mudanza,
+	con Julia casado quiero
+	que de mi corte te vayas.
+CARLOS
+	Yo, que hice por un amigo,
+	¡oh, señor!, finezas tantas,
+	que para su amor di paso
+	desde mi casa a su casa,
+	merezca de ti perdón.
+DUQUE
+	Dándole la mano a Laura.
+CANDIL
+	Yo, que pasé tantos sustos,
+	no quiero de nadie nada,
+	sino de los mosqueteros
+	el perdón de nuestras faltas,
+	para que con esto fin
+	demos a El galán fantasma.

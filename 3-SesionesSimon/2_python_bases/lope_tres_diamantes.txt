@@ -1,0 +1,4923 @@
+<a>Lope
+<t>Los tres diamantes
+<g>Comedia
+<s>palatina
+<o>Edición digital a partir de la edición de María Isabel Toro Pascua, en Comedias de Lope de Vega, Parte II, coord. Silvia Ariz, Lérida, Milenio-Universitat Autonoma de Barcelona, 1998.
+<f>1599-1603
+<el>El rey de Nápoles*Lucinda, su hija*Don Enrique, príncipe de Ingalaterra*Don Duarte de Borbón, infante de Portugal*Oliverio, príncipe de Trasilvania*Lisardo, hijo del duque de Proenza*Un capitán*Roselo, paje*Celia, aya de Lucinda*Belardo, Faustino, Clarino, pastores*Un patrón de nave*Rosardo, huésped*El soldán de Persia*Amurates, moro*Cambises, moro*Roberto, piloto*El duque de Proenza, padre de Lisardo*Matilde, su hija*Leonato, su criado*Celima, hija del Soldán*El hermano Crispín, gracioso*Cristeo, criado*Dos pilotos
+<j>1
+<i>Salen Lisardo, armado; don Duarte de Borbón, don Enrique de Ingalaterra, Oliverio de Trasilvania, acuchillándose
+LISARDO
+	¿Todos a mí por lo que está bien hecho?
+ENRIQUE
+	Aunque enemigo, me pondré a tu lado;
+	tanto estoy de tu esfuerzo satisfecho.
+DUARTE
+	Con traición, caballero, me has ganado
+	el precio desta justa.
+LISARDO
+		¡Miente el hombre
+	que dijere que yo no he sido honrado!
+<i>Entren el rey de Nápoles y un capitán, y Roselo, paje
+REY
+	¿A quién no habrá que tu valor no asombre?
+CAPITAN
+	¡Ténganse al Rey!
+REY
+		Valiente caballero,
+	dinos tu patria, tu linaje y nombre.
+LISARDO
+	Señor, yo soy, como otros, estranjero;
+	no conviene esta vez, por mi decoro,
+	decir quién soy, si en la defensa muero.
+	Por honra vine aquí; la fama adoro;
+	tres lirios son mis armas; mi apellido,
+	El Caballero de los Lirios de Oro.
+	Aunque me viese a vuestros pies rendido
+	y de todo el poder de la fortuna
+	contrastado, deshecho y oprimido,
+	no puedo ni diré cosa ninguna
+	de mi linaje y nombre.
+REY
+		Mi amor sólo,
+	y no el poder del mundo, os importuna.
+	No ha llegado jamás a nuestro polo
+	tan fuerte caballero, ni se ha visto
+	desde la luna al túmulo de Apolo.
+LISARDO
+	La fama, rey de Nápoles, conquisto,
+	que no de vuestra hija la belleza.
+	Si por ella con tantos me enemisto,
+	dadla, señor, a quien por fortaleza,
+	por sangre y por valor la ha merecido;
+	que a mí me faltan partes y nobleza.
+OLIVERIO
+	Si esto es así, por mi valor la pido.
+ENRIQUE
+	Cuando en campo me venzas, Oliverio.
+OLIVERIO
+	Podré vencerte, de mi amor vencido.
+ENRIQUE
+	Ni por la sucesión de más imperio,
+	ni por las armas, osará ninguno
+	hacerme ese desprecio y vituperio.
+	Mía es Lucinda, y, si dijere alguno,
+	fuera del caballero disfrazado,
+	que no pude vencer, uno por uno,
+	que la merece más, en campo armado
+	le reto y desafío.
+REY
+		En mi presencia,
+	cualquiera atrevimiento fue culpado.
+	Jüez árbitro soy desta sentencia:
+	soy padre y rey; soy padre de Lucinda;
+	mi voluntad es ley de su obediencia.
+OLIVERIO
+	Lo que aquí con las armas se deslinda
+	es el mérito, Rey, del que pretende,
+	por que la goce quien al otro rinda.
+REY
+	Pues quien la mereció no lo defiende,
+	venid conmigo, buscaréis un modo.
+DUARTE
+	Mátame su valor.
+OLIVERIO
+		Su amor me enciende.
+<i>Vanse el Rey, don Duarte y Oliverio
+ENRIQUE
+	¿Haslo entendido?
+LISARDO
+		Bien lo entiendo todo;
+	mas, por haberme agora defendido,
+	mis brazos a los tuyos acomodo.
+ENRIQUE
+	Puesto que, como a todos, me has vencido
+	y el premio desta empresa me has quitado,
+	no he podido sufrir verte oprimido,
+	obligado al amor que te he cobrado;
+	y desde aquí por amistad te juro
+	morir a tu defensa y a tu lado.
+	Y, por que sepas bien lo que aventuro,
+	Enrique soy; mi patria, Ingalaterra;
+	único hijo de su rey Arturo.
+	Lucinda de mis padres me destierra;
+	y, porque a ti sospecho que te hace,
+	por la misma ocasión, la misma guerra,
+	te cedo mi derecho, si te place,
+	y doy esta palabra al cielo justo,
+	que al malo ofende, al bueno satisface,
+	de ayudar a las cosas de tu gusto
+	como leal y verdadero amigo,
+	sin darte celos ni mi amor disgusto.
+LISARDO
+	Enrique, al mismo cielo hago testigo
+	de pagarte ese amor eternamente,
+	y de morir por ti y vivir contigo.
+	Confieso que he querido tiernamente
+	a Lucinda hasta aquí; mas, pues la quieres,
+	no es bien que el quitarla más intente;
+	que, pues en sangre y armas me prefieres,
+	te quiero preferir en cortesía.
+ENRIQUE
+	¡No harás, por Dios! Mas dime ya quién eres.
+LISARDO
+	Cuando salimos de la patria mía
+	mis crïados y yo, juntos juramos
+	a un alta cruz que en una puente había,
+	por el fruto divino de sus manos,
+	de no decir mi nombre a ningún hombre;
+	mira, Enrique, si es bien que lo cumplamos.
+	No te parezca ingratitud ni asombre
+	que te calle mi nombre, que algún día
+	sabrás mi pecho, cuanto y más mi nombre.
+ENRIQUE
+	Aprovéchete a ti la amistad mía,
+	que es la intención de aqueste amor, y luego
+	estará tu secreto en cortesía.
+	Desármate y procura algún sosiego,
+	en tanto que a ver voy lo que el rey hace.
+LISARDO
+	Que me vuelvas a ver, Enrique, ruego.
+ENRIQUE
+	Tu verás que esta fe de mi amor nace.
+<i>Vase
+LISARDO
+	Paje ¿sois desta posada?
+PAJE
+	De palacio soy, señor.
+LISARDO
+	¿Sois espía?
+PAJE
+		Del amor
+	de cierta dama engañada.
+LISARDO
+	¿Qué habéis oído?
+PAJE
+		Que aquí
+	le dais a un estraño amigo;
+	pero, si yo se lo digo,
+	no os querrá bien.
+LISARDO
+		¿Cómo así?
+PAJE
+	Porque el amor despreciado
+	se vuelve aborrecimiento.
+LISARDO
+	¿No veis que fue cumplimiento
+	a que no estoy obligado?
+	Que los que lo son no obligan.
+PAJE
+	Los verdaderos amantes,
+	aun en burlas semejantes,
+	no es bien que desprecios digan.
+LISARDO
+	Tampoco sé yo si vos
+	sabéis quién amo.
+PAJE
+		Bien creo
+	que sé de vuestro deseo
+	más que vos.
+LISARDO
+		¿Más?
+PAJE
+		Sí ¡por Dios!
+LISARDO
+	¿En qué lo podemos ver?
+PAJE
+	¿Qué prenda, cuando le vistes
+	por una reja, le distes?
+LISARDO
+	Ya no os puedo responder.
+PAJE
+	¿Cúyo es este anillo?
+LISARDO
+		Mío,
+	que a la Infanta le di yo.
+PAJE
+	Pues ella a mí me le dio,
+	fiaos de mí.
+LISARDO
+		El alma os fío.
+	Pero ¿el dárosle fue
+	en mi favor?
+PAJE
+		No fue dado;
+	que no hay en el mundo estado
+	por que ella el anillo dé;
+	mas por que os le traiga a vos
+	para carta de creencia,
+	y para que a su presencia
+	volvamos luego los dos.
+LISARDO
+	Que no podremos, recelo.
+PAJE
+	La noche, que ya se cierra,
+	ausentará de la tierra
+	las dos lámparas del cielo,
+	y yo os llevaré a un postigo
+	del jardín, harto secreto...
+LISARDO
+	¿Iré solo?
+PAJE
+		No es defeto
+	que vais con algún amigo;
+	mas no lo entienda Lucinda.
+LISARDO
+	Vamos, que solo es mejor;
+	que quien tiene mucho amor,
+	no hay peligro que no rinda.
+<i>Vanse. Sale el Rey y Lucinda, don Duarte, Oliverio, Enrique y Celia
+REY
+	Las armas son escusadas
+	donde el gusto mandar puede.
+	Dejemos lanzas y espadas;
+	que basta que Marte quede
+	con las vitorias pasadas.
+	Si el caballero estranjero
+	del blasón del lirio de oro
+	no quiere, siendo el primero,
+	decir su patria y decoro,
+	Enrique a todos prefiero.
+	Déste mi Lucinda sea;
+	que en ninguno, como en él,
+	esta corona se emplea.
+DUARTE
+	La elección que has hecho dél,
+	ninguno que es justa crea.
+	Agraviaste a Portugal,
+	y en campo sustentaré
+	que yo sólo soy su igual.
+LUCINDA
+	Di que a ninguno me dé,
+	que a todos los quiero mal.
+ENRIQUE
+	Si no te hubiera vencido,
+	más furioso respondiera,
+	de tu locura ofendido.
+	Vete, y en el campo espera.
+OLIVERIO
+	La misma licencia pido;
+	que ningún agravio iguala
+	al que a Trasilvania hacéis,
+	pues que el Rey no me señala.
+REY
+	Basta, que hacer pretendéis
+	campaña de armas la sala.
+	Salid de la corte luego.
+DUARTE
+	Saldré tan perdido y ciego,
+	que dentro de un mes, no más,
+	toda Nápoles verás
+	arder, como Troya, en fuego.
+<i>Vase
+OLIVERIO
+	Del agravio que me has hecho
+	en que con Enrique case
+	Lucinda, en común despecho,
+	nacerá un fuego que abrase
+	tu reino como mi pecho.
+	Parto con voces más fieras
+	que la herida tigre hircania
+	busca del mar las riberas;
+	que yo haré que Trasilvania
+	ponga en Nápoles banderas.
+<i>Vase
+ENRIQUE
+	Partid ya presto a la guerra,
+	que hallaréis defensa en mí
+	y el valor de Ingalaterra,
+	pues hay Hércules aquí
+	si allá hay hijos de la tierra.
+REY
+	Mal hice en no los prender.
+ENRIQUE
+	Déjalos ir.
+REY
+		Antes voy
+	sólo a hacerlos detener.
+<i>Vase
+ENRIQUE
+	En fin, tu marido soy.
+LUCINDA
+	Dicen que lo quieres ser.
+ENRIQUE
+	Tu padre gusta.
+LUCINDA
+		Es razón;
+	que tiene satisfación
+	de lo mucho que mereces.
+ENRIQUE
+	De mala gana me ofreces
+	tus manos.
+LUCINDA
+		Hay ocasión.
+ENRIQUE
+	¿Cuál ocasión puede haber?
+LUCINDA
+	No te la puedo decir.
+ENRIQUE
+	Ya la debo de saber.
+LUCINDA
+	¿De qué se puede argüir?
+ENRIQUE
+	De querer y no querer.
+LUCINDA
+	¿A quién quiero?
+ENRIQUE
+		A un estranjero.
+LUCINDA
+	¿A quién no quiero?
+ENRIQUE
+		Yo soy;
+	pero asegurarte quiero,
+	que en tu pensamiento estoy
+	de amor dese caballero.
+LUCINDA
+	Créolo de tu valor
+	y de tu virtud lo fío.
+ENRIQUE
+	Si no tienes otro amor,
+	yo te quiero dar el mío
+	por que le tengas mayor.
+LUCINDA
+	Si no engañas mi afición,
+	que mi amor aumentarás
+	está muy puesto en razón;
+	que con lo que puedes más
+	es con la buena opinión.
+ENRIQUE
+	¿Qué señal habrá mayor
+	que dárteme el Rey a mí,
+	que eres desta empresa honor,
+	y suplicarte yo a ti
+	que le tengas mucho amor?
+LUCINDA
+	No, que también puede ser
+	que sea celoso efecto
+	no más de para saber...
+ENRIQUE
+	No tengo yo por discreto
+	al que prueba a su mujer.
+LUCINDA
+	Declárame tu intención.
+ENRIQUE
+	Que la palabra le he dado,
+	vencido de su afición,
+	de aventurar a su lado
+	la vida en toda ocasión.
+LUCINDA
+	Júralo.
+ENRIQUE
+		Quíteme el cielo
+	la vida, si no es verdad;
+	que ha podido solo el celo
+	desta sincera amistad
+	dar con tu amor en el suelo.
+LUCINDA
+	Echarme quiero a tus pies.
+ENRIQUE
+	Agravio del cielo es
+	poner su sol a mis plantas.
+LUCINDA
+	Y tú al cielo me levantas
+	de la tierra en que me ves.
+ENRIQUE
+	Sólo en premio de que quiero
+	darte, siendo prenda mía,
+	a un hombre tan estranjero,
+	me di, señora, este día,
+	quién es este caballero.
+LUCINDA
+	Ni sé quién es ni su nombre.
+ENRIQUE
+	Mal me pagas. ¿O pretende?
+	que de tu rigor me asombre?
+LUCINDA
+	Eso entiendo, que tú entiendes
+	de las enigmas deste hombre.
+	Con el talle se me entró
+	por los ojos; bien sé yo
+	que es noble, pues le admití;
+	aunque no sé si le di
+	el alma o me la tomó.
+ENRIQUE
+	Júralo.
+LUCINDA
+		Quíteme el cielo
+	la vida, si no es verdad;
+	que bien puede el casto celo
+	de una honesta voluntad
+	dar con una alma en el suelo.
+ENRIQUE
+	Ahora bien, yo soy su amigo,
+	y el Rey quiere que conmigo
+	te cases: ¿qué hemos de hacer?
+LUCINDA
+	Que le demos a entender
+	que estoy casada contigo.
+ENRIQUE
+	¿Qué dice aquel caballero?
+LUCINDA
+	Que sabes tú que le quiero.
+ENRIQUE
+	Y él ¿sábelo?
+LUCINDA
+		Bien lo sabe.
+ENRIQUE
+	Razón es que en bien acabe
+	un amor tan verdadero.
+LUCINDA
+	Esta noche le hablaré.
+ENRIQUE
+	¿Vendré con él?
+LUCINDA
+		Bien podrás.
+ENRIQUE
+	A Dios.
+<i>Vase
+LUCINDA
+		¿Fuese?
+CELIA
+		Ya se fue.
+LUCINDA
+	¿Tan presto?
+CELIA
+		No pudo más,
+	si bien sus ojos miré.
+LUCINDA
+	¿Quiéreme bien?
+CELIA
+		Bien te quiere.
+LUCINDA
+	Pues ¿qué le obliga?
+CELIA
+		Amistad,
+	que al gusto de amor prefiere.
+LUCINDA
+	Gran virtud, gran calidad,
+	dese milagro se infiere.
+	Muérome por él.
+CELIA
+			No es justo
+	que, hasta que sepas quién es,
+	así aventures tu gusto.
+LUCINDA
+	Calla, Celia, no me des
+	en esta ocasión disgusto.
+CELIA
+	Dos veces que le has hablado
+	¿te tiene ya dese modo?
+	¿No puede haberte engañado
+	y haberlo fingido todo
+	por codicia de tu estado?
+LUCINDA
+	No, porque el talle y acciones
+	de su hablar y proceder
+	me han dado satisfaciones;
+	ni tan alto pretender
+	es de bajas condiciones.
+	Diome un anillo, y por él
+	quise saber su valor;
+	dile a persona fïel,
+	y dice que no hay mejor
+	diamante en el mundo que él:
+	vale treinta mil ducados.
+	¿Cómo quieres, Celia loca,
+	que un hombre bajo encerrados
+	tenga, en distancia tan poca,
+	tesoros tan estimados?
+	Habléle otra vez y vi
+	que otro diamante tenía,
+	y a pedirle me atreví,
+	por ver si valor tenía
+	él para dármele a mí.
+	Diómele; hícele ver.
+CELIA
+	Y ése ¿qué puede valer?
+LUCINDA
+	Dos veces más que el primero:
+	mira tú si es caballero
+	quien esto puede tener.
+CELIA
+	No es el serlo necesario,
+	ni arguyes, señora, bien.
+LUCINDA
+	¿Arguyo por lo contrario?
+CELIA
+	No haces, porque también
+	pudiera ser lapidario;
+	que aquí vienen mercaderes
+	de Persia con mil diamantes.
+LUCINDA
+	Celia, necísima eres,
+	que más quieren los amantes
+	remedios que pareceres.
+	Vete al jardín, que ya es tarde,
+	para que mi bien no aguarde.
+CELIA
+	Mire su valor Tu Alteza.
+LUCINDA
+	Yo quiero bien; no hay bajeza
+	que mi locura acobarde.
+<i>Vanse. Salen Enrique y Lisardo
+LISARDO
+	¿Que por mujer te da a Lucinda?
+ENRIQUE
+		Diome
+	el Rey su hija, con quien he pasado
+	lo que te he dicho. Puedes estar cierto
+	que ninguno jamás habrá tenido
+	tal dama y tal amigo, aunque revuelva
+	la antigüedad sus máquinas de historias
+	y la fama de Grecia sus archivos.
+	No hago mucho de su parte en dártela,
+	pues ella ya te quiere; y de la mía,
+	sé yo que hago más de lo que puedo.
+LISARDO
+	No quiero agora agradecerte nada,
+	por ser el tiempo breve; pero al cielo
+	hago testigo, que por muchos cursos
+	que pase el sol por infinitos años,
+	no pierda la memoria de tus obras,
+	ni el agradecimiento de las mías,
+	tu generoso pecho y alma noble.
+	Tres diamantes me dio cuando salía
+	de su casa mi madre, por si acaso
+	el tiempo me pusiese en ocasiones
+	que a la necesidad viese la cara;
+	y con ser de valor inestimable,
+	los dos he dado, sin haber tres meses
+	que salí de mi casa; y el tercero,
+	que es de mayor valor, sólo por muestra
+	de mi agradecimiento, te le ofrezco:
+	sírvete dél para memoria mía;
+	y, Enrique, no repliques en tomalle,
+	que pensaré que es tu amistad fingida.
+ENRIQUE
+	Yo le acepto por prenda de tus manos,
+	con juramento al cielo, que no siendo
+	necesidad en mí tan atrevida,
+	que me falte el sustento, de no dalle
+	por mí, si en Persia vengo a estar cautivo.
+LISARDO
+	La puerta del jardín es ésta, Enrique;
+	quédate aquí, que es paso peligroso,
+	y estamos, como ves, entre enemigos.
+ENRIQUE
+	Entra seguro de que el mundo todo,
+	sin quitarme la vida en tu servicio,
+	de donde estoy pueda moverme un paso.
+LISARDO
+	Déme ventura el cielo.
+ENRIQUE
+		Ya la tienes,
+	pues a gozar de sus estrellas vienes.
+<i>Vase
+[ENRIQUE]
+	Cuando Júpiter fiero, en el diluvio,
+	tiempla de Etna y volcán la ardiente fragua,
+	y el mar, pasando el límite, desagua,
+	encarcelando al sol, dorado y rubio;
+	cuando cuelgan del Cáucaso y Vesubio
+	mil cuerpos entre verdes ovas y agua;
+	cuando balas de nieve y rayos fragua,
+	y el Gange se juntó con el Danubio;
+	cuando el tiempo mudó su mismo estilo
+	y el infierno pensó tener sosiego,
+	y excedió sus pirámides el Nilo;
+	cuando el mundo quedó turbado y ciego,
+	¿dónde estabas, Amor? ¿Cuál fue tu asilo,
+	que en tantas aguas se escapó tu fuego?
+<i>Sale don Duarte
+DUARTE
+	A verte vengo, si por dicha puedo
+	merecer en la noche de tu olvido
+	el sol más riguroso y encendido,
+	de cuyos rayos abrasado quedo,
+	Mas la tiniebla, donde el alma enredo,
+	laberinto de amor y del sentido,
+	así me tiene ciego y oprimido,
+	que al fin se rinde la esperanza al miedo.
+	Sal, mi divino sol, y tu belleza
+	abrase este laurel; que otras crüeles
+	entrañas ha cubierto su corteza.
+	Mas no salgas, señora, a estos laureles,
+	que tomarás ejemplo en su dureza,
+	y serás fugitiva, como sueles.
+<i>Sale Oliverio
+OLIVERIO
+	Parece que estos pasos temerosos
+	me llevan siempre a ver mi incierta vida,
+	porque en una esperanza tan perdida,
+	los más seguros son más peligrosos.
+	¡Ay! ¡Si dese jardín en los frondosos
+	árboles, que hacen sombra a mi homicida,
+	dejase yo, con la esperanza asida,
+	la causa de mis males amorososo!,
+	enmudecieran mis amargas quejas
+	y saliera este amor de lo profundo
+	de mis locas entrañas abrasadas.
+	Y en estos troncos, en lugar de rejas,
+	dos Anaxartes contemplara el mundo;
+	y el infierno, dos piedras castigadas.
+DUARTE
+	(Llegar quiero.)
+OLIVERIO
+		(Llegar quiero.)
+DUARTE
+	(¿Si es hombre aquél?)
+OLIVERIO
+		(¿Si éste es hombre?)
+DUARTE
+	¿Quién es?
+ENRIQUE
+		Un hombre.
+OLIVERIO
+		¿Qué nombre?
+	¡Noble soy! ¡Soy caballero!
+	¿Esto pasa? Pasen presto;
+	que tengo que hacer aquí.
+DUARTE
+	Yo también.
+OLIVERIO
+		Yo y todo.
+ENRIQUE
+		¿Ah, sí?
+	Pues yo soy dueño del puesto,
+	por derecho he de tener
+	aquí su primer lugar;
+	y también le han de dejar,
+	porque le sé defender.
+DUARTE
+	Ya no escuso de quitalle
+	a Vuesa Merced de ahí.
+ENRIQUE
+	¿Quién lo dice?
+DUARTE
+		Yo; y por mí,
+	esta espada y este talle.
+ENRIQUE
+	No son muchos; pocos son
+	él y su talle y su espada.
+DUARTE
+	Luego ¿no habré dicho nada?
+ENRIQUE
+	No ¡por Dios!
+DUARTE
+		¡Bravo león!
+OLIVERIO
+	Háganme placer también
+	de dejarme hablar a mí.
+ENRIQUE
+	¿Qué queréis?
+OLIVERIO
+		Estar aquí.
+ENRIQUE
+	¿Cuántos sois?
+OLIVERIO
+		Medio yo.
+ENRIQUE
+		Bien;
+	mas, para medio, no hay medio.
+OLIVERIO
+	Esto me parece hablar;
+	bien sé yo que puedo dar,
+	donde no hay medio, remedio.
+ENRIQUE
+	¿Cada uno de los tres
+	pretende este puesto?
+OLIVERIO
+		Sí.
+ENRIQUE
+	Y ¿es con quitármelo a mí,
+	cúyo habrá dos horas que es?
+OLIVERIO
+	Así parece.
+ENRIQUE
+		Pues yo
+	digo que darle no quiero.
+DUARTE
+	¡Muera, pues!
+ENRIQUE
+		¡Soy caballero!
+DUARTE
+	No lo mostráis.
+ENRIQUE
+		¿Cómo no?
+<i>Meten mano, y salen de las manos Lucinda y Lisardo
+LISARDO
+	¡Perdidos somos, mi bien!
+	Tu padre nos ha sentido.
+LUCINDA
+	Estas armas y ruïdo
+	a ti te buscan también.
+LISARDO
+	Pues ¿téngote de dejar?
+	Más quiero darme la muerte.
+LUCINDA
+	No lo hagas desa suerte,
+	pues que me puedes llevar.
+LISARDO
+	Sígueme.
+LUCINDA
+		¿Por aquí vamos?
+	Hacia aquel monte es mejor.
+<i>Vanse; y sale el Rey y un capitán y gente
+REY
+	¿Tantas armas y rumor?
+CAPITÁN
+	¡Ténganse al Rey!
+OLIVERIO
+		Ya lo estamos.
+REY
+	¿Quién sois, que en este terrero,
+	donde mi casa ofendéis,
+	atrevimiento tenéis
+	de desnudar el acero?
+ENRIQUE
+	Enrique, tu yerno, soy.
+REY
+	¿Qué es esto?
+ENRIQUE
+		Quieren matarme.
+OLIVERIO
+	Bien puedes, Rey, perdonarme.
+REY
+	¿Quién eres?
+OLIVERIO
+		Sin culpa estoy.
+CAPITÁN
+	Oliverio trasilvano
+	y don Duarte de Borbón,
+	los dos que le matan son.
+DUARTE
+	Yo puse a la espada mano
+	por quitar de aqueste puesto
+	un hombre, no conociendo
+	a Enrique; mas, ya que entiendo
+	su valor y celo honesto,
+	al Rey y a él perdón pido;
+	mi mano y brazos le doy.
+OLIVERIO
+	Y yo, que a fe de quien soy,
+	que inocente le he ofendido.
+REY
+	Estoy porque me paguéis
+	el pasado atrevimiento,
+	pues el noble pensamiento
+	con que nacistes perdéis.
+	Ya Enrique es mi yerno, y gusto
+	de que Lucinda le quiera;
+	no busquéis desa manera
+	su deshonra y mi disgusto;
+	que a no mirar, como debo,
+	de qué padres decendéis,
+	la pena que merecéis,
+	os diera agora de nuevo.
+OLIVERIO
+	Si de tus pasados años
+	puedes acaso, señor,
+	traer del poder de amor
+	a tu palacio los daños,
+	presto darás a mi edad
+	perdón; mas, para que entiendas
+	que desta guerra y contiendas
+	siempre es el fin la amistad,
+	y para que no volvamos
+	a nuestras tierras, señor,
+	descontentos del favor
+	que de tu mano esperamos,
+	venga Lucinda, y, si acaso
+	a Enrique quiere escoger,
+	eso basta a detener
+	a nuestra esperanza el paso.
+	Pero, si aquí cada cual
+	piensa que le favorece,
+	a su disgusto parece
+	que la casas, y haces mal.
+	Venga y diga que le quiere,
+	y luego todos se irán.
+REY
+	Id por ella, capitán,
+	y escoja lo que quisiere.
+<i>Vase el capitán por ella
+	Que ya estoy de tal manera,
+	que tengo por cierta cosa
+	que quien tiene hija hermosa
+	tiene en su casa una fiera.
+DUARTE
+	Señor, los merecimientos
+	de Enrique de Ingalaterra,
+	el valor, en paz y en guerra,
+	de sus altos pensamientos
+	son dignos de su esperanza;
+	pero tú debes mirar
+	que hay quien le pueda igualar,
+	si no es que ese cielo alcanza.
+	Pues en los que iguales son
+	dale a su gusto marido.
+REY
+	Presto veréis lo que ha sido
+	y que fue justa elección.
+	Tenéis pleito sin justicia,
+	y, porque no la tenéis,
+	con la revista veréis
+	que apelastes de malicia.
+ENRIQUE
+	En todo te has gobernado
+	como discreto jüez;
+	quede, señor, de una vez
+	nuestro pleito averiguado;
+	que de lo que es igualdad
+	no tengo que responder,
+	porque no puede tener
+	ninguno más calidad;
+	que, si hoy el cielo me sube
+	a este bien, sólo se advierte
+	que a mi me cupo la suerte
+	por buena estrella que tuve.
+<i>Sale el capitán
+CAPITÁN
+	Todo el palacio alborotado queda;
+	no sé cómo es posible que a tus ojos
+	tan gran maldad, invicto Rey, suceda.
+REY
+	¿Qué es esto, capitán?
+CAPITÁN
+		Que a tus enojos
+	hoy la fortuna ha dado gran aumento.
+REY
+	¿Murió Lucinda?
+CAPITÁN
+		Es de un traidor despojos.
+	Ni en cuarto del jardín, ni en aposento,
+	ni en todo tu palacio, hay señas della.
+REY
+	¿Qué hombre oyó nueva de mayor tormento?
+CAPITÁN
+	Sólo dicen que ayer habló con ella
+	el Caballero de los Lirios de Oro.
+REY
+	¡Oh airado cielo, oh injuriosa estrella!
+	¡Ese traidor la lleva; ése el decoro
+	de mi real honor bajó del cielo;
+	ése de aquesta Europa ha sido el toro;
+	ése con mi grandeza dio en el suelo;
+	ése fue el Paris desta nueva Elena!
+ENRIQUE
+	De su encubierto nombre lo recelo.
+REY
+	¡O nueva triste, o confusión, o pena,
+	la mayor que ha llegado a mi sentido!
+	Mas ni la Libia en su desierta arena,
+	ni en donde alumbra el sol más encendido,
+	perdonaré buscando a quien me lleva
+	el loco dueño de mi honor perdido.
+OLIVERIO
+	Aunque llevados, Príncipe, a la prueba,
+	de merecerla me faltó esperanza,
+	me alcanza parte de la triste nueva;
+	y mostraré en buscarla que me alcanza,
+	discurriendo la tierra con mi gente
+	y ofreciendo la vida a la venganza.
+DUARTE
+	Ninguno como yo su agravio siente.
+	Haré al traidor que del rigor se asombre,
+	con que por tierra y mar buscarle intente;
+	no habrá puesto jamás la planta hombre
+	donde yo las pondré para buscalle.
+	¡Que no se supo dél la patria o nombre!
+ENRIQUE
+	Bien mostraban sus armas y su talle
+	que no era falto de nobleza.
+REY
+		Vamos;
+	que en los cielos espero castigalle.
+<i>Vase
+ENRIQUE
+	Sepamos los caminos que tomamos.
+OLIVERIO
+	Yo voy al mar.
+<i>Vase
+DUARTE
+		Y yo a Francia por tierra.
+<i>Vase
+ENRIQUE
+	Pues yo del monte contaré los ramos.
+	¡Válgame Dios, cuánto el hombre yerra
+	que en otro pensamiento y amor fía!
+	¡Qué tanta vanidad y engaño encierra!
+	Fuese mi amigo, y engañó la espía;
+	mas no es posible que me hiciese engaño:
+	imagino que hablarme no podría.
+	Quiero seguirle, no le venga daño.
+<i>Vase
+<i>Salen Lucinda y Lisardo
+LISARDO
+	Cansada estarás.
+LUCINDA
+		No puedo
+	cansarme, mi bien, contigo;
+	lo que me cansa conmigo
+	es de mi desdicha el miedo.
+	¿Dónde ataste los caballos?
+LISARDO
+	A esos olmos los até,
+	y tal, que yo no pensé
+	que era necesario atallos.
+LUCINDA
+	Pasar nos conviene el día
+	en esta oscura montaña.
+	¡Oh, cuánto la noche engaña!
+LISARDO
+	Siéntate, señora mía,
+	que bien lo habrás menester.
+LUCINDA
+	A no ser bien para mí
+	el ser tu mujer aquí,
+	negara que soy mujer.
+	Ánimo tengo.
+LISARDO
+		Yo creo
+	eso y más de tu valor;
+	que es muy animoso amor
+	cuando le fuerza el deseo.
+	Mas es fuerza descansar,
+	aunque mi peligro siento,
+	porque sin tomar aliento
+	¿cómo podrás caminar?
+LUCINDA
+	Aquí me siento a tu ruego
+	y porque, si verdad digo,
+	me aprieta un sueño...
+LISARDO
+		¡Qué amigo
+	es del peligro el sosiego!
+	Pero bien podrás dormir,
+	que yo velaré entretanto.
+LUCINDA
+	De que eso digas me espanto;
+	bien sabré el sueño sufrir.
+LISARDO
+	Estás ya medio dormida.
+	Mas duerme, que yo estaré
+	despierto.
+LUCINDA
+		No duermo, a fe,
+	sino que estoy divertida.
+	Pero cuéntame la historia
+	que comenzaste, mi bien;
+	que ella servirá también
+	de despertar mi memoria;
+	que ya sabes que me has dado
+	palabra de declararme
+	quién eres.
+LISARDO
+		Por desvelarme
+	y por darte algún cuidado,
+	digo, mi señora, así:
+LUCINDA
+	Ve ¡por tu vida! diciendo;
+	y, si me fuere durmiendo,
+	despiértame.
+LISARDO
+		Harélo.
+LUCINDA
+		Di.
+LISARDO
+	Yo soy, hermosa Lucinda,
+	sobrino del rey de Francia;
+	Carlos, duque de Proenza,
+	es mi padre; ella es mi patria.
+	Lisardo es mi propio nombre;
+	esos tres lirios, mis armas:
+	mira qué de cosas juntas
+	te he dicho en cuatro palabras.
+	Estábamos una fiesta,
+	día en que la Iglesia canta
+	aquel tránsito glorioso
+	de la que del sol fue el alba,
+	muchos caballeros mozos
+	viendo las hermosas damas,
+	dándoles talle y requiebros;
+	y ellas a nosotros, galas.
+	Cuál alaba las morenas,
+	cuál encarece las blancas;
+	cuál ensalza rubias hebras,
+	cuál negras hebras ensalza;
+	cuál dice que ojos azules
+	fueron cielo de su alma;
+	cuál dice que en ojos verdes
+	pasó a la mar su esperanza;
+	cuál dice que, en siendo negros,
+	tienen hermosura y gracia;
+	de donde nació porfía
+	que fue deste caso causa,
+	porque luego cada uno
+	quiso nombrar lo que amaba;
+	cuál sube a Clarinda al cielo,
+	cuál a Porcia, cuál a Laura;
+	sólo yo no tuve a quién,
+	que para ti me guardaba.
+	¿Duermes? Oye ¡por tu vida!
+	que entras agora en la danza.
+LUCINDA
+	No duermo, que bien te escucho.
+LISARDO
+	Digo, pues, mi bien, que estaba
+	entre aquestos caballeros
+	esta dichosa mañana
+	un napolitano noble,
+	que dijo hablando de damas:
+	“Lucinda es sol de hermosura;
+	[...........................].”
+	Yo ¡triste! no sé por qué,
+	si no me lo dijo el alma,
+	le pregunté al caballero:
+	“¿Quién es, señor, esa dama?”
+	“Del rey de Nápoles” dijo
+	“es hija, no menos clara
+	en sangre que en hermosura;
+	pero la hermosura encanta,
+	porque tiene mi señora...”
+	¿Duermes?
+LUCINDA
+		No, que imaginaba
+	en esto que vas diciendo.
+LISARDO
+	Pues ¿qué digo?
+LUCINDA
+		Que el de Francia
+	es tu tío. ¿Piensas tú
+	que no te escucho?
+LISARDO
+		¡Oh, qué gracia!
+	Esto te dije al principio
+	y agora digo que estaba
+	alabándote aquel hombre.
+LUCINDA
+	Bien oigo que tú me alabas.
+LISARDO
+	Digo, pues, que prosiguió
+	en decir tus alabanzas,
+	de suerte, que, como vista,
+	hizo efecto en mí tu fama.
+	Diome deseo de verte,
+	y, como en esto pensaba,
+	te soñaba muchas veces.
+	¡Qué agüeros! ¡Qué fuerza estraña!
+	Viendo mi desasosiego,
+	propuse dejar mi casa;
+	pedí a mis padres licencia,
+	tres veces me fue negada;
+	pero, viendo mi porfía,
+	me la otorgaron la cuarta.
+	Llamóme mi madre a solas,
+	y así llorando me habla:
+	“Porque las cosas del mundo
+	son mudables, hijo, y varias,
+	y se han visto muchos reyes
+	en necesidades claras,
+	toma aquestos tres anillos,
+	que tres diamantes engastan,
+	monstruos de naturaleza,
+	milagro de sus hazañas.”
+	Tomélos y despedíme,
+	y, con mi caballo y armas
+	y un escudero no más,
+	dejé a mis padres y patria.
+	Vine a Nápoles, y en ella
+	me hallé en las fiestas pasadas,
+	donde vencí al español,
+	al portugués, al de Albania.
+	¡Ah, mi bien! ¡Ah, dueño mío!
+	Ya el sueño cubrió su cara
+	de rosas; y sus sentidos,
+	de imaginaciones vanas.
+	Despertalla no es razón,
+	sino velar y miralla.
+	¿Qué es lo que tiene en el pecho?
+	Una colorada banda.
+	¡Válgame Dios! ¿Qué hay en ella,
+	que en tal sagrario se guarda?
+	Los diamantes que le di
+	y los que agora contaba.
+	No es justo que en estos pechos,
+	donde el amor se regala,
+	esté una cosa tan dura,
+	pues hasta un mármol ablandan.
+	Sobre esta piedra los pongo.
+	Y vos, dulce esposa amada,
+	mirad que en ese lugar
+	sólo amor tiene posada.
+	¡Ay, triste! un águila vino,
+	que bajó de aquellas hayas;
+	imaginando que es carne,
+	el tafetán me arrebata.
+	Ir tras ella me conviene,
+	pues, en viendo que se engaña,
+	ha de soltarla. ¡Ay de mí,
+	que inclina el vuelo a la playa!
+	¿Si se ha de entrar en el mar?
+	¡Robadora, espera, aguarda!
+	Sobre una peña se pone;
+	desde aquí podré tirarla.
+<i>Vase. Despierta Lucinda
+LUCINDA
+	Prosigue, mi bien, la historia;
+	que bien te voy entendiendo.
+<i>Entran Belardo y Faustino y Clarino, villanos
+BELARDO
+	Iráse el carbón haciendo
+	como viene la memoria,
+	y algunas arrobas más.
+FAUSTINO
+	Cortar podemos de aquí.
+CLARINO
+	Que viniera, presumí,
+	con la carreta Tomás.
+BELARDO
+	En este tronco sacudo.
+CLARINO
+	¡Quedo, que es una mujer!
+BELARDO
+	¡Gentil leña puede hacer!
+CLARINO
+	Por todo estremo eres rudo.
+BELARDO
+	No estuve en esto muy ciego;
+	que estos árboles no son
+	malos para hacer carbón.
+	¡Que los abrase mal fuego!
+	Aquí a miralla me inclino.
+	¿Qué digo? No duermas más.
+<i>Despierta
+LUCINDA
+	Bien oigo; di más.
+BELARDO
+		Jamás
+	vi tal belleza, Clarino.
+	Que le diga más me ruega.
+LUCINDA
+	Cuéntalo, mi vida, todo.
+BELARDO
+	¿Mi vida? ¡Notable apodo!
+	O ésta está borracha o ciega.
+FAUSTINO
+	¿Apodo dices?
+BELARDO
+		Pues ¿no?
+FAUSTINO
+	¡Calla, bestia, que es requiebro!
+BELARDO
+	¿Mi vida?, y no ha habido enebro
+	más espinoso que yo.
+	Mis ojos, si despertáis,
+	veréis que tenéis delante
+	un...
+CLARINO
+		Diamante.
+BELARDO
+		Un elefante
+	que os quiere más que pensáis.
+LUCINDA
+	Mucho he dormido; ya veo
+	que estabais de mí ofendido;
+	pero vos habréis dormido
+	conmigo, a lo que yo creo.
+BELARDO
+	¡Oste, puto! Mas ¿qué quiere
+	pedirme? ¿Que yo he dormido
+	con ella?
+LUCINDA
+		¡Ay, Dios! ¿Qué ruïdo
+	es éste?
+CLARINO
+		Que no se altere,
+	que ninguno la hará mal.
+LUCINDA
+	¡Ah, sueño, gran mal me has hecho,
+	alguna cosa sospecho!
+	¡Muerta estoy, estoy mortal!
+	¿No estaba, amigos, aquí
+	un hombre?
+FAUSTINO
+		Señora, no.
+BELARDO
+	Sí estaba.
+FAUSTINO
+		¿Cuándo o quién?
+BELARDO
+		Yo,
+	que ella me lo dijo a mí.
+LUCINDA
+	¿Sabéis si le llevan preso?
+CLARINO
+	Que no hay en toda la tierra
+	hombre de paz ni de guerra.
+LUCINDA
+	Perderé, sin duda, el seso;
+	mas no, que, si le prendieran,
+	cierto es que no me dejaran.
+	¿En qué mis manos reparan?
+	¿En qué estriban? ¿En qué esperan?
+	Matarme sólo es partido.
+	¿Qué me queda sin mi bien?
+	¿Quién me dirá dél? ¿En quién
+	hallaré mi bien perdido?
+	¿Si me dejó de temor?
+	Pero ¿cómo puede ser?
+	¿Qué puede un hombre temer
+	de tanta sangre y valor?
+	¿Si le han muerto estos villanos
+	por roballe? Esto es lo cierto.
+	¡Perros, mi bien habéis muerto
+	con esas infames manos!
+	¡Dadme, traidores, su vida!
+BELARDO
+	¿No digo yo que está loca?
+LUCINDA
+	¡Con las manos, con la boca
+	quiero matar su homicida!
+	¡Dadme mi bien!
+CLARINO
+		¡Harre allá!
+	Pida como ha de pedir
+	su bien, si le han de decir
+	adónde su bien está.
+LUCINDA
+	Sí, amigo, decidme dél;
+	mi bien pido: ¿no es razón?
+FAUSTINO
+	Algún mal de corazón
+	debe de tener crüel.
+	Dale tú su bien, Belardo.
+BELARDO
+	¿Yo?
+LUCINDA
+		Sí, mi amigo; ¿pues no?
+BELARDO
+	¿Adónde le tengo yo?
+LUCINDA
+	Presto, presto; ¿qué me tardo?
+BELARDO
+	¡Ay, que me ha muerto!
+LUCINDA
+		De poco
+	se queja; dadme mi bien.
+BELARDO
+	Ni le tengo ni sé quién
+	le puede tener tampoco.
+	¡Ved la uñas que me enseña!
+	Déjanos aquí, mujer;
+	¿leña venimos a hacer
+	y haces de nosotros leña?
+LUCINDA
+	No se consuela mi mal
+	queriendo perder el seso;
+	que, como es mal en exceso,
+	es el sentimiento igual.
+	Sobrepuja el sentimiento
+	a la fuerza del sentido,
+	que es más el bien que he perdido
+	que todo el dolor que siento.
+	¿Dónde iré? ¿Quién me dará
+	consejo en tanto dolor?
+	Porque, si le pido a amor,
+	sólo el de morir me da.
+	Pues esta gente es el viento,
+	todo estremo es sin remedio,
+	que, como yo de remedio,
+	carecen de entendimiento.
+	Árboles de aqueste monte
+	que así ardéis en vivas llamas,
+	antes que otra vez las ramas
+	de aquel sol de ese horizonte,
+	¿dónde mi bien encubrís?
+	¡A vos, que en efeto habláis
+	y que casi a entender dais
+	que lo que os dicen sentís!,
+	¿dónde está mi bien perdido?
+	Hasta el eco no responde,
+	que todo a un triste se esconde,
+	y aun sólo falta ruïdo.
+	¿Será remedio buscalle
+	o templanza del deseo?
+	El mar parece que veo
+	a la margen de aquel valle.
+	¿Daréle voces acaso?
+	¿Responderá por su nombre?
+	¡Que no es piedra, sino hombre,
+	por quien tantas penas paso!
+	Sólo este remedio aguardo;
+	mas ¡ay, triste! el viento sigo.
+	¡Lisardo; ah, Lisardo amigo!
+	Ya suena el eco ¡ah, Lisardo!
+<i>Vase
+BELARDO
+	¿Si se va a echar en el mar?
+CLARINO
+	Échese donde quisiere
+	con tal que no nos altere.
+FAUSTINO
+	Llorando estoy de pesar.
+CLARINO
+	Faustino ¿qué te va a ti?
+FAUSTINO
+	¿Hay lástima semejante
+	como ver que por su amante
+	llore esta mujer así?
+BELARDO
+	Calla y déjala penar,
+	y que cielo y tierra implore,
+	que no es mucho que ella llore
+	de cuantos hacen llorar;
+	que mujer sin calidad,
+	dice el cura de la villa,
+	que es muy rara maravilla
+	que amando trate verdad.
+CLARINO
+	¿Adónde está la firmeza,
+	aunque me arguyáis los dos,
+	sino en mujeres?
+BELARDO
+		¡Par Dios,
+	que te quiebre la cabeza!
+CLARINO
+	¿Por qué?
+BELARDO
+		Porque esa razón
+	ofende más que un mentís.
+CLARINO
+	Todos los que amáis decís
+	faltas de su condición,
+	y nunca miráis las vuestras,
+	de quien ellas las aprenden;
+	que, de los que las ofenden,
+	vienen a quedar maestras.
+	Cuando una mujer comienza
+	a entender ¿qué conoció?
+	¿quién la habló? ¿quién la quitó
+	con el miedo la vergüenza?
+	¿No fue un hombre? Pues si el hombre
+	[......................]
+	engaña a otras, ¿no ves
+	justo que infama su nombre?
+BELARDO
+	Y al primer hombre, Clarino,
+	¿quién le engañó?
+CLARINO
+		Una mujer.
+BELARDO
+	Pues ¿qué puedes responder
+	que no sea desatino?
+CLARINO
+	Yo no me meto en sermones;
+	tú, que andas en la tribuna
+	y, cuando te da la luna,
+	sabes escribir canciones,
+	trata desos argumentos,
+	que en lo que yo me resuelvo,
+	es que las adoro y vuelvo
+	por sus buenos pensamientos.
+BELARDO
+	Esto de adorar ignoro;
+	que tú me engañas, aosadas,
+	porque las tengo doradas
+	de mucho que las adoro.
+<i>Entre Enrique de Ingalaterra
+ENRIQUE
+	Pues te sigo y no descanso,
+	sin duda en el viento vas,
+	que aun pienso parado estás
+	en este claro remanso.
+	Algún anillo encantado,
+	como Angélica y Medoro,
+	pues la ventura del moro
+	debes de haber heredado,
+	llevas, sin duda, en la boca.
+	Aquí hay gente. ¿Quién va allá?
+FAUSTINO
+	Sin duda es éste el que va
+	en busca de aquella loca.
+BELARDO
+	Corred, corred noramala;
+	mala se os haga, señor,
+	porque dormir con amor
+	no es hidalguía ni es gala;
+	buscando os va con mil voces
+	una dama a toda priesa.
+ENRIQUE
+	¿Quién, amigos?, ¿la Princesa?
+CLARINO
+	Mas va que nos mata a coces.
+ENRIQUE
+	¿Era princesa?
+FAUSTINO
+		No sé.
+CLARINO
+	Dile que sí.
+BELARDO
+		Sí, señor.
+ENRIQUE
+	A peligro va su honor.
+	¿Iba sola?
+BELARDO
+		Sola fue.
+ENRIQUE
+	¿No vino un hombre con ella?
+BELARDO
+	Que no, señor.
+ENRIQUE
+		¿Por adónde
+	se fue?
+BELARDO
+		Ese monte la esconde.
+ENRIQUE
+	No la esconderá, que es bella;
+	pero ¿voces daba?
+BELARDO
+		Sí;
+	que en voces os llamaba.
+ENRIQUE
+	¿Sabéis qué nombre nombraba?
+BELARDO
+	Sí, señor.
+ENRIQUE
+		¿A quién?
+BELARDO
+		A mí.
+ENRIQUE
+	¿Cómo así?
+CLARINO
+		No digas eso.
+BELARDO
+	No, señor; no me nombró,
+	sino que le dije yo
+	que no echase por lo espeso.
+ENRIQUE
+	El nombre que dijo, di.
+BELARDO
+	¿Qué le diré?
+CLARINO
+		¿Qué sé yo?
+ENRIQUE
+	Dilo.
+BELARDO
+		Aquése os llamó;
+	mirá si os llamáis así.
+ENRIQUE
+	Aquésta es gente ignorante;
+	seguir quiero mi camino,
+	que otra cosa es desatino.
+CLARINO
+	¡Por Dios, como un estudiante!
+BELARDO
+	Mal mi persona conoces.
+	¿No nos iríamos?
+CLARINO
+		Calla.
+BELARDO
+	Pues si éste va y no la halla
+	¿no nos dará muchas coces?
+FAUSTINO
+	¿Oís que dijo princesa?
+CLARINO
+	¿Qué es princesa?
+BELARDO
+		Alguna cosa
+	debe ser dificultosa;
+	de que no lo sé me pesa.
+<i>Sale Lucinda de peregrina
+LUCINDA
+	De los brazos de una encina
+	los caballos desaté,
+	y este vestido troqué
+	a una pobre peregrina,
+	con el cual pienso correr
+	el mundo, hasta hallar mi esposo.
+FAUSTINO
+	¡Hola! ¡Suceso espantoso!
+	¿Si es ésta aquella mujer?
+CLARINO
+	¡Par Dios, que es ella, y vestida
+	en hábito diferente!
+BELARDO
+	Oid, Princesa, a quien aumente
+	el cielo tan justa vida:
+	agora se va de aquí
+	el hombre por quien lloráis.
+LUCINDA
+	¿Qué decís?
+BELARDO
+		Lo que escucháis.
+LUCINDA
+	Y qué ¿le habéis visto?
+BELARDO
+		Sí.
+LUCINDA
+	¿Qué señas tiene?
+BELARDO
+		Es un hombre
+	algo alto, bajo y florido,
+	flaco, rubio, consumido,
+	moreno y muy gentilhombre,
+	y preguntaba por vos,
+	llamándoos la Princesa.
+LUCINDA
+	¿Por dónde va?
+BELARDO
+		Ya atraviesa
+	el monte.
+LUCINDA
+		¿Cierto?
+CLARINO
+		¡Por Dios!
+	Mas no le supo decir
+	ninguno si os hallaría.
+LUCINDA
+	El alma, con alegría,
+	quiere a los ojos salir.
+	Pastores de mis entrañas,
+	reyes, señores, amigos,
+	de mis venturas testigos
+	en estas altas montañas;
+	queridos, amados padres,
+	hermanos...
+CLARINO
+		Si desos modos
+	hemos de ser padres todos,
+	debe de tener mil madres.
+LUCINDA
+	¿Qué os daré por esta nueva?
+CLARINO
+	El irse; no más tomamos.
+LUCINDA
+	Árboles, hojas y ramos,
+	aves cuyo canto eleva,
+	¿vivo mi bien? Cerca está;
+	no hay duda. ¿Visto le habéis?
+	Enseñadme, si sabéis,
+	por dónde en mi busca va.
+	Claras fuentes, si con sed
+	en vosotras ha bebido,
+	decidme por dónde ha ido,
+	hacedme aquesta merced.
+	Hijos, a Dios; reyes míos,
+	loca voy; quedad con Dios.
+FAUSTINO
+	Más claro se ve eso en vos
+	que el agua en aquestos ríos.
+CLARINO
+	Vámonos antes que atruene.
+BELARDO
+	Vamos, no vuelva esta dama;
+	que quien anda con quien ama
+	pocas buenas noches tiene.
+FAUSTINO
+	Tu parecer seguir quiero.
+BELARDO
+	Siempre fue mejor vecino,
+	para dormir, el buen vino,
+	que el amante, ni el herrero.
+<j>2
+<i>Salen Lucinda y un patrón de la nave
+LUCINDA
+	¿Qué tierra es ésta, patrón?
+PATRÓN
+	Este puerto es Aguas Muertas.
+LUCINDA
+	Mis esperanzas inciertas
+	dese propio nombre son.
+	Hoy mi fortuna comienza,
+	si no es que a imitarle acierto.
+	¿Quién es señor deste puerto?
+PATRÓN
+	Carlos, duque de Proenza.
+LUCINDA
+	¡Válgame Dios!
+PATRÓN
+		¿Qué os espanta?
+LUCINDA
+	La tierra.
+PATRÓN
+		Es tierra estremada.
+LUCINDA
+	¿Adónde hallaré posada?
+	(¡Qué dicha en desdicha tanta,
+	y por qué varios caminos!)
+PATRÓN
+	Aquí intentaron labrar
+	un hospital para dar
+	posada a los peregrinos;
+	que sale del mar aquí
+	mucha gente maltratada;
+	mas no sé si dan posada,
+	aunque yo pienso que sí.
+LUCINDA
+	Volved, patrón, a la mar,
+	si no es que el viento lo impida,
+	y avisadme ¡por mi vida!
+	si velas quisieren dar;
+	y creed que os agradezco
+	el haberme acompañado.
+PATRÓN
+	Lisarda, en ese cuidado
+	ninguna cosa merezco;
+	que amor, por propio interés,
+	a servirte me obligó.
+LUCINDA
+	¿Es éste el huésped?
+PATRÓN
+		Creo yo
+	que desta casa lo es.
+<i>Sale Rosardo, huésped
+LUCINDA
+	Háblale de parte mía.
+PATRÓN
+	Dios os guarde.
+ROSARDO
+		Bien seáis
+	venido.
+LUCINDA
+		(Hoy, celos, me dais
+	de contento el primer día;
+	que ésta es tierra de mi bien.)
+PATRÓN
+	Esta hermosa peregrina
+	pienso que a España camina;
+	viene de Jerusalén.
+	Dalde con gusto hospedaje;
+	por dos cosas lo merece:
+	por la hermosura que ofrece,
+	señal de noble linaje,
+	y porque palabra os doy
+	que es una santa.
+ROSARDO
+		Eso creo;
+	que en los indicios que veo,
+	della satisfecho estoy.
+PATRÓN
+	No dudes, que su virtud,
+	a los que la han codiciado,
+	a gran respeto ha obligado.
+ROSARDO
+	¡Qué honestidad, qué quietud!
+	Yo os prometo de servilla.
+PATRÓN
+	Hablar al huésped podéis,
+	y mirad si algo queréis,
+	que voy, Lisarda, a la villa.
+LUCINDA
+	Que antes que entréis en el mar,
+	aquí me volváis a ver.
+PATRÓN
+	A Dios.
+<i>Vase
+ROSARDO
+		Vos me dais placer,
+	y vuestro nombre pesar.
+LUCINDA
+	¿De qué suerte, huésped mío,
+	mi nombre esa pena encierra?
+ROSARDO
+	Los dueños de aquesta tierra
+	del Alpe y Perineo frío,
+	tuvieron de aquese nombre
+	un hijo, aun pensarlo temo,
+	fuerte y sabio por estremo,
+	y en estremo gentilhombre.
+	Fue a Nápoles a unas justas;
+	dicen que vio a una mujer,
+	que siempre vienen a ser
+	deste mal causas injustas,
+	y nunca más pareció.
+	Murió de pena su madre,
+	y el Duque su noble padre
+	casi a la muerte llegó,
+	de la cual no se escapara
+	si una hija no tuviera,
+	en quien, de pena tan fiera,
+	su larga edad consolara.
+	Cúbrese de triste luto
+	la tierra que le crïó,
+	porque desde que faltó,
+	aun los campos no dan fruto.
+	Era este mozo alegría
+	de sus vasallos, ejemplo
+	de caballeros, un templo
+	de virtud y cortesía;
+	mas, por castigo del cielo,
+	que llama el alma aflicción,
+	pudo amor, como Sansón,
+	dar con el templo en el suelo.
+	¡Maldiga Dios la mujer
+	que a tanto mal le obligó,
+	pues tal pesar nos dejó!
+	¡Nunca Dios le dé placer!
+	¿Lloráis? ¿Qué tenéis? Alzad
+	los ojos. ¿No respondéis?
+	Confirmar ¡por Dios! queréis
+	vuestra virtud y bondad.
+	No me espanto que esta historia
+	pena, peregrina, os diese,
+	ni que a lágrimas moviese
+	vuestra piadosa memoria;
+	que todos cuantos la saben
+	con las mismas la celebran;
+	que mil corazones quiebran
+	los daños que en ella caben.
+LUCINDA
+	Por cierto, que con razón
+	me ha movido a sentimiento,
+	aunque por allá este cuento
+	tiene contraria opinión;
+	y me espanta que culpéis
+	la mujer que él engañó,
+	que dicen que la dejó.
+ROSARDO
+	¡Qué mal la historia sabéis!
+	No era hombre de sangre tal,
+	que si una vez la sacara,
+	por todo el mundo dejara
+	de serle firme y leal;
+	y esto bien se echa de ver,
+	pues ninguno de los dos
+	ha parecido.
+LUCINDA
+		¡Por Dios,
+	que verdad debe de ser!
+	Y, pues él no está en su tierra,
+	cosa que yo imaginé,
+	con ella sin duda fue
+	o el mar a los dos encierra.
+	Pena su padre me da;
+	su hermana ¿está buena?
+ROSARDO
+		Es dama
+	de gran valor, nombre y fama,
+	y para casar está.
+LUCINDA
+	Dios a Lisardo les cobre,
+	por la sangre que vertió,
+	que a fe que lo ruego yo,
+	aunque pecadora pobre.
+	Dios se le traiga con bien;
+	Dios se le encamine aquí.
+ROSARDO
+	Rogádselo vos así.
+LUCINDA
+	A mí me importa también,
+	porque conocí a la dama
+	que de Nápoles sacó.
+ROSARDO
+	¿Era hermosa?
+LUCINDA
+		No sé yo
+	si lo fue como la fama.
+	Mas yo sé que por Lisardo
+	dejó Lucinda en su tierra
+	a Enrique de Ingalaterra,
+	muy gentilhombre y gallardo,
+	y a Duarte de Borbón,
+	infante de Portugal.
+ROSARDO
+	Yo no la he tratado mal,
+	mas porque fue la ocasión:
+	Tarquino forzó a Lucrecia;
+	y a Florinda, el postrer godo;
+	y, estando libres de todo,
+	las culpa el mundo y desprecia,
+	no porque fueron culpadas
+	de aquella fuerza y traición,
+	pero por ser la ocasión
+	de España y Roma abrasadas.
+LUCINDA
+	Huésped, descansar querría
+	de mis peregrinaciones;
+	las mayores estaciones
+	he visto que ver podía.
+	Ya no tengo más que ver;
+	yo querría procurar
+	lugar donde descansar,
+	y pienso que éste ha de ser.
+	Creo que haré un gran servicio
+	a Dios, si edifico aquí
+	un hospital...
+ROSARDO
+		Creeldo así.
+LUCINDA
+	Para común beneficio.
+ROSARDO
+	Hay tanta necesidad,
+	por muchos que del mar salen
+	y deste puerto se valen,
+	que la general piedad
+	del pueblo lo comenzó
+	con cristianos pensamientos,
+	mas quedóse en los cimientos,
+	porque limosna faltó.
+LUCINDA
+	Yo lo pienso proseguir.
+ROSARDO
+	Piadoso celo tenéis;
+	mas ¿cómo o dónde podéis
+	tanta limosna pedir?
+LUCINDA
+	Yo pedí a Su Santidad
+	limosna, y los cardenales
+	más ricos y principales
+	me dieron gran cantidad:
+	creo que hacerle podré.
+ROSARDO
+	El Duque os ayudará,
+	que por su hijo no habrá
+	oro y plata que no os dé.
+LUCINDA
+	Venid, que tratarlo quiero.
+ROSARDO
+	Y más para peregrinos.
+LUCINDA
+	¡Por qué notables caminos,
+	adonde nacistes muero!
+<i>Vanse. Sale el soldán de Persia, Amurates y Cambises, moros
+SOLDÁN
+	¿Que tienes esclavo?
+AMURATES
+		Habrá dos años.
+SOLDÁN
+	¿Y que es tan acertado y tan discreto?
+AMURATES
+	Si de esclavo, señor, no son engaños,
+	que es un José de Egipto te prometo.
+	Con un pobre sustento y viles paños
+	le maltrato y castigo, sólo a efeto
+	de que deje su ley.
+SOLDÁN
+		Eso condeno;
+	que no es razón, cuando el esclavo es bueno.
+CAMBISES
+	Quiere Amurates darle a su Sidora
+	y hacerle capitán de sus galeras,
+	y no hay remedio que la ley que adora
+	quiera dejar de burlas ni de veras.
+	Tras eso, en las mazmorras donde mora,
+	indignas de habitar rústicas fieras,
+	se suele estar un mes, no digo un día,
+	llorando con mortal melancolía.
+SOLDÁN
+	Llora su libertad.
+AMURATES
+		A voces llama
+	a una mujer.
+SOLDÁN
+		Amor, sin duda, es eso;
+	que todos son efetos de quien ama,
+	y con razón, ausente, pierde el seso.
+AMURATES
+	Pienso que es su mujer.
+SOLDÁN
+		Mujer o dama,
+	tendrán igual de la balanza el peso.
+	Ve, Amurates, por él.
+AMURATES
+		Yo voy.
+SOLDÁN
+		Camina.
+	¡O visión espantosa y peregrina!
+CAMBISES
+	Mira, señor, que es sueño, es sombra, es viento,
+	y mil fantasmas y colores hace
+	de la solicitud del pensamiento.
+	Como al humor y condición aplace
+	[................................]
+	[................................]
+	la cólera al colérico, a su dueño
+	la sangre incita a semejante sueño.
+SOLDÁN
+	Sí; mas dicen que Alá mil veces suele
+	en sueños revelar grandes secretos,
+	y en los que reinan más, a lo que impele
+	aquesta traza para mil efetos.
+	¿No quieres tú que desto me desvele
+	y busque amigos sabios y discretos
+	que me digan algunas prevenciones?
+CAMBISES
+	Sueños son, vanidades y ficciones.
+<i>Entra Amurates con Lisardo, descalzo
+AMURATES
+	Éste es mi esclavo.
+LISARDO
+		Invicto Cariadeno,
+	a tus pies se presenta un vil esclavo,
+	de indignidad y de vergüenza lleno.
+SOLDÁN
+	¡Bravo mancebo!
+CAMBISES
+		Por estremo bravo.
+SOLDÁN
+	Agora más tu sinrazón condeno
+	y su persona con su ingenio alabo.
+	¿Cómo así lo trataste?
+AMURATES
+		Ya lo sabes.
+LISARDO
+	Señor, ni le condenes ni me alabes.
+	Mi dueño es bueno, y yo quien no merece
+	más honra ni favor, por ser tan malo.
+SOLDÁN
+	Dime tu patria y nombre.
+LISARDO
+		Aunque parece
+	que mi desdicha a tu grandeza igualo,
+	pues tú lo mandas y ocasión se ofrece
+	de hacer a mi memoria este regalo,
+	oye, pues lo es que referir me mande
+	un gran señor, una desdicha grande.
+	Mi propio nombre es Lucindo,
+	soldán famoso de Persia;
+	la mejor parte de Francia,
+	mi patria, y humilde en ella.
+	A ver unas fiestas ricas
+	vine a Nápoles la bella;
+	pero pocas tiene el mundo
+	que no paren en tragedia.
+	Caro precio me costaron,
+	pues di el alma por las fiestas
+	a una mujer, que también
+	me rindió la suya en ellas.
+	Estábamos una noche,
+	de mis amores tercera
+	y la tercera de hablalla,
+	en el cuadro de una huerta.
+	Sentí ruïdo de espadas;
+	pensé que sus padres eran;
+	saquéla y llevéla a un monte,
+	a quien el mar los pies besa.
+	Túvela, aunque honestamente,
+	en mis brazos una siesta,
+	aunque en aquel sol entonces
+	me abrasaban sus estrellas.
+	Mirando sus pechos blancos,
+	cárcel de almas, de amor celdas,
+	hallé un tafetán en ellos;
+	saquéle por ver lo que era.
+	Eran dos anillos míos;
+	púselos sobre una piedra;
+	vino un águila, llevólo
+	en alto vuelo, aunque cerca.
+	Que, como era colorado
+	y estaba, sin duda, hambrienta,
+	imaginó que era carne,
+	y alzóse en alto a comerla:
+	ved por dónde, gran señor,
+	las desventuras comienzan.
+	Levantéme por seguilla,
+	que presumí detenella.
+	A treinta pasos del mar,
+	enfrente de la ribera,
+	con el tafetán se puso
+	el águila en una peña.
+	Yo, pensando que, por dicha,
+	quisiera ponerle en ella,
+	miré si pasar podría
+	mientras durmiese mi prenda.
+	Hallé una barquilla rota,
+	de algunas algas cubierta,
+	y atado un remo de haya
+	a un escálamo de cuerda.
+	Entré en ella presuroso,
+	y, deslizando el arena,
+	la proa a la peña inclino,
+	mejor dijera a la pena.
+	No estaba, como juzgué,
+	de las orillas tan cerca;
+	que, primero que llegase,
+	se fue alzando una mareta.
+	No la pudiendo tomar,
+	quíseme volver a tierra,
+	pero osaba y no podía;
+	que no hay contra el cielo fuerzas.
+	Es la mar como mujer,
+	blanda al que en sus aguas entra,
+	mas, para querer salir,
+	ningún remero aprovecha.
+	Llevóme con cuatro golpes,
+	no sé si diga seis leguas,
+	porque en mi imaginación
+	debieron de ser sesenta.
+	Alzábanse sierras de agua,
+	y no me pesaba el vellas,
+	por ver si veria a mi esposa
+	desde alguna, en otra sierra.
+	Pero, cuando me abajaban
+	de su altura a su bajeza,
+	imaginaba, afligido,
+	pasar el centro a la tierra,
+	y que, puesto en la otra parte,
+	dando a todo el mundo vuelta,
+	la volviera yo a buscar:
+	ved lo que un amante piensa.
+	A la discreción del mar
+	andaba desta manera,
+	con más botes en el agua
+	que una pelota en la tierra,
+	temiendo que mi barquilla
+	sirviese a alguna ballena
+	lo que el rojo tafetán
+	al águila de la selva;
+	cuando serenando el mar
+	su espejo, y el sol su esfera,
+	me prometieron bonanza,
+	hallar para el puerto puerta,
+	con la pluma de aquel remo
+	comencé en agua a hacer letras;
+	pero cuantas yo escribía
+	borraba el mar con su fuerza;
+	pero de aqueste trabajo
+	me libró fortuna a cuenta
+	de otras muchas, pues, llegando
+	de Amurates las galeras,
+	troqué el peligro en prisión;
+	y la mar de Italia, en Persia,
+	donde ha dos años que vivo:
+	señor, mi tragedia es ésta.
+SOLDÁN
+	Álzate, amigo, del suelo;
+	que, contento de escucharte,
+	por lo que de ti recelo,
+	quiero a mis brazos alzarte.
+LISARDO
+	Será levantarme al cielo.
+	Mas, porque te habrá cansado
+	esta larga narración,
+	dime, señor, tu cuidado.
+SOLDÁN
+	Imaginaciones son
+	de un sueño.
+LISARDO
+		Eso me han contado;
+	pero verdaderamente
+	que es prohibido a nuestra ley
+	creerlos.
+SOLDÁN
+		Mientras ausente
+	vives de tu patria y rey,
+	no es mucho que te lo cuente.
+	Pero el ser expositor
+	de sueños: ¿es que te ha dado
+	el cielo aqueste favor,
+	o ciencia que has estudiado?
+LISARDO
+	Es buen discurso, señor,
+	y sólo una vez lo he hecho,
+	así, a tiento, que Amurates
+	me dijo un sueño (y sospecho
+	que de aquestos disparates
+	ha de salir mi provecho.
+	Porque ni yo sé lo que es,
+	ni son las declaraciones
+	más que para mi interés;
+	todos son supersticiones,
+	los persas...)
+SOLDÁN
+		Escucha, pues.
+	Aunque primero quisiera
+	que Amurates me dijera
+	qué soñó y qué le dijiste.
+AMURATES
+	Paréceme cosa triste.
+SOLDÁN
+	Di, a ver.
+AMURATES
+		Mas buen fin espera.
+	Soñé que en mi casa estaba
+	una ave, que hasta la tuya
+	de un vuelo solo volaba,
+	y que de la lengua suya
+	una espada se formaba.
+	Diome pena y pregunté
+	deste sueño la razón.
+SOLDÁN
+	Y ¿qué te dijo?
+AMURATES
+		Que fue
+	de mi casa información
+	de que te serví y amé,
+	y que me diste la espada
+	de la justicia, que ha sido
+	el gran cargo de tu armada,
+	con que a tantos he vencido.
+SOLDÁN
+	Enigma bien declarada.
+	Salíos un poco afuera,
+	y mi sueño le diré.
+AMURATES
+	Vamos.
+CAMBISES
+		La fortuna quiera
+	que acierte.
+<i>Vanse
+LISARDO
+		Di, y ¿qué fue
+	tu sueño?
+SOLDÁN
+		Escucha.
+LISARDO
+		Di.
+SOLDÁN
+		Espera.
+LISARDO
+	Ya se han ido.
+SOLDÁN
+		Yo soñaba
+	que, asentado en un jardín
+	que el sol apenas tocaba,
+	porque de rosa y jazmín
+	un toldo se lo estorbaba,
+	salía un fiero dragón
+	del mar, y con furia tanta
+	me echaba en esta ocasión
+	los dientes a la garganta,
+	las uñas al corazón;
+	que, si no diera una voz
+	entonces un corderillo,
+	que estaba humilde y veloz
+	entre la yerba y tomillo,
+	muriera en su boca atroz.
+LISARDO
+	(Como ésta es gracia del cielo,
+	que él solo la puede dar
+	y comunicar al suelo,
+	que tengo que imaginar,
+	ni que errar puedo, recelo.)
+	Digo que si Dios me da
+	su gracia primeramente,
+	que en grande peligro está
+	tu vida, que el cielo aumente.
+SOLDÁN
+	¿Mi vida?
+LISARDO
+		Aquí se verá.
+SOLDÁN
+	¿Qué dices?
+LISARDO
+		Por ella mira:
+	tu casa, el jardín, las flores,
+	tu dosel, donde se mira
+	la empresa de tus mayores,
+	de quien el sol se retira.
+	¿Allí sentado no estás?
+SOLDÁN
+	Sí.
+LISARDO
+		Pues sábete que el dragón
+	del mar es a quien le das
+	hoy tus galeras, que son
+	quien le desvanecen más.
+	Porque Amurates querría,
+	por quitarte la corona,
+	salir del mar, y ese día
+	que se atreva a tu persona,
+	soy la voz que lo desvía;
+	cordero y esclavo triste
+	soy, entre la paja y heno.
+	La interpretación que oíste
+	de su sueño, Cariadeno,
+	fue engaño, y no le entendiste;
+	porque decir que volaba
+	de su misma casa una ave,
+	que, cuando en la tuya estaba,
+	la lengua del pico grave
+	en espada transformaba,
+	es que yo de allá volé,
+	donde, como te conté
+	su intención fiera, dañada,
+	volví la lengua en espada
+	con que su cuello corté.
+SOLDÁN
+	¡Bien dices, por Alá santo!
+	¡Ah de la guarda!
+<i>Sale un capitán y dos soldados
+CAPITÁN
+		Señor.
+SOLDÁN
+	¡Amurates!
+LISARDO
+		(Hoy levanto
+	un testimonio a un traidor
+	que me ha maltratado tanto.
+	Hoy los hierros, la cadena,
+	el no comer, los azotes,
+	me ha de pagar.)
+<i>Entren Amurates y Cambises
+AMURATES
+		¿Qué me ordena
+	Tu Alteza?
+SOLDÁN
+		No te alborotes.
+AMURATES
+	Tengo de tu sueño pena.
+SOLDÁN
+	Los sueños son todos viento.
+AMURATES
+	Yo lo afirmo y lo veo así.
+SOLDÁN
+	Éntrate en ese aposento;
+	espérame un poco allí.
+AMURATES
+	Yo voy.
+LISARDO
+		(¡Bueno va mi intento.
+	¿Vos hacerme renegar?
+	¿Vos no dejarme un cabello?)
+SOLDÁN
+	Capitán, sin replicar,
+	corta a Amurates el cuello.
+CAPITÁN
+	¿Qué es esto?
+LISARDO
+		Hermano, callar.
+CAPITÁN
+	Haré tu gusto.
+<i>Vase
+CAMBISES
+		De mí
+	¿hasle dicho algo?
+LISARDO
+		He hablado
+	como de un ángel de ti.
+SOLDÁN
+	¿Es en aquesto culpado?
+LISARDO
+	[..............] Mi señor, sí.
+SOLDÁN
+	¿Culpado?
+CAMBISES
+		¿Qué es lo que dices?
+	Yo jamás al gran señor...
+LISARDO
+	Quedo, no te escandalices,
+	que culpa ha sido, en rigor.
+CAMBISES
+	¿Culpa? Harto bien te desdices.
+LISARDO
+	Culpa el no haberme traído
+	antes de agora al Soldán.
+CAMBISES
+	¿Cómo, si no lo he sabido?
+SOLDÁN
+	Llamen luego al capitán.
+LISARDO
+	Su vida, señor, te pido.
+SOLDÁN
+	Yo te la doy: no habrá cosa,
+	por grave y dificultosa,
+	que no la hiciese por ti.
+	Traelde una ropa aquí
+	y una cadena preciosa.
+	Manda en mi reino a mi lado
+	como si fueras mi igual;
+	de hoy más, está a él sentado.
+<i>Entra el capitán
+CAPITÁN
+	Ya Amurates desleal
+	queda sin vida en tu estrado.
+SOLDÁN
+	No hay bien que al presente iguale.
+	¡Hola! Decid que el Rey sale,
+	y que el Soldán con él viene.
+LISARDO
+	(¡Gran fuerza el ingenio tiene
+	donde la fuerza no vale!)
+<i>Vanse. Salen Enrique de Ingalaterra y un Roberto, piloto, perdidos
+ROBERTO
+	¡Bueno te ha puesto la mar!
+ENRIQUE
+	No soy el primer perdido
+	de los que suele anegar,
+	puesto que el primero he sido
+	que no quiere escarmentar.
+ROBERTO
+	Y ¿cuándo piensas cansarte
+	de buscar aqueste amigo?
+ENRIQUE
+	Cuando del cuerpo se aparte
+	el alma, aunque el viento sigo
+	por una y por otra parte.
+	¿Qué tierra es ésta?
+ROBERTO
+		Proenza.
+ENRIQUE
+	Hoy mi camino comienza
+	para España.
+ROBERTO
+		¿Cómo irás?
+ENRIQUE
+	Pidiendo limosna.
+ROBERTO
+		Harás
+	una hazaña con vergüenza.
+	Y hoy ¿qué habemos de comer
+	si habemos de caminar?
+	Que aun espadas que empeñar
+	o capas para vender
+	no nos ha dejado el mar.
+ENRIQUE
+	Como del toro se escapa
+	quien de la mar sale bien,
+	pues que le deja la capa.
+ROBERTO
+	¡Dichosos los que la ven
+	a la orilla o en el mapa!
+	¿No te ha quedado en el dedo
+	algún anillo?
+ENRIQUE
+		Esta prenda,
+	que ni dar ni vender puedo.
+ROBERTO
+	Enrique, con hambre o miedo
+	no hay prenda que no se venda.
+	Empeñémosle por pan
+	[.........................]
+	que aquí después nos darán
+	limosna para quitalle.
+ENRIQUE
+	¿Y si le hurtan?
+ROBERTO
+		No harán,
+	porque se puede poner
+	en manos de honrada gente.
+ENRIQUE
+	Eso ¿sabráslo tú hacer?
+ROBERTO
+	La bestia más negligente
+	sabe buscar de comer.
+	Yo le empeñaré entretanto
+	que alguien nos socorre.
+ENRIQUE
+		¡Ah, cielo,
+	que he llegado a estremo tanto!
+ROBERTO
+	Donde nos falta el consuelo,
+	de la dilación me espanto.
+	Muéstrale, acaba.
+ENRIQUE
+		Roberto,
+	sólo el verme casi muerto
+	me ha obligado a lo que ves.
+ROBERTO
+	Quitarle puedes después.
+ENRIQUE
+	Advierte bien, que éste es puerto,
+	no le des a forastero.
+ROBERTO
+	Vete; a la orilla del mar
+	me espera.
+ENRIQUE
+		Sentado espero
+	en esta peña, a mirar
+	su rostro mudable y fiero.
+<i>Vase
+ROBERTO
+	Aunque el mar le tiene ruin,
+	la necesidad, en fin,
+	le tiene mucho peor;
+	mas saldré de su rigor,
+	anillo, en vuestro delfín.
+	¿Quién me mete a mí en andar
+	con un pobre y loco amante,
+	sin vivir, sin descansar,
+	que pretende ser constante
+	en la inconstancia del mar?
+	Tras esto, no sé quién es,
+	más de que me recibió
+	para matarme después
+	con más desdichas que vio
+	Aníbal cartaginés.
+	Vender el anillo quiero
+	y enmudar de tan mudable
+	dueño, de quien sólo espero
+	sepultura miserable
+	del mar, si en sus ondas muero.
+	Gran tropel de gente viene:
+	si aquí algún hidalgo veo,
+	vendérsele me conviene;
+	cumplió el cielo mi deseo;
+	presencia de señor tiene.
+<i>Salen el duque de Proenza y Matilde, su hija, Leonato, criado, y acompañamiento.
+DUQUE
+	Escribe muy contento el de Ferrara
+	de que tu matrimonio se concierte;
+	yo, después que faltó mi amado hijo,
+	quisiérate emplear más altamente;
+	que entre la pretensión de tantos príncipes,
+	hay un rey de Bohemia que en tu frente
+	puede poner, no sólo de su reino,
+	mas del romano imperio la corona.
+MATILDE
+	A tu gusto, señor, estoy sujeta;
+	mas mira que no des en estar triste
+	por la ausencia, aunque larga, de mi hermano,
+	que a mi señora le costó la vida;
+	que Dios será servido que le veas.
+DUQUE
+	Él sabe bien, Matilde, mis deseos,
+	mis diligencias y las de mi Estado,
+	oraciones, ayunos y limosnas;
+	mas ya, si es muerto, ¿qué remedio tiene?
+ROBERTO
+	¡Ah, caballero!
+LEONATO
+		¿Qué mandáis?
+ROBERTO
+		No pienso
+	que es yerro preguntar el que no sabe;
+	que forastero soy, mi traje os muestra,
+	y que salgo también del mar perdido.
+	¿Quién es aqueste noble caballero?
+LEONATO
+	El duque Carlos, desta tierra dueño,
+	y Matilde, su hija, aquella dama.
+ROBERTO
+	Paréceme que tratan casamiento.
+LEONATO
+	Está medio casada con el hijo
+	del duque de Ferrara, aunque por falta
+	de un hijo, que ha dos años que ha perdido,
+	la querría emplear más altamente.
+ROBERTO
+	¿Querrá comprarme un razonable anillo?
+LEONATO
+	¿Con qué piedra?
+ROBERTO
+		Diamante.
+LEONATO
+		A hablarle llego.
+	Aquí está un hombre que en su talle muestra
+	que el mar le ha echado en esta playa solo,
+	y sólo trae de las fortunas varias
+	un anillo que quiere que le compres.
+DUQUE
+	Dile que llegue.
+ROBERTO
+		Déme Tu Excelencia
+	los pies.
+DUQUE
+		Alzaos.
+ROBERTO
+		La furiosa mano
+	del fiero mar, con una cruel fortuna,
+	como al fin salteador de mercaderes,
+	mi hacienda me robó, dejó la vida,
+	a la cual, como a tabla, viene asido
+	mi socorro en este anillo.
+DUQUE
+		Muestra.
+ROBERTO
+	Yo creo que el diamante es el más fino,
+	de más quilates que, señor, has visto.
+DUQUE
+	¡Ah, cielo!
+MATILDE
+		Señor mío ¿qué tienes?
+DUQUE
+		¡Ay, Matilde!
+	¡Mi hijo es muerto!
+MATILDE
+		¿Cómo?
+DUQUE
+		Aqueste añillo
+	le dio, con otros dos, tu madre al tiempo
+	que destos ojos se partió llorando.
+	¡Asid este hombre!
+ROBERTO
+		¡Gran señor!
+DUQUE
+		¡Infame!
+	¿Dónde le diste muerte?
+ROBERTO
+		¿Cómo muerte?
+	Ni conocí tu hijo, ni en mi vida
+	he muerto un ave, cuanto más un hombre.
+LEONATO
+	Confiesa luego quién te dio este anillo
+ROBERTO
+	Señor, yo sirvo a un hombre que mil veces
+	que es caballero dice, y otras tantas
+	vuelve a darme a entender que es hombre pobre.
+	Embarquéme con él en la Rochela,
+	y echónos con tormenta en esta playa
+	el fiero mar; él queda entre esas peñas,
+	y yo vine a vender aqueste anillo
+	para comer.
+DUQUE
+		¡Mi hijo es, cïelos!
+	que por que le conozca te ha enviado
+	con estas señas. ¡Ah, ventura inmensa!
+	Vayan luego por él; soltad este hombre,
+	cubrilde, regalalde, traigan luego
+	algo que coma; vístete esta ropa,
+	toma este abrazo, toma esta cadena.
+LEONATO
+	Corriendo voy por él.
+<i>Vase
+DUQUE
+		¿Vïene bueno?
+ROBERTO
+	Bueno, a Dios gracias.
+DUQUE
+		¿No te ha dicho
+	jamás su nombre?
+ROBERTO
+		No, señor; mas cuenta
+	que en Nápoles estuvo en unas fiestas,
+	y que una dama suya fue robada,
+	y que quien la robó fue tan su amigo,
+	que peregrina el mundo por hallarle.
+DUQUE
+	Todas las señas son que hemos tenido.
+	¡Ay, hijo de mi alma!
+MATILDE
+		¡Ay, mi Lisardo,
+	si viviera mi madre para verte!
+DUQUE
+	Haced fiestas, vasallos, poned luces,
+	húndase aqueste pueblo, estos estados.
+	¡Mi hijo pareció, mi hijo es vivo!
+<i>Entre Leonato y Enrique con gente
+LEONATO
+	Señor, este hombre hallé sobre unas peñas
+	casi difunto.
+DUQUE
+		Vuelve, amigo, el rostro.
+	¡Aquéste no es mi hijo!
+ROBERTO
+		Pues aquéste
+	me dio el anillo, y es el que yo digo.
+LEONATO
+	¡Quita la ropa, infame! Asilde luego.
+ROBERTO
+	¡Ved los bienes del mundo lo que duran!
+DUQUE
+	Mi dolor crecerá, mi mal se aumenta
+	con la esperanza de mi bien perdido.
+	Dime, traidor ¿quién eres? ¿Cómo has muerto
+	la luz de aquestos ojos? ¿Quién te ha dado
+	este anillo?
+ENRIQUE
+		Señor, si por ventura
+	eres padre del dueño deste anillo,
+	de su mano le tengo, y no por hurto;
+	él me le dio por amistad, al tiempo
+	que, robando de Nápoles la Infanta,
+	se fue donde jamás ha parecido.
+	Cuéstame lo que ves pensar que puedo
+	hallarle por el mundo peregrino,
+	sin saber de mi padre ni mi patria.
+DUQUE
+	¿Quién son tus padres?
+ENRIQUE
+		Hasta hallar este hombre
+	hice de no decirlo juramento.
+DUQUE
+	¡Este hombre ha muerto a mi querido hijo!
+MATILDE
+	No lo muestra su talle ni su cara.
+DUQUE
+	Pónganle en esa torre de palacio.
+MATILDE
+	Mira que tiene indicios de hombre noble.
+DUQUE
+	Echadle una cadena, y poned guardas.
+MATILDE
+	¿Con poca información tantos castigos?
+ENRIQUE
+	Si me quieres matar, con menos fuerza;
+	mira que muero de hambre y de desdicha.
+LEONATO
+	¡Camina, mal nacido!
+ROBERTO
+		Y yo, si mandas
+	¿podréme ir?
+DUQUE
+		A estotro vil llevalde
+	a la pública cárcel, donde luego
+	le poned a tormento.
+ROBERTO
+		¡Ah, vil codicia,
+	qué presto que me diste el justo pago!
+<i>Llévanlos presos
+MATILDE
+	Mal has hecho en prender aquel mancebo.
+DUQUE
+	No hice cosa más discreta.
+MATILDE
+		¿Cómo?
+DUQUE
+	Aquéste le dio muerte por roballe.
+	¿No ves que apenas quiere dar disculpa?
+MATILDE
+	Estábase muriendo entre esas peñas
+	¿y quieres que responda?
+DUQUE
+		No te metas,
+	Matilde, con tus años en las cosas
+	que entiendo yo con los maduros míos.
+<i>Salga Leonato
+LEONATO
+	Ya queda aprisionado y con seis guardas
+	aquel mancebo, y cierto que parece
+	noble en el rostro y sus palabras.
+DUQUE
+		¡Basta!
+	El tormento dirá si es vil o noble.
+MATILDE
+	A compasión me mueve.
+DUQUE
+		A mí a justicia.
+LEONATO
+	Por no decir agora que es codicia.
+DUQUE
+	¿Adónde va aquesta gente?
+LEONATO
+	Va, señor, al hospital.
+DUQUE
+	¿Qué hospital?
+LEONATO
+		Sobre esa puente
+	que va a tu palacio real,
+	hay una casa excelente.
+	¿Nunca le has visto?
+DUQUE
+		Después
+	que al puerto vine, lo oí,
+	pero no sé bien lo que es.
+LEONATO
+	Pues hay una santa aquí
+	habrá dos meses o tres.
+DUQUE
+	¿Quién es?
+LEONATO
+		Una peregrina
+	que este hospital acabó.
+DUQUE
+	¿Es forastera o vecina?
+LEONATO
+	Aquí de Italia llegó,
+	y, aunque ha parado, camina.
+DUQUE
+	Pues ¿dónde camina?
+LEONATO
+		Al cielo,
+	que con el piadoso celo
+	con que a los pobres se inclina,
+	es del cielo peregrina,
+	y es peregrina en el suelo.
+	Tiene aquí grande opinión.
+MATILDE
+	Vámosla, señor, a ver.
+DUQUE
+	Tienes, Matilde, razón.
+LEONATO
+	Dicen que Dios suele hacer
+	milagros por su oración.
+DUQUE
+	Vámosle a rogar que en ella
+	pida la vida, Matilde,
+	de mi bien.
+MATILDE
+		Vamos a vella.
+LEONATO
+	Veréis, en vestido humilde,
+	una alma angélica y bella.
+<i>Vanse. Sale el Soldán y Celima, su hija, y Cambises
+SOLDÁN
+	Quitarme quieres la vida
+	con esta injusta tristeza.
+CELIMA
+	Pareceráte aspereza
+	que viva tan desabrida.
+SOLDÁN
+	Eres el sol de mis ojos;
+	sola una hija que tengo,
+	para quien de Arabia vengo
+	lleno de ricos despojos.
+	Habla, y dime la ocasión
+	de tanta melancolía,
+	pues que ya la ausencia mía
+	no puede darte pasión.
+CELIMA
+	Verdad es que de tu ausencia
+	mi tristeza ha procedido.
+SOLDÁN
+	¿Y agora?
+CELIMA
+		Costumbre ha sido.
+SOLDÁN
+	Pues ¿no ha de haber diferencia?
+CELIMA
+	Justo fuera que la hubiera.
+SOLDÁN
+	Pues ¿no quieres confesar?
+	Váyanme luego a llamar
+	a Lucindo.
+CELIMA
+		Aguarda, espera.
+SOLDÁN
+	Pues ¿de qué tienes temor?
+CELIMA
+	Sé que no es razón que diga
+	algo incierto que desdiga
+	de mi estado y de mi honor.
+SOLDÁN
+	No importa; Lucindo es santo,
+	no puede a nadie ofender.
+CELIMA
+	(Bien lo pudiera saber
+	cuando no lo fuera tanto.)
+<i>Sale Lisardo
+CAMBISES
+	Aquí está Lucindo.
+LISARDO
+		El cielo
+	aumente esas nobles vidas.
+SOLDÁN
+	Como tú al cielo lo pidas,
+	oirá la voz de tu celo.
+	Después que vine de Arabia,
+	hallé a Celima ofendida
+	de un mal que ofende mi vida
+	y mi amor paterno agravia.
+	¿De qué puede proceder?
+LISARDO
+	Si me das, señor, licencia
+	y el cielo su infusa ciencia,
+	presto lo podrás saber.
+SOLDÁN
+	Licencia tienes.
+LISARDO
+		Celima
+	tiene enfermedad de amores,
+	que entre las que son mayores,
+	por la más fiera se estima.
+	No hay mayor enfermedad,
+	¡triste de mi! si lo fue,
+	y más, si ausente se ve,
+	y ausente sin libertad.
+SOLDÁN
+	¿Amores?
+LISARDO
+		Sí, gran señor.
+SOLDÁN
+	¿Es esto así?
+CELIMA
+		No lo niego,
+	porque, si el amor es fuego,
+	mal puede encubrirse amor.
+LISARDO
+	Dice Celima muy bien:
+	llamarle fuego conviene,
+	porque abrasa al que le tiene
+	y alumbra a los que le ven.
+SOLDÁN
+	Dime de quién.
+LISARDO
+		Eso no.
+SOLDÁN
+	Dímelo en secreto a mí.
+LISARDO
+	A mí me le tiene.
+SOLDÁN
+		¿A ti?
+	Celima: ¿acertó?
+CELIMA
+		Acertó.
+SOLDÁN
+	Pues ¿qué remedio tendrá
+	el mal de Celima bella
+	si no es casarte con ella?
+LISARDO
+	Triste y vergonzosa está.
+CAMBISES
+	¿Quién duda que lo desea?
+SOLDÁN
+	Deja tu ley y tendrás
+	mi imperio, y, si puedo, más;
+	pide, aunque imposible sea.
+	Y, aunque no dejes tu ley,
+	si es de ti tanto estimada,
+	te daré mi hija amada
+	y te haré de Arabia rey.
+LISARDO
+	Mil veces la tierra beso
+	adonde pones las plantas,
+	pues hoy, tras mercedes tantas,
+	haces tan notable exceso;
+	mas, deseando tu vida,
+	te aconsejo lo contrario.
+SOLDÁN
+	¿A mi vida es necesario
+	que el casamiento se impida?
+LISARDO
+	Sí, señor.
+SOLDÁN
+		¿De qué manera?
+LISARDO
+	Por que después no te diese,
+	el hijo que procediese
+	de los dos, la muerte fiera.
+SOLDÁN
+	¿Tu hijo me ha de matar?
+LISARDO
+	Sin duda te mataría.
+CELIMA
+	Señor, tu vida es la mía;
+	¿por qué me mandas casar?
+SOLDÁN
+	Divina ciencia le ha dado
+	el gran Alá, mi Celima.
+	El aviso cuerdo estima
+	de mi vida en su cuidado;
+	y deja estar la tristeza,
+	que yo te daré marido,
+	el mayor que haya ceñido
+	de oro y laurel la cabeza.
+	Ven, Cambises, porque quiero
+	hacer al profeta gracias,
+	que de tan claras desgracias
+	libra mi vida.
+<i>Vanse
+CELIMA
+		¡Embustero,
+	cristiano falso, atrevido,
+	engañador, engañoso,
+	enredador, alevoso,
+	hechicero, malnacido!
+	Locura desvanecida
+	de toda Persia, que adora
+	un esclavo, a quien agora
+	debiera quitar la vida;
+	mágico de disparates,
+	monstruo de varias quimeras,
+	que con tus burlas y veras
+	quiere el amor que me mates.
+	Por no te casar conmigo,
+	dices al Soldán mi padre
+	que seré de un hijo madre
+	para su muerte y castigo;
+	y es que tienes intención
+	de buscar a tu cristiana,
+	aquella, cual tú, villana,
+	y de baja condición.
+	Bien sé que adoras su ausencia
+	y que aprestas tu partida;
+	yo te haré quitar la vida
+	a pesar de tu vil ciencia.
+	Yo haré que esa adoración
+	donde te ha puesto el Soldán
+	y ese nombre que te dan
+	los que ignoran tu traición
+	sean tu muerte y afrenta.
+LISARDO
+	Detén tus pasos, señora,
+	que este esclavo, que te adora,
+	sabe Alá que verdad cuenta.
+	Pero, si llega tu amor
+	a no estimar a tu padre
+	y quieres ser fiera madre
+	de un patricida traidor,
+	reinemos, nazca, y no viva
+	el Soldán. Dame esa mano.
+CELIMA
+	¡O, mal moro, peor cristiano,
+	que ni esto ni aquello priva!
+	¿Haces por sólo temor
+	lo que por amor no has hecho?
+	Pues yo no quiero en tu pecho
+	temor, sino sólo amor.
+	Amor por amor se ofrece;
+	por un alma ofrece mil;
+	no es amor vasallo vil,
+	que por temor obedece.
+<i>Vase Celima
+LISARDO
+	Aguarda, escucha, no hay orden...
+	Fuese. Bien hay que pensar,
+	Amor, en qué ha de parar
+	mi paciencia y tu desorden.
+	¿No basta mi cautiverio,
+	tan a pique de morir?
+	¿No me basta resistir
+	una mujer y un imperio?
+	¿No se contentan tus aras
+	con las lágrimas vertidas?
+	Si tuviera dos mil vidas,
+	otras tantas me quitaras.
+	Aquí vivo sin saber
+	de aquel ángel verdadero.
+	Seguiré aquel áspid fiero
+	que va airada y es mujer.
+<i>Vase. Sale Enrique, con cadena
+ENRIQUE
+	Si fuera cierto aquel error pasado
+	que nuestras almas de otros cuerpos eran,
+	creyera que amistad tenido hubieran
+	las nuestras antes que te hubiera hablado;
+	pues sólo de una vez, Lisardo amado,
+	que mis ojos te vieron, no te dieran
+	lo que mil Alejandros no pudieran:
+	la vida, el alma y el honor te he dado.
+	En vano al viento doy vanas querellas,
+	pues de todo remedio desconfío
+	mientras vivas y estés tan lejos dellas.
+	No pueden prevenir el daño mío,
+	que, donde tienen fuerza las estrellas,
+	pocas veces resiste el albedrío.
+<i>Entran Leonato y Matilde
+MATILDE
+	Llega tú, sin que me vea,
+	y dale esa nueva triste.
+LEONATO
+	¿A qué, señora, veniste?
+	¡Plega a Dios que por bien sea!
+MATILDE
+	¿Presumirás que le quiero?
+LEONATO
+	A todos das ocasión.
+MATILDE
+	Es amor y compasión
+	de un hombre pobre estranjero.
+LEONATO
+	Yo le voy a hablar.
+MATILDE
+		Aquí
+	me escondo y te espero.
+LEONATO
+		El cielo,
+	caballero, os dé consuelo.
+ENRIQUE
+	¿Es menester?
+LEONATO
+		Señor, sí.
+ENRIQUE
+	¿Cómo?
+LEONATO
+		Quiéreos dar tormento
+	el jüez.
+ENRIQUE
+		¿Estaba airado?
+LEONATO
+	El Duque se lo ha mandado.
+ENRIQUE
+	No el dolor, la afrenta siento.
+LEONATO
+	Eso y más escusaréis
+	con decir quién sois.
+ENRIQUE
+		No quiero;
+	que basta ser caballero
+	para que bien me tratéis.
+LEONATO
+	No os enojéis conmigo.
+ENRIQUE
+	Y mejor que el Duque soy.
+MATILDE
+	(Yo lo creo, y tal estoy,
+	que me atormentan contigo.)
+LEONATO
+	Yo cumplo con esto. A Dios.
+ENRIQUE
+	Él os guarde.
+LEONATO
+		¿Haslo entendido?
+MATILDE
+	Sin duda que es bien nacido.
+	Déjanos aquí a los dos.
+LEONATO
+	Mira lo que haces.
+MATILDE
+		Calla;
+	que yo no le quiero hablar.
+LEONATO
+	Pues ¿qué?
+MATILDE
+		No más de escuchar.
+LEONATO
+	Loco amor, quiero dejalla.
+<i>Vase Leonato
+ENRIQUE
+	¡Mísero, Enrique, de ti,
+	a qué desdicha has llegado
+	por un amigo, aunque honrado,
+	que apenas su rostro vi!
+	Juré no decir mi nombre
+	ni mi tierra hasta topalle;
+	no quiere Dios que le halle,
+	y quiere cansarse un hombre.
+	Holguéme de habelle dado
+	mi dama por amistad;
+	quise mostrar mi lealtad,
+	y la vida me ha costado.
+	Y es lo bueno que me mata
+	su padre, que es quien debiera
+	socorrerme. ¡Si supiera
+	a quién es, por quién maltrata!
+	Príncipe de Ingalaterra
+	soy, cruel Duque; Enrique soy,
+	que por tu Lisardo estoy
+	sin mis padres y mi tierra;
+	y aun el nombre no sabía,
+	que aquí, por mi mal, le oí.
+	¡Ay, cielo! ¿Quién está aquí?
+MATILDE
+	Yo soy.
+ENRIQUE
+		¿Vos, señora mía?
+	Pues ¿cómo, y en mi prisión?
+MATILDE
+	Porque también estoy presa.
+ENRIQUE
+	¿Por quién?
+MATILDE
+		Por vos.
+ENRIQUE
+		Ya confiesa
+	el alma esta obligación.
+	¡Qué diferencia notoria
+	es la que en miraros siento!
+	Prometiéronme tormento,
+	y venís a darme gloria.
+	Si aquí, para dar enojos,
+	atormentan desta suerte,
+	¿qué vida como esta muerte?
+	¿Qué cárcel como esos ojos?
+MATILDE
+	Enrique de Ingalaterra,
+	yo sé quién sois de vos mismo;
+	amor es un ciego abismo
+	donde el bien y el mal se encierra.
+	El tiempo es corto, y, si habláis,
+	puede dañar en estremo;
+	que os detengáis aquí temo,
+	y también temo que os vais.
+	Lo que he sentido de vos
+	ya lo veréis en lo que hago;
+	dadme igual amor en pago,
+	y paguémonos los dos.
+	¿Queréis que a mi padre diga
+	quién sois?
+ENRIQUE
+		No, que he de callar
+	por juramento, hasta hablar
+	quien a tanto mal me obliga.
+	Pero, en prendas de que emprendo
+	la merced desta amistad,
+	si me dais la libertad
+	con que buscalle pretendo,
+	ningunas de cuantas hizo
+	Dios, sino vos, ha de ser
+	mi dueño, esposa y mujer.
+MATILDE
+	¡O amor, temerario hechizo!
+	¿En las cárceles conciertas
+	casamientos?
+ENRIQUE
+		Mi señora,
+	yo estoy en peligro agora;
+	a la torre abrid las puertas.
+	Esperadme sólo un mes;
+	que este mes solo pasado,
+	digo que toméis estado
+	con el bohemio o francés.
+MATILDE
+	Yo haré fuerza al padre mío.
+	Bajad conmigo.
+ENRIQUE
+		Sí haré;
+	que, bajando, subiré
+	al bien que de vos confío.
+MATILDE
+	No me puedo detener.
+ENRIQUE
+	En todo tiempo enemigo,
+	siempre fue mejor amigo
+	la piedad de la mujer.
+<j>3
+<i>Salen Lucinda y el hermano Crispín, enfermero de graciosidad
+LUCINDA
+	¿Dio traza, hermano Crispín,
+	en la comida?
+CRISPÍN
+		Ya está.
+LUCINDA
+	¿Cómo de la iglesia va?
+CRISPÍN
+	Presto le daremos fin.
+LUCINDA
+	¿Qué dice de aquel enfermo
+	nuestro dotor?
+CRISPÍN
+		¡Qué sé yo!
+	Lléveselo Dios o no;
+	¡tres noches ha que no duermo!
+LUCINDA
+	Pues ¿qué importa tres ni siete
+	para quien sirve por Cristo?
+	¿Diole el pisto?
+CRISPÍN
+		Dile el pisto,
+	y quisiera un pistolete.
+LUCINDA
+	Tenga paciencia.
+CRISPÍN
+		No puedo
+	en viendo enfermos así.
+LUCINDA
+	¿Esto me responde a mí?
+	¡Jesús, Crispín, diga un Credo!
+CRISPÍN
+	Ya al enfermo se lo digo,
+	y no se quiere morir.
+LUCINDA
+	¿Quién ha salido a pedir?
+CRISPÍN
+	Roberto, Estacio y Rodrigo.
+LUCINDA
+	Vaya y mire si es ya hora
+	de hacer las camas.
+CRISPÍN
+		Irán,
+	o primero comerán.
+LUCINDA
+	Vaya, pues.
+CRISPÍN
+		Ya van, señora.
+<i>Vase el hermano Crispín
+LUCINDA
+	Triste reina de Nápoles, ¿qué estrella
+	a tanta desventura te ha traído?
+	¿Qué bien esperas deste bien perdido,
+	ni qué esperanza de vivir sin ella?
+	Mas ¿qué no puede amor, qué no atropella
+	este fiero tirano del sentido,
+	que, entrando en la razón, desconocido,
+	después no da lugar de conocella?
+	No sé qué espero, y tengo confïanza;
+	soy piedra en el sufrir; y en aire, estribo;
+	mi fe es sospecha, y lo imposible alcanza.
+	Y en tantos males sólo un bien recibo,
+	que yo pienso que estoy sin esperanza,
+	y debo de tenerla, pues que vivo.
+<i>Sale el hermano Crispín
+CRISPÍN
+	La hermana Duquesa moza,
+	que en la iglesia misa oyó,
+	acá, para verla, entró.
+LUCINDA
+	Mucho su vista me goza,
+	que es el retrato, en efeto,
+	de aquel dueño que perdí.
+CRISPÍN
+	¿Entrará?
+LUCINDA
+		Decid que sí.
+	¿No sois, Crispín, más discreto?
+<i>Sale Matilde
+MATILDE
+	De paso, porque ya es hora
+	de comer, te vengo a ver,
+	que aguarda el Duque a comer.
+LUCINDA
+	¿Tanta merced, mi señora?
+MATILDE
+	Lisarda, aunque el gran rigor
+	de tu vida y santidad
+	no permite libertad,
+	y más en cosas de amor,
+	para que a Dios encomiendes
+	mis desdichas, me es forzoso
+	decirte un cuento amoroso,
+	si no es que de amor te ofendes.
+LUCINDA
+	No ofendo, señora mía,
+	ni soy la que vos pensáis:
+	amé algún tiempo, si amáis;
+	si lloráis, lloré algún día.
+	Otra vez os referí
+	que un hombre me desterró
+	de mis padres, y causó
+	que agora viviese así.
+	Que, después de mil caminos
+	con que mi amor le buscaba,
+	porque peregrino andaba,
+	vine a curar peregrinos.
+	No receléis de decir
+	vuestro mal a quien os ama.
+MATILDE
+	Amor, que es veneno y llama
+	que no se puede encubrir,
+	tiene general disculpa.
+LUCINDA
+	Nació de mi entendimiento,
+	y así, aunque dé más tormento,
+	jamás amor tuvo culpa.
+MATILDE
+	Trujeron dos hombres presos
+	por la muerte de Lisardo...
+LUCINDA
+	No digas muerte, que aguardo
+	mejor fin de los sucesos.
+MATILDE
+	Y agradóme el uno tanto,
+	que quise saber quién era;
+	y, entrando en su cárcel fiera,
+	escuché un rato su llanto.
+LUCINDA
+	Y ¿qué entendiste?
+MATILDE
+		Que andaba
+	por el mundo sin consuelo
+	buscando a Lisardo.
+LUCINDA
+		¡Ay, cielo!
+	¿Dijo cómo se llamaba?
+MATILDE
+	Enrique de Ingalaterra.
+LUCINDA
+	Noticia tengo dese hombre.
+MATILDE
+	Movióme el talle y el nombre.
+LUCINDA
+	Ya le he visto yo en mi tierra.
+<i>Sale Crispín con una jeringa en la mano
+CRISPÍN
+	¡Pardiez, que este enfermo nuestro
+	sospecho que desatina!
+LUCINDA
+	¿Qué es eso?
+CRISPÍN
+		Una melicina
+	en que yo no estoy muy diestro,
+	y es el hombre tan esquivo,
+	que en no recebirla ha dado,
+	que dice que le ha quemado
+	el órgano salutivo.
+LUCINDA
+	¡Jesús! ¿Aquí ha de venir
+	con eso? ¿Hay tan grande error?
+CRISPÍN
+	Pues si es la hermana mayor,
+	¿a quién tengo de acudir?
+LUCINDA
+	Váyase.
+CRISPÍN
+		¡Qué bien me esfuerza
+	a regalalle y querelle!
+	Venga, ayúdeme a tenelle,
+	y echarésela por fuerza.
+MATILDE
+	Déjale ¡por vida mía!
+	y escucha.
+LUCINDA
+		Dime tu amor.
+MATILDE
+	Vi de mi padre el rigor
+	con que en esto procedía,
+	y di a Enrique libertad,
+	que casarse prometió
+	conmigo.
+LUCINDA
+		Y ¿no lo cumplió?
+MATILDE
+	Hay una dificultad,
+	porque ha hecho juramento
+	de hablar primero a mi hermano,
+	y fuele a buscar en vano.
+LUCINDA
+	¿Qué dices?
+MATILDE
+		Así lo siento.
+LUCINDA
+	Dios los traerá, no lo dudes.
+MATILDE
+	A que se lo ruegues vengo,
+	por la noticia que tengo
+	de tus prendas y virtudes.
+CRISPÍN
+	Señora...
+LUCINDA
+		¿Qué quiere, hermano?
+CRISPÍN
+	Paréceme que está fría.
+LUCINDA
+	Pues ¿aquí está todavía?
+CRISPÍN
+	A ver, póngale la mano.
+LUCINDA
+	Hermano, ¿ha perdido el seso?
+<i>Entra Leonato
+LEONATO
+	El Duque te viene a ver.
+CRISPÍN
+	(¿Dónde la podré esconder?
+LUCINDA
+	Escóndala y tenga seso.)
+<i>Esconde la jeringa Crispín, y sale el Duque
+DUQUE
+	Como supe que aquí estaba
+	Matilde, a verte he venido.
+LUCINDA
+	Merced de tu mano ha sido.
+	(¿No la esconde?
+CRISPÍN
+		En eso andaba).
+DUQUE
+	Muy aficionado estoy
+	a tu casa y hospital.
+LUCINDA
+	A tu piedad natural,
+	muy agradecida estoy,
+	a las limosnas que has hecho.
+DUQUE
+	Todo, amiga, lo encamino
+	a que el hijo peregrino
+	le vuelva Dios a mi pecho.
+LUCINDA
+	Yo lo deseo después
+	que en aquesta casa estoy,
+	por el bien que viendo voy.
+CRISPÍN
+	Hermano Duque...
+DUQUE
+		¿Quién es?
+CRISPÍN
+	¿Hay allá otra melecina
+	que sea mejor que aquésta?
+DUQUE
+	Hacelda comprar.
+CRISPÍN
+		¿Qué cuesta?
+LUCINDA
+	Diga, hermano, ¿desatina?
+	Éntrese en buen hora allá.
+CRISPÍN
+	¿No la ve toda deshecha,
+	que no sirve ni aprovecha
+	y se sale por acá?
+LUCINDA
+	Éntrese, acabe.
+CRISPÍN
+		Sí harán.
+DUQUE
+	Vayan por cualquiera cosa
+	a palacio.
+LUCINDA
+		Si es forzosa,
+	a tu mano acudirán.
+<i>Entra Cristeo, criado
+CRISTEO
+	Por palacio, en este punto,
+	meten diez hombres en peso
+	un pez de notable exceso,
+	a quien sigue el pueblo junto.
+	Dicen que en aqueste mar
+	no han visto mayor pescado.
+DUQUE
+	Gusto la nueva me ha dado,
+	si alguna me puede dar
+	que de Lisardo no sea.
+	Matilde, vámosle a ver.
+MATILDE
+	Lo que te dije has de hacer.
+LUCINDA
+	¡Cumpla Dios lo que desea!
+	¡Bien puedo decir las dos!
+DUQUE
+	Lisarda, a Dios.
+LUCINDA
+		Dios te guarde,
+	y permita que no tarde
+	tu hijo.
+DUQUE
+		Ruégalo a Dios.
+<i>Vanse el Duque y Matilde y Cristeo, y quédanse los demás
+LUCINDA
+	¿No os vais con el Duque?
+LEONATO
+		Tengo,
+	Lisarda, un poco que hablaros.
+LUCINDA
+	¿En qué os sirvo?
+LEONATO
+		En acordaros
+	de que aquí por veros vengo.
+LUCINDA
+	Ya os he dicho muchas veces
+	que no me tratéis así.
+LEONATO
+	Solos estamos.
+LUCINDA
+		Aquí
+	son las paredes jüeces,
+	y dondequiera está Dios.
+LEONATO
+	Ya cansa la hipocresía
+	en una mujer baldía,
+	y tan moza como vos:
+	yo sé que antes de venir
+	al hospital, donde estáis
+	y donde al Duque engañáis
+	con rezar y con fingir,
+	fuistes una pecadora
+	y una perdida mujer.
+	Pues ¿de qué sirve querer
+	que os tengan por santa agora?
+	Mirad que soy el que puedo
+	en casa del Duque, y hombre
+	secreto y de hidalgo nombre,
+	que podéis gozar sin miedo;
+	demás que, si pretendéis
+	dejar esta pobre vida,
+	seréis de mí bien servida,
+	como en mis obras veréis.
+LUCINDA
+	Si en esa ciega locura
+	dais con tanta libertad
+	y contra mi honestidad
+	habláis con desenvoltura,
+	al Duque vuestro señor
+	se lo diré, de tal suerte,
+	que os cause deshonra y muerte,
+	y os privará de su amor.
+	Miente cualquiera villano
+	que os dijo que yo he vivido
+	menos que honesta, ni he sido
+	despreciada de hombre humano.
+	Sirvo en aqueste hospital
+	porque he perdido mi esposo,
+	hombre noble y poderoso,
+	a vuestro señor igual;
+	y, por si entre peregrinos
+	tal vez le conozco y veo,
+	en su servicio me empleo.
+LEONATO
+	No respondáis desatinos;
+	que una moza con salud,
+	hermosa, libre y sin dueño,
+	no pasa sin lado el sueño,
+	por más que finja virtud.
+	Tras eso, ya es tu oficio
+	curar los pobres aquí,
+	cúrame, Lisarda, a mi,
+	y harásme un gran beneficio.
+LUCINDA
+	Ya te digo y persüado,
+	que te vayas norabuena.
+LEONATO
+	¿Que no te duele mi pena?
+LUCINDA
+	De ver tu pena me enfado.
+LEONATO
+	¿Piensas tú que ese silicio
+	que dicen que traes deshecho,
+	no sé yo muy bien que es hecho
+	de tu regalado vicio?
+	¿Quieres que te diga aquí
+	con quién, dónde, cómo, infame?
+LUCINDA
+	¿Quieres tú también que llame
+	a Dios y al Rey contra ti?
+LEONATO
+	¿Es mejor que se murmure
+	que quieres a un mentecato,
+	y no a un hombre de mi trato
+	que tu remedio procure?
+LUCINDA
+	¿Qué dices, hombre?
+LEONATO
+			Que tratas
+	con Crispín, Lisarda, digo;
+	digo que es Crispín tu amigo.
+LUCINDA
+	Hoy tus maldades rematas,
+	que con ese testimonio
+	has pretendido obligarme;
+	pues no me importa que se arme
+	de tus fraudes el demonio.
+	¡Quédate, infame, crüel,
+	vil sangre, invención liviana!
+<i>Vase Lucinda
+LEONATO
+	Yo diré al Duque, villana,
+	como estás preñada dél;
+	y, aunque lo pienses fingir
+	en secreto y con recato,
+	yo diré al Duque tu trato
+	y deshonesto vivir.
+	¡Que no la pueda vencer!,
+	¡que no bastan amenazas!,
+	¡que ni intereses ni trazas
+	te rindan, siendo mujer!
+	No importa; tú harás mudanza,
+	o verás que del amor
+	no hay remedio que mejor
+	despique que la venganza.
+<i>Vase. Salen Lisardo y el soldán de Persia
+SOLDÁN
+	No hallo cosa de mi gusto
+	que para el tuyo no sea.
+LISARDO
+	A quien servirte desea,
+	todo ese favor es justo.
+SOLDÁN
+	Presentáronme el cautivo,
+	y yo te lo quiero dar.
+LISARDO
+	Los pies te quiero besar
+	por favor tan excesivo.
+SOLDÁN
+	Pienso que te hago placer,
+	por ser hombre de tu tierra.
+LISARDO
+	¿Fue cautivo en paz, o en guerra?
+SOLDÁN
+	En guerra debió de ser.
+LISARDO
+	Haz que le traigan.
+SOLDÁN
+		Traed
+	aquel esclavo.
+LISARDO
+		No puedo
+	decir, señor, cuánto quedo
+	obligado a esta merced.
+	¿Es hombre noble?
+SOLDÁN
+		En su traza
+	lo parece, aunque lo niega,
+	pero es que el temor le ciega
+	y el castigo le amenaza.
+<i>Salen Cambises y Enrique
+CAMBISES
+	El anciano es el Soldán,
+	y el mozo Lucindo es,
+	que ya en tu presencia ves.
+LISARDO
+	¡Gentil esclavo!
+SOLDÁN
+		¡Galán!
+	Ése es tu dueño, y con él
+	te puedes quedar agora;
+	que voy a ver a Tidora.
+LISARDO
+	Tu suerte ha sido crüel.
+ENRIQUE
+	No lo fue, pues vine aquí.
+LISARDO
+	¿Adónde te cautivaron?
+ENRIQUE
+	En unas islas me hallaron
+	tres moros.
+LISARDO
+		¿Sin guerra?
+ENRIQUE
+		Sí.
+LISARDO
+	¿De dónde eres?
+ENRIQUE
+		Soy inglés.
+LISARDO
+	¡Ay, cielo!
+ENRIQUE
+		¿De qué suspiras?
+LISARDO
+	Yo me entiendo.
+ENRIQUE
+		¿Qué me miras
+	de la cabeza a los pies?
+LISARDO
+	Tuve en esa tierra yo
+	un grande amigo.
+ENRIQUE
+		¿Quién fue?
+LISARDO
+	¿Conocerásle?
+ENRIQUE
+		No sé.
+LISARDO
+	¿Ha mucho que faltas?
+ENRIQUE
+		No.
+LISARDO
+	¿Conoces a Enrique?
+ENRIQUE
+		Sí.
+LISARDO
+	El Príncipe, digo.
+ENRIQUE
+		Estuve
+	con él ha mucho, y le tuve
+	harto más cerca que a ti.
+	Mas ¿de qué le has conocido,
+	que nunca vino a esta tierra?
+	¿Tú, por dicha, a Ingalaterra
+	con alguna armada has ido?
+LISARDO
+	Su amigo soy; pero advierte
+	que le he tratado...
+ENRIQUE
+		Es honrado
+	para amigo, y desdichado
+	en amigos.
+LISARDO
+		¿De qué suerte?
+ENRIQUE
+	Quejábase de un francés,
+	pienso que era proenzal,
+	que con mano liberal
+	le dio un divino interés,
+	de que, sin decirle nada,
+	se fue, y le dejó; y sé yo
+	que en tierra y mar le buscó
+	con una larga jornada;
+	y que, hallándole un anillo
+	que él le dio, y a él su madre,
+	le prendió el Duque su padre,
+	y le tuvo en un castillo,
+	donde Matilde su hermana
+	le sacó, y dio libertad.
+LISARDO
+	¿Hizo alguna liviandad?
+ENRIQUE
+	No fue Matilde liviana,
+	sino mujer muy piadosa.
+	Él se fue, y pidióle un mes
+	de término, que ya es
+	por fe y palabra su esposa.
+LISARDO
+	Pues ¿para qué le quería?
+ENRIQUE
+	Para buscar a Lisardo.
+LISARDO
+	(¿Qué me detengo? ¿Qué aguardo
+	de hablar a la prenda mía?
+	¿Diré quién soy? Sí, que acaso
+	tendré de Lucinda nuevas.
+	¡Qué aprisa el alma me llevas!)
+	Cautivo, detén el paso;
+	deténle, y la vista afirma,
+	y repara en lo que soy.
+ENRIQUE
+	Temblando de verte estoy;
+	el alma el temor confirma.
+	¿Eres cristiano?
+LISARDO
+		Sí, amigo.
+ENRIQUE
+	Y ¿de dónde eres?
+LISARDO
+		Francés.
+ENRIQUE
+	¿Tu nombre?
+LISARDO
+		Lisardo es.
+ENRIQUE
+	¿Qué dices?
+LISARDO
+		Verdad te digo.
+ENRIQUE
+	Y tú ¿conócesme a mí?
+LISARDO
+	Pienso si te he visto yo:
+	los ojos dicen que no,
+	y el alma dice que sí.
+ENRIQUE
+	¿A Enrique de Ingalaterra
+	no conoces?
+LISARDO
+		¡Cielo santo!
+	¿Es posible que bien tanto
+	honra esta bárbara tierra?
+	Dame esos brazos; yo soy
+	Lisardo.
+ENRIQUE
+		Yo Enrique, a quien
+	pagas con tanto desdén
+	las entrañas que te doy.
+LISARDO
+	Amigo, con mil espadas
+	vino el Rey sobre el jardín;
+	fueme necesario, en fin,
+	romper las puertas cerradas.
+	No te hablé, por no poder.
+	Llevé a un monte aquella dama;
+	bajó una ave de una rama,
+	demonio debió de ser;
+	llevóme una banda roja
+	y dos anillos en ella;
+	levantéme, y fui tras ella,
+	dándome el pecho congoja,
+	que eran de tanto valor
+	como aquél que a ti te di;
+	fuese a una peña, seguí
+	su vuelo, que fue mi error,
+	porque allí me cautivaron.
+ENRIQUE
+	Esas armas mías fueron,
+	que entonces te defendieron
+	de dos que al jardín llegaron.
+	Tu madre es muerta.
+LISARDO
+		¡Ay de mí!
+ENRIQUE
+	Y tu padre en eso queda,
+	que no hay persona que pueda
+	darle un consuelo sin ti.
+	Va y viene a cierta casa
+	donde está una peregrina
+	de vida santa y divina,
+	cuya fama el mundo pasa,
+	porque por ti ruega a Dios,
+	y de tu nombre se llama.
+LISARDO
+	¡Válgame Dios! ¿Si es mi dama
+	y hemos trocado los dos?
+	Que yo Lucindo me llamo.
+ENRIQUE
+	Mucho te quiere el Soldán.
+LISARDO
+	Soy su rey y capitán;
+	de laurel mi frente enramo.
+	Pero toda esta grandeza,
+	sin mis padres ni mi esposa,
+	es, Enrique, humilde cosa,
+	y en mis intentos bajeza.
+ENRIQUE
+	¿Cómo no te vas?
+LISARDO
+		No puedo;
+	más que a su reino me estima.
+ENRIQUE
+	A ver tu padre te anima,
+	que tengo a su muerte miedo.
+	Dile que yo quedaré
+	preso en tu lugar por ti.
+LISARDO
+	Podrá ser que quiera así,
+	como esa prenda le dé.
+	Mas téngole de decir
+	que eres rey de Ingalaterra.
+ENRIQUE
+	¡Vuelve, Lisardo, a tu tierra,
+	y condénenme a morir!
+LISARDO
+	Dame esos pies.
+ENRIQUE
+		Si esto es poco,
+	daré mil vidas por ti.
+LISARDO
+	Deja de tratarme así;
+	que estoy de contento loco.
+	Palabra te doy, Enrique,
+	de volver a la prisión,
+	y que aquesta obligación
+	a todo el mundo publique.
+	Mas ¿cómo podré llevar
+	muchas joyas y tesoros
+	que aquí me han dado?
+ENRIQUE
+		A estos moros
+	puedes, Lisardo, engañar.
+LISARDO
+	¿De qué modo?
+ENRIQUE
+		En diez barriles
+	el oro y joyas pondrás
+	hasta el medio, y lo demás
+	cubre de otras cosas viles.
+LISARDO
+	De sal será lo mejor,
+	y pondréme yo en vil traje.
+ENRIQUE
+	Vamos a aguardar que baje
+	el Soldán.
+LISARDO
+		¡Notable amor!
+	En fin, ¿ya somos cuñados?
+ENRIQUE
+	Hermanos, has de decir.
+LISARDO
+	Temo...
+ENRIQUE
+		¿Qué temes?
+LISARDO
+		Salir
+	déstos, hasta aquí engañados.
+ENRIQUE
+	Engaña en el mar la guarda;
+	fíngete mercader nuevo
+	de sal.
+LISARDO
+		Diré que la llevo
+	al hospital de Lisarda.
+ENRIQUE
+	Si hallas a Lucinda allí,
+	quédate en tu tierra, hermano.
+LISARDO
+	Ni soy noble ni cristiano,
+	si no volviere por ti.
+<i>Sale el hermano Crispín
+CRISPÍN
+	¿Quién llama?
+LEONATO
+		Aquí está el Duque.
+CRISPÍN
+		Esté en buen hora.
+<i>Sale el Duque, y Leonato con un niño envuelto
+DUQUE
+	¿Niño? ¿De qué manera?
+LEONATO
+		Aquí parece
+	que una cédula tiene.
+DUQUE
+		¡Estraño caso!
+	¿Niños echan también en esas puertas?
+LEONATO
+	Es esta hospitalera tan piadosa,
+	que acudirán necesidades varias,
+	para que acuda a todos con limosna.
+DUQUE
+	Sí; mas un hospital de peregrinos,
+	Leonato, ¿ha de criar niños espósitos?
+	Llama a Lisarda.
+LEONATO
+		¡Ah de la casa! ¡Ah, gente!
+CRISPÍN
+	Que yo también estoy donde Dios sabe.
+	Pues ¿qué quiere a estas horas Su Excelencia?
+DUQUE
+	¿Qué hace aquel ejemplo de mujeres?
+	¿Qué hace la común misericordia?
+	¿Cómo está, amigo, aquella peregrina,
+	que es ángel en la tierra?
+CRISPÍN
+		¡Por Dios, Duque!
+	Nuestra hermana mayor ya se acostaba,
+	sino que tiene siempre de costumbre
+	subirse a la azotea por dos horas.
+DUQUE
+	¿Cómo azotea?
+CRISPÍN
+		Dase en las espaldas
+	con ciertos canelones cada noche,
+	por que parezca el hijo vuestro.
+DUQUE
+		El cielo
+	oiga su voz, su penitencia admita.
+LEONATO
+	Cierto que hace penitente vida.
+	Y vos, padre Crispín, ¿qué hacéis de noche?
+CRISPÍN
+	Señor, procuro yo acostarme luego.
+DUQUE
+	Ésa no es mala vida.
+CRISPÍN
+		¿Peor no fuera
+	estar, como en palacio, murmurando
+	de las vidas ajenas, con envidia
+	del favor, de la hacienda, del suceso,
+	del oficio, del cargo, de la honra,
+	y de otras cosas en que Dios se ofende?
+LEONATO
+	Éste, señor, aunque es un hombre simple,
+	es el gobierno desta casa todo,
+	y aun santo, aunque habla así por menosprecio.
+<i>Sale Lucinda sola
+LUCINDA
+	¿Aquí Vuestra Excelencia a tales horas?
+DUQUE
+	Venía con un grande desconsuelo
+	a pedir que a Dios encomendases
+	a mi Lisardo con mayores ruegos,
+	y que las buenas almas desta casa
+	hiciesen general oración juntos.
+LUCINDA
+	Pues ¿hay, señor, alguna mala nueva?
+DUQUE
+	Como se fue aquel preso, que debía
+	de ser encantador, pues no fue visto
+	que rompiese ventana, puerta o reja,
+	mandé que por la mar fuese buscado;
+	los que el puerto anduvieron una noche
+	vieron un pez, no visto en forma y cuerpo,
+	porque era fiero y en estremo grande.
+LUCINDA
+	Yo estaba aquí cuando la nueva vino.
+DUQUE
+	Vivió hasta agora sustentado en agua,
+	con algunos regalos de la tierra;
+	murió; hícele abrir, en cuyo vientre
+	pareció un tafetán con dos diamantes
+	que la Duquesa dio a Lisardo al tiempo
+	que se partió de nuestra casa a Nápoles;
+	no puede su valor, aunque muy grande,
+	consolar la sospecha que me ha dado
+	de que es muerto en la mar mi amado hijo,
+	pues tiene aqueste pez tan claras prendas.
+LUCINDA
+	¡Válgame Dios!
+<i>Desmáyase
+LEONATO
+		¡Desmayo temerario!
+DUQUE
+	Cayóse de su estado. ¿Qué habrá sido?
+	Echalda en ese estrado, y, entretanto,
+	veremos este niño.
+CRISPÍN
+		Comer poco,
+	dormir menos, sacarse mucha sangre:
+	¿en qué puede parar, si no es en esto?
+DUQUE
+	¿Si le dio de la nueva este desmayo?
+LEONATO
+	Bien puede ser, que siente por estremo
+	cualquiera mala nueva de Lisardo.
+DUQUE
+	Leed aquesa cédula que tiene.
+<i>Lee
+LEONATO
+	“Este niño que se echa a aquestas puertas
+	echó la hospitalera desta casa
+	a las de un hombre honrado deste pueblo;
+	mas él, que sabe que ella le ha parido
+	de Crispín el hermano, que se hace
+	simple, siendo un bellaco malicioso,
+	a las suyas le vuelve, que le críe.”
+CRISPÍN
+	¿Cómo es eso? Esperad.
+DUQUE
+		¡Notable caso!
+	¿Que Lisarda es tan grande pecadora,
+	y este villano su rufián?
+CRISPÍN
+		Advierta,
+	hermano Duque, que es un mentecato;
+	que no soy yo rufián, aunque soy hombre,
+	y ésta que mira no es mujer, es ángel;
+	y dél abajo, o dél arriba, miente
+	cualquiera que dijere lo contrario.
+DUQUE
+	¿Cómo, Leonato, el cielo habia de darme
+	mi hijo por los ruegos y oraciones
+	de una infame mujer? ¡Qué sacrificios
+	tan acetos le ha hecho! ¡Oh pueblo ciego,
+	que tú me has engañado! ¡Si no fuera
+	tan mal contado a quien yo soy, hiciera
+	una venganza en ella con mis manos
+	que se contara por ejemplo al mundo!
+	Déjale luego el mal nacido niño.
+	¡Sal, Leonato, de aquí; sal desta casa;
+	que a no ser, como es, sagrada iglesia,
+	pusiera fuego a cuanto en ella vive!
+LEONATO
+	¡Toma, villano, el hijo que engendraste!
+CRISPÍN
+	¡Mentís, por Dios! Pero, porque no tiene
+	padre ni madre, echadle acá en buen hora.
+LEONATO
+	(¡Qué bien me vengo ya de ti, traidora!)
+<i>Vanse el Duque y Leonato, y queda Crispín con el niño en los brazos, y Lucinda desmayada
+CRISPÍN
+	Por mi fe, niño, no sé
+	qué habemos de hacer los dos;
+	que, si no lo sabéis vos,
+	yo sé que no os engendré,
+	y sé que lo sabe Dios.
+	Pues estotra, que en el suelo
+	es un serafín del cielo,
+	una santa, una mujer
+	de tan casto proceder,
+	parióle como mi abuelo.
+	¡Ah, señora! ¿Qué la digo?
+	Vuelva en sí, que hay grande mal.
+<i>Vuelve en sí Lucinda
+LUCINDA
+	¿Qué es esto, Crispín amigo?
+CRISPÍN
+	Sepa que en nuestro hospital
+	hoy se ha entrado un enemigo.
+LUCINDA
+	¿Y el Duque?
+CRISPÍN
+		El Duque y Leonato
+	se han ido.
+LUCINDA
+		¿Qué niño es ése?
+CRISPÍN
+	Alguno, con falso trato,
+	le echó en nuestro umbral y fuese.
+LUCINDA
+	Habla, Crispín, con recato.
+CRISPÍN
+	¿Qué diablos tengo de hablar,
+	si dicen que le ha parido,
+	y me le han dado a crïar?
+LUCINDA
+	¿Duermo acaso?
+CRISPÍN
+		Si has dormido,
+	ya es tiempo de despertar.
+	Una cédula traía,
+	que, por lo menos, decía
+	que es el niño de los dos.
+LUCINDA
+	¿De mí y de ti?
+CRISPÍN
+		Sí ¡par Dios!
+LUCINDA
+	¡Desdichada suerte mía!
+	¿Oyólo el Duque?
+CRISPÍN
+		¿Pues no?
+LUCINDA
+	¿Y qué respondiste?
+CRISPÍN
+		Yo
+	respondíle que ojalá.
+LUCINDA
+	¡Perdido mi honor está!
+	¡Ya Leonato se vengó!
+	¿Que dijo el Duque?
+CRISPÍN
+		Decía
+	que cómo por tu ocasión
+	Dios a su hijo traería,
+	y que por esta razón
+	tanto mal le sucedía.
+	Yo le vi que te quisiera
+	o matar o desterrar.
+LUCINDA
+	¡Ah, Leonato! ¡Ah, bestia fiera,
+	que te quisiste vengar,
+	villano, desta manera!
+	Por no hacer tu gusto, saco
+	este premio; soy mujer:
+	llorando, mi daño aplaco.
+CRISPÍN
+	¡Par Dios, él debe de ser
+	un grandísimo bellaco!
+	Verle pienso, y no vengarme,
+	en una lanza o almendro.
+LUCINDA
+	Estoy por desesperarme.
+CRISPÍN
+	¿Qué hemos de hacer del engendro?
+LUCINDA
+	Matarle, amigo, o matarme.
+CRISPÍN
+	Mire, hermana, aunque me vea
+	un saco de necedades,
+	óigame, aunque bestia sea;
+	que para prosperidades
+	no es mucho que verdad sea.
+	Para mal sin resistencia,
+	el valor es menester;
+	súfrase y tenga paciencia,
+	que no hay bien como tener
+	bien segura la conciencia.
+	Dios también suele probar
+	a sus amigos así.
+	Lo que ha de hacer es callar
+	y tomar ejemplo en mí;
+	que tiempo queda de hablar.
+LUCINDA
+	¿Cómo quieres que me cuadre
+	esta infamia? Ya el ser madre
+	sufriera, pues serlo heredo,
+	mas ser tú el padre, no puedo.
+CRISPÍN
+	¿Tan malo soy para padre?
+	Pues yo sé que por ahí,
+	cuando voy con la demanda,
+	no me desprecian así.
+LUCINDA
+	¡Bueno mi crédito anda!
+	¡Triste! ¿Qué será de mí?
+	Señor, si lo queréis vos,
+	paciencia.
+CRISPÍN
+		No se alborote.
+LUCINDA
+	¿Vos mi hijo?
+CRISPÍN
+		Y de los dos.
+	¡Qué bonito es el chicote!
+	Ojo, bendígate Dios.
+<i>Vanse y salen Lisardo y dos pilotos
+LISARDO
+	La tierra es madre; al fin ama
+	la tierra cualquier persona.
+	¿Cómo esta isla se llama?
+PILOTO 1
+	Llámase, amigo, Saona.
+LISARDO
+	Ya la conozco por fama.
+	¿Podré un poco descansar?
+PILOTO 1
+	Podrás, mientras calma el viento.
+LISARDO
+	Pues quiérome recostar
+	sobre esta peña; que siento
+	sueño, y me convida el mar.
+PILOTO 1
+	Aléjate de la orilla,
+	y no mucho.
+LISARDO
+		No haré.
+PILOTO 1
+	El tiempo me maravilla.
+LISARDO
+	Dad una voz, que podré
+	desde estas peñas oílla.
+PILOTO 1
+	No tiene mala apariencia
+	este honrado mercader
+	[....................]
+PILOTO 2
+	Sí, pero ha dado en hacer
+	una estraña impertinencia.
+PILOTO 1
+	¿De qué suerte?
+PILOTO 2
+		A un hospital,
+	que de Lisarda le llama,
+	lleva unas pipas de sal.
+PILOTO [1]
+	¡Ofrecimiento de fama!
+	No he visto locura igual.
+[PILOTO 2]
+	Pues yo, presumiendo engaño,
+	quité una tabla y hallé
+	blanca sal por desengaño;
+	Y aun en dos o tres probé:
+	él ha sido intento estraño.
+[PILOTO] 1
+	Despertó el viento. ¡Qué hermoso
+	levante!
+PILOTO 2
+		A la mar camina.
+PILOTO 1
+	Velas dan.
+PILOTO 2
+		¡Con qué reposo
+	duerme estotro en la marina!
+PILOTO 1
+	Dale una voz presuroso.
+PILOTO 2
+	¡Ah de la tierra!
+PILOTO 1
+			¿Sabías
+	su nombre?
+PILOTO 2
+		Yo no.
+PILOTO 1
+				¡Ah, señor!
+PILOTO 2
+	En vano, Ergasto, porfías;
+	la mar escucha mejor.
+PILOTO 1
+	Responde a las ansias mías.
+PILOTO 2
+	Ya debe de estar allá.
+PILOTO 1
+	Sin duda que en ella está.
+PILOTO 2
+	Velas izan.
+PILOTO 1
+		¡Leva, leva!
+<i>Vanse y sale Lisardo de la marina
+LISARDO
+	Voces oigo. ¿Si se leva
+	la nave? ¡Ay, Dios, que se va!
+	¡Ya parte! ¡Triste de mí,
+	que, pensando en mi señora,
+	sobre un prado me dormí!
+	El remedio es sólo agora
+	hacer señas desde aquí.
+	¡Ah de la nave! No giran
+	la vela; el curso veloz,
+	por rumbo derecho tiran.
+	¡Hola, aoh! ¡No oyen mi voz,
+	ni el lienzo y las señas miran!
+	¿Hay tan grande desconsuelo?
+	¡Oh, traidores, ya recelo
+	que habéis visto mi tesoro;
+	bastara quitarme el oro,
+	si no era gusto del cielo!
+	¿Qué haré? Sin remedio estoy.
+	Esta isla todo es mar;
+	voces a los vientos doy,
+	no me quieren escuchar.
+	¡Desdichado en todo soy!
+	¡Plegue al cielo, navecilla,
+	que antes que esos viles brazos
+	echen el ferro en la orilla,
+	te hagas dos mil pedazos,
+	desde la gavia a la quilla;
+	un huracán, aunque goces
+	agora desos combates,
+	en mil asaltos feroces
+	destroce, pues me deshaces,
+	escotas, trizas y troces;
+	quiebre esa furia esa copa
+	con que agora vas ligera,
+	aunque cargada de ropa;
+	no te quede jarcia entera,
+	desde el bauprés a la popa!
+	En ese golfo perece;
+	toca en los bancos de Flandes.
+	¡Triste, ya desaparece!
+	Mientras doy quejas más grandes,
+	más pequeña me parece.
+	Sólo entre uno y otro canto
+	el eco a mi voz rebomba.
+	¡Ea, nave, no corras tanto;
+	párate y dame esa bomba,
+	con que desagüe este llanto!
+	Aquí mi queja se acabe,
+	ya no es razón que te nombre;
+	que ya estás tan lejos, nave,
+	que me pareces un hombre,
+	y yo te parezco un ave.
+	¡Ay, cielo! ¿Qué gente es ésta
+	que parece desembarca?
+	El traje lo manifiesta;
+	la plancha arroja una barca.
+	Muerta esperanza, haced fiesta;
+	que, puesto que turcos son,
+	más vale incierta prisión
+	que cierta muerte. Ya están
+	en tierra. Buen capitán,
+	Dios te ablande el corazón.
+<i>Entra Enrique, vestido de turco, y cuatro moros con él
+ENRIQUE
+	Haced agua de presto, no perdamos
+	tiempo, en tanto que este viento corre.
+[MORO] 1
+	Estraña prisa llevas.
+ENRIQUE
+		Saladino,
+	son los deseos del amor coléricos.
+<i>Meten mano
+LISARDO
+	¡Ea, caballeros turcos!
+ENRIQUE
+		¡Cielo santo!
+LISARDO
+	Detened los alfanjes valerosos.
+	Un pasajero soy, yo soy cristiano;
+	robáronme mi hacienda unos pilotos,
+	y quedé, como veis, en esta isla;
+	más quiero esclavo ser de un hombre noble,
+	que no morir de hambre entre estas peñas.
+	¿Cuál es el capitán?
+ENRIQUE
+		Yo soy.
+LISARDO
+		Pues dame
+	algo que coma, y ponme en mil cadenas.
+ENRIQUE
+	¡Válgame Dios! ¿Si es Lisardo aquéste?
+	¡Lisardo!
+LISARDO
+		¿Quién me llama?
+ENRIQUE
+		Enrique.
+LISARDO
+		¿Enrique?
+ENRIQUE
+	Enrique soy.
+LISARDO
+		¡Enrique de mi vida!,
+	¿qué es esto?
+ENRIQUE
+		Aprieta bien aqueste cuello,
+	y diréte después la causa.
+LISARDO
+		Dime,
+	¿cómo vienes así?
+ENRIQUE
+		Dada licencia
+	por el Soldán para que te partieses,
+	hallóme con mil lágrimas un día;
+	preguntóme la causa, y dije que era
+	amor de una mujer que se casaba
+	dentro de un mes que yo le di de término;
+	en fin, supo los días que faltaban,
+	y, como es tan gran príncipe, me envía
+	a que remedie el mal, si llego a tiempo.
+	Yo he tomado, hasta salir de Persia,
+	este traje que ves, por ir seguro,
+	y porque llevo firmas de su mano,
+	cuantas quise pedir.
+LISARDO
+		¡Ah, como el cielo
+	no me tiene olvidado!
+ENRIQUE
+		Pues no dudes
+	de que te ha de librar destos peligros.
+	Volvamos a la mar, y toma agora
+	el hábito que traigo, y disfrazados
+	podemos tomar puerto en la Proenza,
+	que así negociaremos con más gusto.
+	Tráigote cartas del Soldán, y traigo
+	de su hija un presente.
+LISARDO
+		No la nombres,
+	sino échala en el mar. ¡Oh, mi Lucinda!
+ENRIQUE
+	El cielo te dé nuevas de que vive.
+	Echa la plancha, Zaide. Entra en el barco.
+LISARDO
+	En tu remedio mi peligro embarco.
+<i>Vanse todos, y entra Lucinda, y Crispín sale armado graciosamente
+LUCINDA
+	Detente pues.
+CRISPÍN
+		Nuestra hermana
+	no tiene que detener;
+	yo he de vengalla y verter
+	aquella sangre villana.
+LUCINDA
+	¿No eres tú quien por los dos
+	tenías tanta paciencia?
+CRISPÍN
+	Ya con esa impertinencia
+	se me ha acabado, ¡par Dios!
+	Como ya de su maldad
+	al Duque habéis dado cuenta,
+	dicen que en campo sustenta
+	que es, lo que dice, verdad.
+	El crédito habéis perdido,
+	de suerte que nadie sale;
+	pues hoy verán lo que vale
+	un casto honor ofendido;
+	que Dios, que a David sacó
+	al campo contra un gigante,
+	y a Holofernes arrogante
+	una mujer sujetó;
+	y quien a un niño da ciencia
+	contra la madura cana
+	que osó ofender a Susana,
+	para tan clara sentencia,
+	me dará fuerzas a mí
+	para matar a una bestia;
+	las armas me dan molestia,
+	quiero echarlas por ahí,
+	que Dios me dará valor.
+LUCINDA
+	Calle, hermano, que yo llevo
+	ese testimonio nuevo
+	con más paciencia y amor.
+	Deje las armas y atienda
+	a los enfermos de casa.
+CRISPÍN
+	Lo que ya de razón pasa,
+	no hay jumento a quien no ofenda.
+	¡Déjeme, por vida suya;
+	meteréle ésta no más!
+LUCINDA
+	Téngase.
+CRISPÍN
+		¡Que por jamás
+	cosa que intente concluya!
+<i>Llamen a la puerta
+LUCINDA
+	Mire quién me busca ahí.
+<i>Salen dos pilotos
+CRISPÍN
+	Dos hombres de la mar son.
+LUCINDA
+	Di que no hay camas.
+CRISPÍN
+		Patrón,
+	porque no hay recado aquí,
+	vénganse, a la fe, mañana.
+PILOTO 1
+	No venimos sino a hablar
+	a la hospitalera, y dar
+	cierta limosna.
+CRISPÍN
+		Oye, hermana,
+	limosna trae esta gente.
+LUCINDA
+	Pues hijos, guárdelos Dios.
+PILOTO 1
+	En una nave los dos,
+	por ese mar del poniente,
+	a la isla de Saona
+	llegamos, donde trujimos
+	un mercader, que perdimos,
+	hombre de honrada persona,
+	el cual a este hospital
+	ciertos barriles traía
+	de sal.
+CRISPÍN
+		¡Qué mercadería!
+PILOTO 2
+	Llevamos, en fin, la sal.
+	Levantóse tal tormenta,
+	que remedio no tuvimos,
+	hasta que al cielo ofrecimos
+	traerla por nuestra cuenta.
+	Y, pues la habemos traído,
+	hacedla meter acá,
+	que algún dinero valdrá.
+LUCINDA
+	¡Notable suceso ha sido!
+PILOTO 1
+	A vuestra gran santidad
+	el milagro atribuimos.
+LUCINDA
+	Ya ese crédito perdimos.
+PILOTO [1]
+	Señora, con Dios quedad.
+<i>Vanse los pilotos
+LUCINDA
+	Guárdeos él de malos tratos.
+	¡Qué pilotos manirrotos!
+CRISPÍN
+	¿Pilotos son?
+LUCINDA
+		Sí, pilotos.
+CRISPÍN
+	Más parecen dos Pilatos.
+LUCINDA
+	Vaya a meter esta sal.
+CRISPÍN
+	¿Qué puercos acá tenemos,
+	si no quiere que salemos
+	los pobres del hospital?
+<i>Vase Crispín
+LUCINDA
+	¡A qué rigor más estraño
+	me puede el tiempo traer,
+	por no querer conocer
+	mi esperanza el desengaño!
+	¿Qué aguardo en aquesta tierra,
+	si ya mi bien se acabó?
+	Mas dirán, si me voy yo,
+	que su dueño me destierra.
+	Muerto es mi bien, bien lo advierte
+	el cierto fin de mis dichas;
+	que todas estas desdichas
+	son correos de su muerte.
+	¡Qué espantosa confusión!
+<i>Entra Crispín
+CRISPÍN
+	Dos hermanos luteranos
+	quieren besarte las manos.
+LUCINDA
+	¡Cómo! ¿Quién dices que son?
+CRISPÍN
+	¡Ah, sí! Persianos dijeron;
+	no tengo mucha memoria.
+<i>Entran Enrique y Lisardo, de persianos
+LISARDO
+	De tu virtud, fama y gloria,
+	dos mercaderes trujeron
+	las nuevas a Persia un día.
+	(¿Qué te parece?
+ENRIQUE
+		Que es ella.
+LISARDO
+	Sí, porque ya el alma, en vella,
+	arde, tiembla y desconfía.
+ENRIQUE
+	Sin duda Lucinda es,
+	y que se llama Lisarda.
+LISARDO
+	Aun está hermosa.
+ENRIQUE
+		Es gallarda.
+LISARDO
+	¡Ay, Dios!
+ENRIQUE
+		Disimula, pues.)
+CRISPÍN
+	(Reparando están en ti.
+LUCINDA
+	Habránles allá pintado
+	que soy un ángel.)
+ENRIQUE
+		(Tú has dado
+	en la cuenta; ello es así.
+LISARDO
+	Por abrazalla me muero.
+ENRIQUE
+	Tiempo queda; espera un poco.
+LISARDO
+	¡Ay, Enrique, que estoy loco!
+ENRIQUE
+	Espera.
+LISARDO
+		Muriendo espero.)
+LUCINDA
+	¿Qué es, amigos, lo que aquí
+	os trajo de aquesta suerte?
+LISARDO
+	El darte, después de verte,
+	ciertas nuevas.
+LUCINDA
+		¿Cómo así?
+LISARDO
+	Del señor de aquesta tierra
+	tiene allá un hijo el Soldán.
+LUCINDA
+	¿Qué? ¿Es vivo?
+LISARDO
+		Y su capitán,
+	y gobierna en paz y guerra.
+	Supo que estabas aquí,
+	y, por quitarte el cuidado,
+	te escribe que se ha casado.
+LUCINDA
+	¿Casado?
+LISARDO
+		Señora, sí.
+LUCINDA
+	¡Ah, traidor, crüel, perjuro,
+	mal cristiano, hombre sin ley!
+LISARDO
+	No te espantes, que allá es rey
+	de grande Estado y seguro.
+LUCINDA
+	¿Que no me espante? Conmigo
+	¿no le tuviera mejor?
+	¡Qué bien empleé mi honor,
+	Lisardo infame, contigo!
+	¡Con qué engañada esperanza
+	tantos años te esperé,
+	mostrando mi amor y fe!
+	¡Justo galardón me alcanza!
+	Fïad en hombres...
+LISARDO
+		(¿No quieres
+	que la abrace?
+ENRIQUE
+		Aún es temprano.)
+LUCINDA
+	¡Ah, cómo es mayor, villano,
+	el valor de las mujeres!
+LISARDO
+	(¿Ni agora tampoco?
+ENRIQUE
+		No,
+	que sabrán luego de ti.)
+<i>Entra un capitán con dos alabarderos
+CAPITÁN
+	La hospitalera ¿está aquí?
+LUCINDA
+	Aquí está.
+CAPITÁN
+		¿Sois vos?
+LUCINDA
+		Soy yo.
+CAPITÁN
+	El Duque os manda llevar
+	presa a su presencia.
+LUCINDA
+		Vamos.
+LISARDO
+	(¡A qué buen punto llegamos!
+ENRIQUE
+	¿Ves como es bueno callar?)
+LISARDO
+	¿Por qué la llevan, señor?
+CAPITÁN
+	Era por santa tenida,
+	y amaneció...
+LISARDO
+		¿Qué?
+CAPITÁN
+		Parida
+	deste buen hombre.
+LUCINDA
+		¡Ah, traidor!
+	Ya no es tiempo de defensa,
+	que Lisardo se ha casado;
+	ya el honor es acabado,
+	venga la afrenta y la ofensa.
+	No me quiero defender,
+	máteme el Duque homicida.
+ALABARDERO
+	Loca está.
+CAPITÁN
+		Llevadla asida;
+	que no es mucho, si es mujer.
+LISARDO
+	El loco soy yo, señor.
+	¿Esto es cierto?
+CAPITÁN
+		Y muy probado.
+CRISPÍN
+	No lo creáis, hombre honrado,
+	si tenéis mujer y honor;
+	que ésta es ángel en la tierra.
+CAPITÁN
+	Ese tonto que os habló
+	es de quien ella parió.
+LISARDO
+	(¡Ah, Enrique, esa boca cierra!
+	¡Rabio por dar voces!
+ENRIQUE
+		Calla.)
+	¿Qué la querrá el Duque?
+CAPITÁN
+		Un hombre
+	de honradas partes y nombre
+	sustenta el caso en batalla.
+	Mas otra ocasión ha habido,
+	y es que Matilde se casa
+	con el de Ferrara.
+ENRIQUE
+		(Pasa:
+	mi término es ya cumplido.)
+CAPITÁN
+	Con él, a ser su padrino,
+	el rey de Nápoles viene,
+	el cual tal deseo tiene,
+	para aqueste desatino
+	y la santidad pasada,
+	de ver aquesta mujer,
+	que en su presencia ha de ser
+	esta causa averiguada.
+	Perdonad, que voy deprisa.
+	¡Caminad vos, mentecato!
+CRISPÍN
+	¿Voy yo allá?
+CAPITÁN
+		¿Pues no?
+CRISPÍN
+		¡Hoy te mato,
+	infame!
+ENRIQUE
+		(Todo esto es risa.
+	Habla, no enmudezcas; ven
+	a libralla, que es mentira.
+	¿Qué te enojas? ¿Qué te admira?
+	¿No se ve el engaño bien?
+LISARDO
+	Tienes razón.
+ENRIQUE
+		¡Qué gran dicha
+	fue llegar!
+LISARDO
+		Esta maldad
+	no cabe en su calidad,
+	pero cabe en mi desdicha.
+ENRIQUE
+	Es testimonio terrible.
+LISARDO
+	Bien sé que no puede ser,
+	que es noble; mas es mujer,
+	y en mujer todo es posible.
+ENRIQUE
+	Vamos, que aún queda lugar
+	de remediarlo también.
+LISARDO
+	No hay en esta vida bien
+	que no venga a dar pesar.)
+<i>Vanse todos. Sale el duque de Proenza, el de Ferrara y el rey de Nápoles y Matilde y Leonato. Siéntense
+DUQUE
+	Con ninguna cosa vino
+	el Duque de más contento,
+	gran Rey, a este casamiento,
+	que con traer tal padrino:
+	Vuestra Majestad se siente.
+REY
+	¿De qué está la novia triste?
+MATILDE
+	(De la pena que resiste
+	de ver lo que adora ausente.)
+REY
+	¿Qué dice?
+FERRARA
+		No lo entendí.
+	No oso hablar, estoy turbado.
+	Pues aun no estoy desposado,
+	hablad por vos y por mí.
+DUQUE
+	Dirá Matilde que ha sido
+	dichosa en haber casado
+	con el Duque.
+FERRARA
+		Yo he ganado
+	en tan desigual partido.
+LEONATO
+	La peregrina está aquí,
+	y aquel su hermano galán.
+<i>Entran el capitán y Lucinda y Lisardo y Enrique y Crispín
+REY
+	¡Gran contento me darán,
+	grandes cosas della oí!
+DUQUE
+	Fue aquí tenida por santa.
+	¿Quién viene con ella?
+CAPITÁN
+		Son
+	dos persianos de nación,
+	que allá posaban.
+DUQUE
+		Espanta
+	ver que hasta un bárbaro moro
+	en su hospital acogía.
+REY
+	Quien tanta piedad tenía,
+	¿perdió su honesto decoro?
+DUQUE
+	¡Cuántos hay que han resistido
+	con un divino valor
+	dos mil vicios, y en amor
+	como bestias han caído!
+REY
+	¡Buen talle y honestidad!
+FERRARA
+	Él, hombre simple parece.
+LEONATO
+	Tanto más culpa merece
+	por su pecado y maldad.
+REY
+	¿Sois vos el acusador?
+LEONATO
+	Yo soy.
+LUCINDA
+		¡Ah, traidor villano,
+	de aquel Jüez soberano
+	venga el castigo a tu error!
+	Bien sabes que pretendiste
+	gozarme, y firme me hallaste,
+	por eso te perjuraste
+	y a este punto me trujiste.
+	¿Dices que sustentarás
+	que es verdad?
+LEONATO
+		Y aquí lo digo.
+LISARDO
+	Yo, caballero, me obligo,
+	si tu licencia nos das,
+	de sustentar en campaña
+	que mientes.
+LEONATO
+		Eres de ley
+	contraria.
+LISARDO
+		Yo tengo un rey
+	que adora la ley de España,
+	la de Nápoles y Francia,
+	que es toda una.
+REY
+		Otorgad
+	el campo.
+CRISPÍN
+		¿No es necedad,
+	si sois hombre de importancia,
+	poneros con un picaño?
+	Salid aquí, bellacón,
+	y andemos al mojicón.
+LISARDO
+	¡Detente allá!
+REY
+		¡Caso estraño!
+LUCINDA
+	¿Qué te admiras y suspendes?
+	¿Quieres saber que es mentira?
+	Pues mira a tu sangre, y mira
+	de cuantos reyes deciendes,
+	y echarás luego de ver
+	si tu sangre te ofendió.
+REY
+	Pues ¿quién es mi sangre?
+LUCINDA
+		Yo.
+REY
+	¿Qué es lo que dices, mujer?
+LUCINDA
+	Que soy tu hija robada
+	del hijo deste homicida,
+	donde, dejada y perdida,
+	peregrina y despreciada,
+	he venido, como veis,
+	hasta que indució el demonio
+	a éste a tal testimonio.
+REY
+	¡Hija!
+CRISPÍN
+		Agora pagaréis...
+LUCINDA
+	Lisardo es moro, y, pues queda
+	en servicio del Soldán,
+	según las nuevas me dan,
+	dejadme que vivir pueda
+	en mi hospital, que otra cosa
+	no la acabaréis conmigo.
+DUQUE
+	¿Quién lo ha dicho?
+LISARDO
+		Yo lo digo;
+	pero no es verdad, esposa;
+	que yo soy Lisardo.
+DUQUE
+		¡Cielo!,
+	¿qué es lo que oigo?
+LISARDO
+		¡Ay, prenda mía!
+	A verte alegre venía
+	desde aquel bárbaro suelo,
+	con diez pipas de tesoro,
+	llenas de sal por encima;
+	pero, entendiendo la enigma,
+	me las hurtó el que ignoro.
+LUCINDA
+	Yo las tengo en mi poder.
+	Mas ¿qué tesoro mayor
+	que hallarte?
+DUQUE
+		¡Hijo!
+LISARDO
+		¡Señor!
+DUQUE
+	¡No hay más hablar! ¡No hay más ver!
+LISARDO
+	Ten los brazos; que he jurado
+	no te los dar hasta el punto
+	que me otorgues...
+DUQUE
+		Pide junto,
+	Lisardo, todo mi Estado.
+LISARDO
+	Sólo que a mi hermana des
+	a Enrique de Ingalaterra,
+	porque en la mar y en la tierra
+	pasó por mí lo que ves.
+DUQUE
+	Con el duque de Ferrara
+	la caso.
+FERRARA
+		Yo se la doy;
+	que, a tal príncipe, no soy
+	tan loco que la quitara.
+ENRIQUE
+	¿Puedo hablaros?
+DUQUE
+		¿No es el preso
+	que de la cárcel huyó?
+MATILDE
+	Sí, señor; libréle yo,
+	que ya a todos lo confieso.
+	¡Mi Enrique!
+ENRIQUE
+		¡Señora mía!
+CRISPÍN
+	Oigan un poco en el fin
+	al tonto hermano Crispín,
+	Su Alteza y Su Señoría.
+DUQUE
+	¿Qué queréis?
+CRISPÍN
+		Pido un oficio.
+DUQUE
+	Pide el que quisieres.
+CRISPÍN
+		Pido
+	ser verdugo.
+DUQUE
+		Él ha pedido
+	como da su ingenio indicio.
+CRISPÍN
+	Yo lo quiero ser a efecto
+	de ahorcar a este bellaco.
+LEONATO
+	Si con mi sangre no aplaco
+	mi traición, desde hoy prometo...
+DUQUE
+	No digas nada ni hables;
+	Lucinda es jüez.
+LEONATO
+		Pregono
+	mi culpa.
+LUCINDA
+		Yo te perdono.
+REY
+	¡Gran valor!
+FERRARA
+		¡Cosas notables!
+CRISPÍN
+	¿Eso has hecho?
+LUCINDA
+		No te espantes;
+	que es grande el bien que he ganado.
+LISARDO
+	Y aquí, discreto senado,
+	se acaban Los tres diamantes.
