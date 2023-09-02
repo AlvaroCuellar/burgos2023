@@ -11,7 +11,7 @@
 
 # Primero establecemos el directorio de trabajo
 # Si tienes un Mac y has guardado la carpeta "Roman-de-la-Rose" en el escritorio:
-setwd("Desktop/RdlR_for_rolling_classify")
+setwd("~/Desktop/RdlR_for_rolling_classify")
 # Si tienes Windows y has guardado la carpeta en C:
 setwd("C:/RdlR_for_rolling_classify")
 
