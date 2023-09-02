@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=1.6.0:model_id=49462:lm=none:date=17_03_2023_16:58</Creator>
+        <Created>2023-03-16T11:44:04.713+01:00</Created>
+        <LastChange>2023-08-15T22:25:23.988+02:00</LastChange>
+        <TranskribusMetadata docId="1533790" pageId="58761804" pageNr="39" tsid="132954434" status="IN_PROGRESS" userId="60373" imgUrl="https://files.transkribus.eu/Get?id=HKFCRNDRNOWUYRBVIYJYPBVR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=COIRPGNRAZDZUYTXVXRLIFOL" imageId="43311479"/>
+    </Metadata>
+    <Page imageFilename="p039.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1693678311077" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="116,212 2319,212 2319,1117 116,1117"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="104,343 486,273 1150,275 1201,321 1650,275 1650,227 1585,198 1467,234 1227,222 1169,179 860,193 824,230 754,176 104,208"/>
+                <Baseline points="116,271 134,277 179,274 223,271 268,265 313,265 358,265 403,262 447,268 492,268 537,268 582,268 626,268 671,268 716,271 761,271 806,271 850,274 895,274 940,274 985,271 1030,271 1074,271 1119,271 1164,271 1209,271 1253,271 1298,274 1343,271 1388,274 1433,274 1477,271 1522,271 1567,271 1612,271 1656,265"/>
+                <TextEquiv>
+                    <Unicode>xx xxxx xxx xx xx xx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2146,295 2175,292 2184,302 2208,300 2223,314 2252,302 2254,82 2237,77 2230,82 2218,70 2206,80 2184,82 2167,65 2148,65"/>
+                <Baseline points="2158,277 2167,274 2212,274 2257,274"/>
+                <TextEquiv>
+                    <Unicode>xx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="162,418 420,346 614,341 766,399 1039,346 1114,382 1343,367 1343,285 1206,321 1148,275 754,307 486,273 162,324"/>
+                <Baseline points="176,364 185,361 229,352 274,349 319,343 364,343 409,340 453,340 498,340 543,340 588,340 632,340 677,340 722,343 767,346 812,346 856,346 901,346 946,343 991,343 1035,343 1080,343 1125,340 1170,340 1215,340 1259,340 1304,340 1349,340"/>
+                <TextEquiv>
+                    <Unicode>xxxx xxxxxxxx xx xxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="307,498 418,442 831,493 880,459 1044,488 1087,449 1392,469 1389,358 1261,406 1128,375 1092,411 998,353 768,399 602,346 304,367"/>
+                <Baseline points="319,450 364,447 409,441 453,435 498,432 543,432 588,432 632,432 677,435 722,438 767,438 812,441 856,444 901,444 946,444 991,444 1035,444 1080,444 1125,447 1170,450 1215,450 1259,453 1304,453 1349,450 1394,450 1397,450"/>
+                <TextEquiv>
+                    <Unicode>xxx xx xxxxxxx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="324,563 1058,541 1230,575 1336,548 1334,481 1087,449 1041,488 966,462 715,490 404,447 321,495"/>
+                <Baseline points="334,525 379,528 423,528 468,528 513,528 558,528 603,531 647,531 692,531 737,531 782,531 826,531 871,531 916,534 961,534 1006,534 1050,534 1095,534 1140,537 1185,537 1230,537 1274,537 1319,537 1340,537"/>
+                <TextEquiv>
+                    <Unicode>xx xxxxxx xxxxxxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="319,684 437,631 966,635 1070,679 1421,621 1725,684 1974,645 2252,693 2259,498 2199,539 1870,536 1757,577 1510,517 1227,577 449,536 317,587"/>
+                <Baseline points="331,615 376,612 420,612 465,612 510,615 555,618 600,618 644,620 689,620 734,620 779,620 824,623 868,623 913,626 958,626 1003,626 1047,626 1092,626 1137,626 1182,626 1227,623 1271,623 1316,623 1361,623 1406,623 1450,620 1495,623 1540,623 1585,623 1630,626 1674,629 1719,629 1764,632 1809,632 1854,635 1898,635 1943,635 1988,638 2033,638 2077,638 2122,638 2167,638 2212,638 2257,638 2263,638"/>
+                <TextEquiv>
+                    <Unicode>xxx xxxx xxxxxxx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="329,742 551,718 635,764 822,742 894,778 1104,744 1211,793 1288,732 1356,768 1481,744 1481,667 1329,626 1208,681 435,631 329,689"/>
+                <Baseline points="343,710 388,710 432,710 477,710 522,716 567,716 612,719 656,722 701,725 746,725 791,725 835,725 880,725 925,728 970,725 1015,725 1059,725 1104,728 1149,728 1194,728 1238,728 1283,725 1328,728 1373,728 1418,728 1462,731 1486,731"/>
+                <TextEquiv>
+                    <Unicode>xxxx xx xxxxxxxx xx xxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1534,744 1708,759 1745,732 1906,771 2092,735 2288,761 2286,674 2153,689 1933,648 1718,681 1626,633 1529,633"/>
+                <Baseline points="1546,713 1591,713 1636,716 1680,716 1725,719 1770,722 1815,725 1859,725 1904,725 1949,725 1994,731 2039,731 2083,734 2128,734 2173,734 2218,734 2263,734 2295,734"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxxx xxx xxx xxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="331,870 408,817 1206,826 1305,858 1387,831 1385,766 1290,732 1213,790 1107,742 894,778 822,744 604,773 544,722 329,742"/>
+                <Baseline points="343,800 388,797 432,797 477,800 522,806 567,806 612,809 656,812 701,812 746,812 791,812 835,815 880,815 925,812 970,815 1015,821 1059,824 1104,821 1149,821 1194,824 1238,824 1283,824 1328,824 1373,824 1394,824"/>
+                <TextEquiv>
+                    <Unicode>xxx xxx xxxxx xxxxxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1496,819 1645,812 1689,848 1769,814 2063,812 2315,846 2312,756 2063,735 1904,771 1740,732 1493,785"/>
+                <Baseline points="1510,800 1555,800 1600,800 1645,803 1689,803 1734,803 1779,806 1824,806 1868,806 1913,809 1958,806 2003,806 2048,806 2092,809 2137,812 2182,815 2227,818 2271,818 2316,818 2319,818"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxx xxxxxx xx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="703,887 853,860 1220,880 1218,826 701,831"/>
+                <Baseline points="716,862 761,859 806,856 850,859 895,862 940,859 985,865 1030,865 1074,868 1119,865 1164,868 1209,868 1227,868"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1500,901 1633,896 1684,933 1740,904 1868,925 1964,896 2300,928 2298,841 2063,812 1870,846 1800,812 1689,848 1653,814 1498,822"/>
+                <Baseline points="1513,886 1558,883 1603,883 1648,886 1692,886 1737,889 1782,892 1827,892 1871,892 1916,895 1961,892 2006,895 2051,895 2095,898 2140,898 2185,901 2230,901 2274,904 2304,907"/>
+                <TextEquiv>
+                    <Unicode>xx xx xxx xx xx xxxxxx xxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="329,911 512,904 677,952 732,916 807,966 950,916 1375,940 1372,843 1201,884 780,884 529,826 329,872"/>
+                <Baseline points="343,892 388,892 432,892 477,892 522,895 567,895 612,895 656,898 701,898 746,901 791,901 835,901 880,904 925,904 970,904 1015,907 1059,910 1104,910 1149,907 1194,907 1238,907 1283,907 1328,907 1373,910 1379,910"/>
+                <TextEquiv>
+                    <Unicode>xx xxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1500,974 1848,981 2013,1063 2305,998 2303,930 2242,909 2136,938 1962,899 1868,928 1747,901 1687,930 1498,899"/>
+                <Baseline points="1513,952 1558,955 1603,958 1648,961 1692,964 1737,964 1782,967 1827,967 1871,967 1916,967 1961,967 2006,967 2051,973 2095,976 2140,976 2185,979 2230,985 2274,985 2310,985"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxxx xx xxxxx xxx xxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="321,1027 1491,1029 1488,942 1418,901 1334,950 853,923 807,966 737,918 527,950 457,906 319,954"/>
+                <Baseline points="334,988 379,988 423,988 468,991 513,991 558,988 603,991 647,991 692,991 737,994 782,994 826,994 871,997 916,997 961,1000 1006,997 1050,1000 1095,1003 1140,1003 1185,1006 1230,1003 1274,1006 1319,1006 1364,1009 1409,1009 1453,1012 1495,1006"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxxxx xxxxx  xx xxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="309,1111 1107,1092 1469,1145 1464,1051 1339,1017 1049,1012 969,1053 916,1005 834,1039 307,1029"/>
+                <Baseline points="319,1059 364,1062 409,1068 453,1071 498,1074 543,1077 588,1077 632,1077 677,1080 722,1083 767,1083 812,1086 856,1086 901,1086 946,1089 991,1092 1035,1092 1080,1092 1125,1095 1170,1098 1215,1101 1259,1101 1304,1101 1349,1101 1394,1101 1439,1107 1471,1107"/>
+                <TextEquiv>
+                    <Unicode>x xxxxxx xxx xxxx xxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>xx xxxx xxx xx xx xx xxxxxx
+xx
+xxxx xxxxxxxx xx xxxxxxx
+xxx xx xxxxxxx xxxxxx
+xx xxxxxx xxxxxxxxxxx
+xxx xxxx xxxxxxx xxxxxx
+xxxx xx xxxxxxxx xx xxxxxxx
+xxxxxxxx xxx xxx xxxxx
+xxx xxx xxxxx xxxxxxxxxx
+xxxxxxx xxxxxx xx xxxxxx
+xxxxxxxxxxxx
+xx xx xxx xx xx xxxxxx xxxxx
+xx xxxxx
+xxxxxxxx xx xxxxx xxx xxxxx
+xxxxxxxxx xxxxx  xx xxxx
+x xxxxxx xxx xxxx xxxxxxx</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="98,1102 1561,1102 1561,2496 98,2496"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="312,1179 1174,1254 1356,1225 1351,1111 848,1126 611,1080 307,1119"/>
+                <Baseline points="322,1152 367,1155 412,1155 456,1158 501,1161 546,1164 591,1167 635,1170 680,1173 725,1176 770,1179 815,1179 859,1182 904,1182 949,1185 994,1188 1038,1194 1083,1191 1128,1194 1173,1194 1218,1194 1262,1197 1307,1197 1352,1200 1358,1197"/>
+                <TextEquiv>
+                    <Unicode>xx xxxxxxx xx xx xxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="302,1266 855,1314 1005,1290 1070,1331 1189,1302 1283,1336 1343,1314 1339,1227 1116,1256 930,1206 297,1194"/>
+                <Baseline points="313,1253 358,1256 403,1256 447,1262 492,1262 537,1262 582,1262 626,1268 671,1271 716,1271 761,1274 806,1277 850,1280 895,1277 940,1283 985,1286 1030,1289 1074,1289 1119,1292 1164,1292 1209,1292 1253,1292 1298,1292 1343,1292 1346,1292"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxxx xx xxxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="297,1452 556,1370 940,1433 1041,1401 1433,1428 1411,1319 1085,1329 981,1290 906,1324 807,1285 551,1317 469,1264 292,1329"/>
+                <Baseline points="307,1361 352,1355 397,1361 441,1361 486,1364 531,1364 576,1367 620,1370 665,1373 710,1376 755,1379 800,1379 844,1382 889,1385 934,1388 979,1388 1024,1391 1068,1391 1113,1391 1158,1391 1203,1394 1247,1397 1292,1400 1337,1400 1382,1403 1427,1406 1439,1403"/>
+                <TextEquiv>
+                    <Unicode>xxxxxx xxxx xxxxxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="304,1520 718,1469 1165,1554 1307,1488 1430,1546 1426,1418 1385,1409 981,1401 848,1438 773,1394 573,1418 452,1385 302,1438"/>
+                <Baseline points="316,1456 361,1456 406,1456 450,1462 495,1462 540,1462 585,1465 629,1465 674,1465 719,1468 764,1471 809,1474 853,1477 898,1477 943,1480 988,1483 1032,1483 1077,1483 1122,1483 1167,1483 1212,1486 1256,1486 1301,1489 1346,1489 1391,1495 1433,1498"/>
+                <TextEquiv>
+                    <Unicode>xxxxx xxxxxx xx xxx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="300,1563 580,1575 652,1629 838,1575 918,1609 1174,1590 1269,1631 1375,1597 1372,1515 1312,1498 1162,1551 1012,1544 887,1484 706,1510 570,1474 430,1539 300,1515"/>
+                <Baseline points="313,1561 358,1558 403,1558 447,1561 492,1561 537,1561 582,1561 626,1561 671,1567 716,1570 761,1567 806,1570 850,1573 895,1573 940,1573 985,1573 1030,1576 1074,1579 1119,1576 1164,1579 1209,1579 1253,1579 1298,1582 1343,1582 1379,1582"/>
+                <TextEquiv>
+                    <Unicode>xx xxxxx xxxxxxxx xxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="278,1672 505,1658 650,1735 718,1677 1128,1684 1240,1732 1341,1703 1336,1597 1261,1633 1070,1590 851,1638 428,1561 273,1597"/>
+                <Baseline points="289,1656 334,1650 379,1650 423,1653 468,1656 513,1656 558,1656 603,1656 647,1659 692,1659 737,1662 782,1662 826,1662 871,1665 916,1665 961,1668 1006,1671 1050,1674 1095,1677 1140,1680 1185,1683 1230,1686 1274,1686 1319,1692 1343,1695"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxx xxx xxx xxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="273,1783 940,1774 1070,1786 1157,1851 1305,1803 1372,1839 1406,1822 1399,1691 1252,1740 993,1677 718,1677 655,1737 505,1682 268,1708"/>
+                <Baseline points="283,1740 328,1740 373,1743 417,1743 462,1749 507,1752 552,1755 597,1758 641,1761 686,1764 731,1764 776,1767 821,1767 865,1767 910,1767 955,1770 1000,1773 1044,1776 1089,1782 1134,1785 1179,1791 1224,1791 1268,1794 1313,1797 1358,1797 1403,1800 1409,1797"/>
+                <TextEquiv>
+                    <Unicode>xxxxxx xx xxxxx xx xxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="278,1902 428,1844 672,1890 855,1856 1073,1906 1247,1894 1244,1848 1160,1853 1063,1786 766,1776 735,1805 664,1778 541,1817 435,1759 273,1783"/>
+                <Baseline points="289,1833 334,1833 379,1836 423,1839 468,1842 513,1845 558,1848 603,1848 647,1851 692,1851 737,1854 782,1854 826,1854 871,1857 916,1857 961,1859 1006,1862 1050,1865 1095,1871 1140,1877 1185,1883 1230,1886 1250,1889"/>
+                <TextEquiv>
+                    <Unicode>xxxx xx xx xxxxxx xxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="268,2010 534,1926 735,1974 855,1950 933,1998 1295,1979 1290,1904 1073,1906 971,1858 848,1851 747,1899 553,1848 259,1865"/>
+                <Baseline points="274,1913 319,1913 364,1919 409,1919 453,1922 498,1925 543,1928 588,1934 632,1934 677,1934 722,1937 767,1940 812,1940 856,1940 901,1940 946,1946 991,1952 1035,1955 1080,1961 1125,1967 1170,1967 1215,1970 1259,1970 1301,1976"/>
+                <TextEquiv>
+                    <Unicode>xxx xx xxx xxxxxxx xxx xxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="271,2037 570,2027 747,2102 848,2054 1000,2095 1104,2056 1273,2100 1433,2073 1428,1981 1351,1969 933,2001 880,1955 718,1981 452,1940 271,2005"/>
+                <Baseline points="283,2024 328,2018 373,2012 417,2012 462,2015 507,2018 552,2021 597,2021 641,2027 686,2030 731,2033 776,2036 821,2039 865,2045 910,2051 955,2051 1000,2051 1044,2054 1089,2054 1134,2054 1179,2057 1224,2057 1268,2060 1313,2060 1358,2063 1403,2063 1433,2063"/>
+                <TextEquiv>
+                    <Unicode>xxxxxx xx xxx xx xxxx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="278,2150 539,2170 614,2134 838,2208 1022,2155 1397,2177 1404,2097 1092,2059 986,2100 848,2054 747,2102 527,2030 275,2071"/>
+                <Baseline points="292,2110 337,2113 382,2116 426,2119 471,2122 516,2125 561,2128 606,2128 650,2134 695,2137 740,2143 785,2143 829,2149 874,2152 919,2152 964,2155 1009,2155 1053,2155 1098,2152 1143,2152 1188,2152 1233,2155 1277,2158 1322,2161 1367,2164 1412,2170"/>
+                <TextEquiv>
+                    <Unicode>xx xx xxx xxxxxxx xx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="87,2245 118,2235 172,2264 193,2245 213,2259 220,2252 249,2259 244,2061 176,2061 164,2076 135,2073 101,2100 82,2100"/>
+                <Baseline points="98,2200 143,2200 188,2200 232,2203 253,2206"/>
+                <TextEquiv>
+                    <Unicode>xxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="314,2262 406,2293 785,2245 887,2324 1295,2266 1409,2320 1486,2298 1481,2216 1126,2213 998,2170 858,2211 611,2136 307,2165"/>
+                <Baseline points="322,2212 367,2215 412,2215 456,2221 501,2224 546,2227 591,2230 635,2233 680,2239 725,2242 770,2242 815,2248 859,2257 904,2260 949,2260 994,2257 1038,2257 1083,2257 1128,2254 1173,2254 1218,2260 1262,2263 1307,2269 1352,2271 1397,2277 1442,2286 1486,2295 1492,2295"/>
+                <TextEquiv>
+                    <Unicode>xxxx xxxxxxx xxxx xx xxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="239,2416 449,2339 519,2382 1329,2373 1556,2428 1549,2264 1160,2344 1046,2279 863,2332 744,2257 399,2293 232,2252"/>
+                <Baseline points="247,2337 292,2334 337,2334 382,2334 426,2334 471,2331 516,2334 561,2337 606,2340 650,2346 695,2346 740,2349 785,2352 829,2358 874,2361 919,2364 964,2364 1009,2364 1053,2364 1098,2361 1143,2361 1188,2364 1233,2364 1277,2367 1322,2370 1367,2376 1412,2379 1456,2385 1501,2391 1546,2394 1561,2397"/>
+                <TextEquiv>
+                    <Unicode>xxx xx xxxxx xxxxx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="234,2477 370,2436 727,2501 933,2477 1003,2520 1082,2484 1266,2518 1370,2467 1411,2503 1520,2486 1517,2438 1351,2375 672,2375 568,2416 389,2344 232,2419"/>
+                <Baseline points="247,2439 292,2436 337,2436 382,2436 426,2439 471,2439 516,2442 561,2442 606,2448 650,2451 695,2454 740,2460 785,2460 829,2463 874,2463 919,2463 964,2466 1009,2466 1053,2469 1098,2466 1143,2466 1188,2466 1233,2463 1277,2466 1322,2466 1367,2469 1412,2475 1456,2477 1501,2483 1525,2486"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxx xxxxxxxx xx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>xx xxxxxxx xx xx xxxxx
+xxxxxxxx xx xxxxxxxx
+xxxxxx xxxx xxxxxxxxxx
+xxxxx xxxxxx xx xxx xxxxxx
+xx xxxxx xxxxxxxx xxxx
+xxxxxxx xxx xxx xxxxxxx
+xxxxxx xx xxxxx xx xxxxxxx
+xxxx xx xx xxxxxx xxxxxxx
+xxx xx xxx xxxxxxx xxx xxxxx
+xxxxxx xx xxx xx xxxx xxxxxx
+xx xx xxx xxxxxxx xx xxxxxx
+xxx
+xxxx xxxxxxx xxxx xx xxxxxxx
+xxx xx xxxxx xxxxx xxxxxx
+xxxxxxx xxxxxxxx xx xxxxxx</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="71,2469 1588,2469 1588,3401 71,3401"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="80,2573 249,2537 923,2581 1145,2651 1411,2626 1385,2481 1003,2520 935,2477 727,2503 370,2436 285,2474 169,2419 77,2467"/>
+                <Baseline points="92,2519 137,2525 182,2528 226,2537 271,2537 316,2537 361,2537 406,2537 450,2537 495,2537 540,2540 585,2543 629,2546 674,2549 719,2552 764,2552 809,2558 853,2561 898,2561 943,2564 988,2564 1032,2564 1077,2567 1122,2567 1167,2567 1212,2564 1256,2567 1301,2567 1346,2570 1391,2570 1412,2573"/>
+                <TextEquiv>
+                    <Unicode>xx xxxxxx xxxxxx xx xx xxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="254,2658 333,2677 449,2643 722,2682 819,2655 901,2684 1109,2660 1109,2622 986,2624 882,2578 834,2605 708,2556 587,2593 495,2556 251,2576"/>
+                <Baseline points="268,2624 313,2630 358,2630 403,2633 447,2636 492,2636 537,2639 582,2639 626,2642 671,2645 716,2648 761,2648 806,2651 850,2651 895,2651 940,2654 985,2654 1030,2654 1074,2657 1116,2657"/>
+                <TextEquiv>
+                    <Unicode>xx xxxxxxxx xx xxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="92,2762 111,2752 121,2757 140,2735 179,2740 193,2750 215,2735 237,2735 220,2585 159,2597 150,2612 138,2610 123,2626 87,2605 75,2607"/>
+                <Baseline points="95,2686 140,2689 185,2692 229,2701 238,2701"/>
+                <TextEquiv>
+                    <Unicode>xxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="275,2769 343,2728 413,2762 904,2740 1418,2805 1411,2648 1227,2668 1182,2629 1068,2709 1012,2663 271,2670"/>
+                <Baseline points="286,2713 331,2713 376,2713 420,2719 465,2722 510,2725 555,2731 600,2731 644,2731 689,2734 734,2737 779,2737 824,2740 868,2740 913,2743 958,2746 1003,2749 1047,2752 1092,2752 1137,2755 1182,2758 1227,2758 1271,2761 1316,2761 1361,2764 1406,2767 1421,2770"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxx xxxxx xxxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="205,2892 602,2863 954,2916 1546,2912 1542,2810 1421,2834 1208,2757 201,2742"/>
+                <Baseline points="217,2848 262,2848 307,2848 352,2848 397,2851 441,2854 486,2857 531,2857 576,2860 620,2860 665,2863 710,2866 755,2866 800,2866 844,2866 889,2866 934,2869 979,2872 1024,2875 1068,2881 1113,2884 1158,2884 1203,2884 1247,2887 1292,2887 1337,2887 1382,2889 1427,2889 1471,2892 1516,2892 1549,2892"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxx xxx xxxxx x xxxxxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="70,3040 85,3035 138,2994 159,3003 172,3001 155,2863 126,2866 116,2875 92,2858 70,2885 51,2883"/>
+                <Baseline points="71,2946 116,2949 161,2955 173,2961"/>
+                <TextEquiv>
+                    <Unicode>xxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="201,2982 387,3018 587,2982 865,2994 933,3037 1041,3003 1276,3025 1300,2938 198,2928"/>
+                <Baseline points="214,2970 259,2970 304,2973 349,2973 394,2976 438,2979 483,2979 528,2979 573,2979 618,2979 662,2982 707,2982 752,2982 797,2985 841,2985 886,2991 931,2991 976,2991 1021,2994 1065,2997 1110,2997 1155,2997 1200,3000 1244,2997 1289,2997 1307,2997"/>
+                <TextEquiv>
+                    <Unicode>xxxxxxxx xxxxxx x xxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="213,3124 300,3086 387,3122 698,3083 1227,3158 1271,3117 1484,3124 1479,3003 1039,3008 938,3054 865,2994 208,3011"/>
+                <Baseline points="223,3069 268,3069 313,3069 358,3072 403,3075 447,3078 492,3075 537,3078 582,3078 626,3081 671,3081 716,3084 761,3084 806,3087 850,3090 895,3093 940,3093 985,3095 1030,3095 1074,3098 1119,3098 1164,3104 1209,3107 1253,3107 1298,3110 1343,3110 1388,3110 1433,3110 1477,3110 1489,3113"/>
+                <TextEquiv>
+                    <Unicode>xxx xx xxx xxxxxx xxxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="213,3235 449,3187 783,3243 966,3216 1099,3279 1172,3231 1310,3231 1307,3131 930,3148 754,3098 556,3148 449,3083 208,3124"/>
+                <Baseline points="223,3167 268,3167 313,3167 358,3170 403,3176 447,3176 492,3176 537,3179 582,3179 626,3182 671,3185 716,3185 761,3188 806,3188 850,3191 895,3188 940,3191 985,3191 1030,3194 1074,3197 1119,3197 1164,3200 1209,3200 1253,3200 1298,3203 1316,3203"/>
+                <TextEquiv>
+                    <Unicode>xxxxx xx xxxx xx xxxxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>xx xxxxxx xxxxxx xx xx xxxx
+xx xxxxxxxx xx xxxxx
+xxxx
+xxxxxxx xxxxx xxxxxxxx
+xxxxxxx xxx xxxxx x xxxxxxxxx
+xxxx
+xxxxxxxx xxxxxx x xxxx
+xxx xx xxx xxxxxx xxxxxx
+xxxxx xx xxxx xx xxxxx</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

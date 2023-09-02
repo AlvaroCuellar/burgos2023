@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>444727</docId>
+    <title>ROJAS_CadaCual:Manuscrito)</title>
+    <uploadTimestamp>1596276591168</uploadTimestamp>
+    <uploader>alvaro.cuellar@uky.edu</uploader>
+    <uploaderId>64606</uploaderId>
+    <nrOfPages>67</nrOfPages>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_444727</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>73678</colId>
+            <colName>Manuscritos</colName>
+            <description>created by alvarocuellar1995@hotmail.com</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+        <colList>
+            <colId>75173</colId>
+            <colName>EnlazandoManuscritos</colName>
+            <description>created by alvarocuellar1995@hotmail.com</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <isInMain>false</isInMain>
+</trpDocMetadata>

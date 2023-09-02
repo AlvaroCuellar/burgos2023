@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>445636</docId>
+    <title>TIRSO_ComoHanDeSerLosAmigos(Manuscrito).pdf</title>
+    <uploadTimestamp>1596472819559</uploadTimestamp>
+    <uploader>alvarocuellar1995@hotmail.com</uploader>
+    <uploaderId>60373</uploaderId>
+    <nrOfPages>51</nrOfPages>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_445636</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>73678</colId>
+            <colName>Manuscritos</colName>
+            <description>created by alvarocuellar1995@hotmail.com</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+        <colList>
+            <colId>75173</colId>
+            <colName>EnlazandoManuscritos</colName>
+            <description>created by alvarocuellar1995@hotmail.com</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <isInMain>false</isInMain>
+</trpDocMetadata>
