@@ -28,7 +28,7 @@ results$overall.success.rate
 
 # Para PCA
 setwd("C:/novela/PCA")
-setwd("~/PCA")
+setwd("~/Desktop/novela/PCA")
 
 stylo()
 
